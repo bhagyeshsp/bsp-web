@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<article class="resource">
+  <header class="resource-header">
+    <h1 class="resource-title">{{ page.title }}</h1>
+  </header>
+
+  <div class="resource-content">
+    {{ content }}
+    
+    {% if page.file %}
+    <div class="download-section">
+      <h3>Download Resource</h3>
+      <a href="{{ site.baseurl }}/assets/downloads/{{ page.file }}" class="download-button">
+        Download {{ page.title }} ({{ page.filetype }})
+      </a>
+    </div>
+    {% endif %}
+  </div>
+</article>
+

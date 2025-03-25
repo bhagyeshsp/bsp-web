@@ -1,0 +1,46 @@
+# Site settings
+title: Thoughtful Essays
+email: your-email@example.com
+description: >-
+  A collection of essays and resources on technology, philosophy, and human potential.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+permalink: /essays/:title/
+
+# Collections
+collections:
+  resources:
+    output: true
+    permalink: /resources/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "resources"
+    values:
+      layout: "resource"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
+  - README.md
+  - .specstory
+
