@@ -436,9 +436,9 @@ iframe {
 #goToTopBtn {
   display: none; /* Hidden by default */
   position: fixed; /* Fixed position relative to the viewport */
-  bottom: 20px; /* Distance from the bottom */
-  right: 20px; /* Distance from the right */
-  z-index: 99; /* Make sure it's on top of other elements */
+  bottom: 50px; /* Distance from the bottom */
+  right: 90px; /* Distance from the right */
+  z-index: 9999; /* Make sure it's on top of other elements */
   border: none; /* Remove default border */
   outline: none; /* Remove default outline */
   background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
