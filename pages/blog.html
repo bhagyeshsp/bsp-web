@@ -1,0 +1,25 @@
+---
+layout: default
+title: Essays
+permalink: /blog/
+---
+
+<div class="blog">
+  <header class="page-header">
+    <h1 class="page-title">Essays</h1>
+    <p class="page-description">Thoughts on technology, philosophy, and human potential.</p>
+  </header>
+
+  <div class="post-list">
+    {% for post in site.posts %}
+      <article class="post-item">
+        <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+        <h2 class="post-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+        <p class="post-excerpt">{{ post.content | strip_html | truncatewords: 50 }}</p>
+      </article>
+    {% endfor %}
+  </div>
+</div>
+
