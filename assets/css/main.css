@@ -427,3 +427,28 @@ pre code {
   margin-bottom: 0; /* Adjusted margin */
   font-size: 0.9rem; /* Adjusted font size */
 }
+
+iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+#goToTopBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed position relative to the viewport */
+  bottom: 20px; /* Distance from the bottom */
+  right: 20px; /* Distance from the right */
+  z-index: 99; /* Make sure it's on top of other elements */
+  border: none; /* Remove default border */
+  outline: none; /* Remove default outline */
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+  color: white; /* Text color */
+  cursor: pointer; /* Change cursor on hover */
+  padding: 15px; /* Padding around the icon */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 18px; /* Font size */
+}
+
+#goToTopBtn:hover {
+  background-color: rgba(0, 0, 0, 0.7); /* Darken background on hover */
+}
