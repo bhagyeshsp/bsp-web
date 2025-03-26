@@ -68,11 +68,20 @@ ol {
   margin-bottom: 1.5rem;
 }
 
+ul li,
+ol li {
+  margin-left: 1.5rem; /* Indent list items */
+}
+
 p > img {
   max-width: 100%;
   height: auto;
   display: block;
   margin: 0 auto 1rem;
+}
+
+hr {
+  margin: 1.5rem 0;
 }
 
 a {
@@ -354,3 +363,67 @@ pre code {
   }
 }
 
+/* custom classes for reading list */
+
+.post-item-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.tag {
+  display: inline-block;
+  background-color: var(--light-bg);
+  padding: 0.25rem 0.5rem;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  border-radius: 1px;
+  font-size: 0.8rem;
+}
+
+/* Custom styles for reading list */
+.reading-list-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.reading-list-card {
+  background-color: var(--light-bg);
+  padding: 1.25rem; /* Adjusted padding */
+  border-radius: 4px;
+  height: 100%;
+  display: flex; /* Added flex display */
+  flex-direction: column; /* Added flex direction */
+  justify-content: space-between; /* Added space between */
+}
+
+.reading-list-image {
+  width: 100%;
+  height: 350px;         /* Fixed height */
+  object-fit: contain;   /* Preserve aspect ratio without cropping */
+  display: block;
+  margin-bottom: 1rem;
+  border-radius: 4px; /* Added border-radius */
+}
+
+.reading-list-title {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem; /* Adjusted font size */
+}
+
+.reading-list-tags {
+  display: flex;
+  align-items: center;
+  min-height: 30px;
+  margin-bottom: 0.5rem;
+}
+
+.reading-list-excerpt {
+  min-height: 180px;
+  margin-bottom: 0; /* Adjusted margin */
+  font-size: 0.9rem; /* Adjusted font size */
+}
