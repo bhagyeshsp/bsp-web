@@ -17,7 +17,7 @@ I shifted to publishing Sisyphus Notes. Unlike The Friday Newsletter, these note
 
 <br>
 <br>
-<h1 class="page-title">TFN Archive</h1>
+# TFN Archive
 <p class="page-description">The full archive of all letters sent under The Friday Newsletter.</p>
 
 
