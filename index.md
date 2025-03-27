@@ -11,7 +11,7 @@ If we were strangers riding an elevator and you asked me what I do, I'd answer "
 Then I'll ask you a question, you'll answer the question. Back-and-forth, back-and-forth.
 And what if we hit it off?
 
-Then eventually you'd learn the things I have listed in my [About Page]({{'/about' | relative_url}}). I need to update it, but still take a look.
+Then eventually you'd learn the things I have listed on my [About Page]({{'/about' | relative_url}}). I need to update it, but still take a look.
 
 ## What am I doing right now?
 See my [Now Page]({{'/now' | relative_url}}) to find out what I'm upto right now.
@@ -34,4 +34,18 @@ This *work with me* carries both meanings: you can hire my consultancy to provid
 Whichever the case, you can navigate to [Sisyphus Consulting](https://sisyphusconsulting.org?ref=bhagyeshpathak.com) and click the appropriate button.
 
 ## Contact me
-If you just want to say "hi", click here and my email will get copied. I reply to all emails. Almost immediately. I'm one of those people who likes to send and receive emails for fun.
+If you just want to say "hi", <a onclick="copyEmail()" class="copy-btn"> click here <span class="tooltip">Click to copy email</span> </a> and my email will get copied. I reply to all emails. Almost immediately. I'm one of those people who likes to send and receive emails for fun.
+
+And what about work emails? Uggh, emails for work? No thanks, [I use Basecamp](https:sisyphusconsulting.org/how-we-work?ref=bhagyeshpathak.com).
+
+
+
+<script>
+      function copyEmail() {
+          navigator.clipboard.writeText('bhagyeshspathak@gmail.com');
+          const btn = document.querySelector('.copy-btn');
+          const tooltip = btn.querySelector('.tooltip');
+          tooltip.textContent = 'Copied!';
+          setTimeout(() => tooltip.textContent = 'Click to copy', 2000);
+        }
+</script>

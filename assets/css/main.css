@@ -452,3 +452,30 @@ iframe {
 #goToTopBtn:hover {
   background-color: rgba(0, 0, 0, 0.7); /* Darken background on hover */
 }
+
+/* Styles the copy button and tool tips */
+.copy-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  /* color: inherit; */
+  padding: 0;
+  font: inherit;
+}
+.tooltip {
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 4px 8px;
+  background: #333;
+  color: white;
+  border-radius: 4px;
+  font-size: 12px;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+.copy-btn:hover .tooltip {
+  opacity: 1;
+}
