@@ -479,3 +479,33 @@ iframe {
 .copy-btn:hover .tooltip {
   opacity: 1;
 }
+/* Home page image container styles */
+.home-intro {
+  display: flex;
+  justify-content: space-between;
+  gap: 1.5rem;
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+  }
+}
+/* Home page image container */
+.home-image {
+  text-align: center;
+}
+
+  /* Image style on home page */
+.home-image > img {
+  max-width: 100%;
+  height: auto;  
+
+  @media (max-width: 768px) {
+    max-width: 70%;
+  }
+
+}
+  /* Image caption style on home page */
+.home-image > p {
+  font-size: small;
+  font-style: italic;
+}
