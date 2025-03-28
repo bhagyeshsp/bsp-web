@@ -1,42 +1,27 @@
 ---
 layout: page
-title: What I'm doing now
+title: What I'm upto?
 permalink: /now/
 ---
-*I need to update this about section...but enjoy it while it lasts:*
+*(This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)*
 
-10 years ago, I received an offer I couldn’t refuse.
+Updated on March 28th, 2025 from my desk
 
-How could I have turned down the chance to embark on an incredible journey? It was aboard a state-of-the-art train, covering 17,000 km, and traversing every Indian state non-stop for 7 months. This experience not only introduced me to the world of work but also transformed my outlook on life. It was vibrant, challenging, and youthful, in short — enchanting.
+Right now I'm residing in Ahmedabad. March-June months are typically quite hot here. And they're getting hotter (until early 2000s the media and "experts" were saying it is due to some Ozone layer hole. Then they started saying that it is due to Global Warming. Now I'm convinced it is due to Climate Change). Let's see how this season goes.
 
-Over the past decade, I’ve primarily collaborated with founders of various organizations, predominantly small to medium-sized ones, helping bring their visions to life.
+## Watching, reading...
+I'm not binging any web series at the moment. And reading is a continuous process. Right now in the middle of "Seven years in Tibet". Looks like I'm going to leave this read reserved for travel. I found it more enjoying while traveling.
 
-As my capacity allows me to take on only a limited number of assignments each year, I’m excited about the prospect of working with an exceptional group of individuals in the next decade.
+## Working...
+There are couple of things I'm working on:
+- Catering to a few clients on their tech solutions.
+- Creating professional-grade physical copies of the [Wu Wei Cards]({{'/shop##if-youre-in-the-business-of-facilitation' | relative_url}}). I'm quite excited about putting them in the market.
+- Creating a simple Meal Planner app. We have been using a pen-and-paper meal planner at my home for more than 6 months. It is time to create an app. The app is almost ready. I tried to over-engineer it for offline capabilities and it was soo difficult that I abandoned the idea. Now improving the online-only version.
+- Coming up: a web template marketplace. [I recently published an open-source Jekyll template](https://github.com/bhagyeshsp/jekyll-objectivist-theme). This upcoming marketplace will have such templates: some free and some premium.
 
-Frequently, people ask me about the types of assignments I can assist with. While I can certainly provide a list of my past projects, there’s no guarantee that my next assignment will mirror my previous ones.
+## Travel plans...
+No immediate leisure travel plans. Maybe a trip in and around Pune in couple of weeks, for work. And that's not travel.
 
-For instance, I’ve:
+## Writing...
+I'm working on an essay about Artificial Intelligence. [I published one]({{ site.baseurl }}{% post_url 2024-08-06-to-ai-or-not-to-ai %}) a few months ago on the same subject. Experiencing the effects of AI first-hand, I won't be surprised if I wrote a couple more essays on the subject.
 
-- Implemented systems for data collection, analysis, and monitoring for a dynamic organization.
-- Set up a marketing funnel and email dispatch system for a U.S.-based startup.
-- Created compelling scripts and teaching aids for unique educational concepts.
-- Established an in-house monitoring system for 10,000 students and over 100 schools.
-- Revitalized a decade-old scholarship system for improved efficiency and transparency.
-- Shaped a curriculum that was adopted by the Delhi Government.
-- Orchestrated multiple data collection and analysis exercises.
-- Developed an innovative human development-centric impact assessment program for residential training, a one-of-its-kind initiative.
-- Played a pivotal role in designing a mobile tools workshop to expand outreach in rural areas.
-- Collaborated on the development and delivery of STEM curriculum, kits, and sessions.
-- Contributed to R&D efforts to enhance content for tablet-based learning.
-- Embarked on a 7-month journey promoting STEM education in a unique train-based initiative.
-
-So, what’s on your mind?
-
-Please don’t think that your project is mundane or boring.
-
-I have a knack for turning boring things into interesting.
-That’s my work.
-
-Relax and drop a message to me. Or write to me ➡️ <mark class="has-inline-color has-ast-global-color-0-color" style="background-color:rgba(0, 0, 0, 0)">contact@bhagyeshpathak.com</mark>
-
-See you!
