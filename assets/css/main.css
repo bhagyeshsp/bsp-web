@@ -148,12 +148,13 @@ pre code {
 .site-nav {
   display: flex;
   flex-wrap: wrap;
-  gap: 1.5rem;
+  gap: 1rem;
 }
 
 .nav-link {
   color: var(--text-color);
   text-decoration: none;
+  font-weight: 600;
 }
 
 .nav-link:hover,
