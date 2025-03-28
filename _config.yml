@@ -4,8 +4,8 @@ email: ""
 description: >-
   A collection of essays and resources on technology, philosophy, and human potential.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
+url: "https://bhagyeshpathak.com" # the base hostname & protocol for your site, e.g. http://example.com
+google_site_verification: ""
 # Build settings
 markdown: kramdown
 
@@ -32,6 +32,10 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+
+plugins:
+  - jekyll-sitemap    # Helps with SEO and site indexing
+  - jekyll-seo-tag
 
 # Exclude from processing
 exclude:
