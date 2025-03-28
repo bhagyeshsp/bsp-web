@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <title>Can EVMs be REALLY hacked? | Bhagyesh Pathak</title>
+  <meta name="description" content="A collection of essays and resources on technology, philosophy, and human potential.">
+  
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="https://bhagyeshpathak.com/blog/can-evms-be-really-hacked">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  
+  
+</head>
+
+
+  <body>
+    <div class="container">
+      <header class="site-header">
+  <div class="site-title">
+    <a href="/">Bhagyesh Pathak</a>
+  </div>
+  <div class="container">
+  <nav class="site-nav">
+    <a href="/" class="nav-link ">Home</a>
+    <a href="/blog" class="nav-link active">Blog</a>
+    <a href="/newsletter" class="nav-link ">Newsletter</a>
+    <a href="/now" class="nav-link ">Now</a>
+    </nav>
+    <nav class="site-nav">
+    <a href="/reading-list" class="nav-link ">Reading List</a>
+    <a href="/listening-list" class="nav-link ">Listening List</a>
+    <a href="/shop" class="nav-link ">Shop</a>
+  </nav>
+  </div>
+</header>
+
+
+      <main>
+        <article class="post">
+  <header class="post-header">
+    <h1 class="post-title">Can EVMs be REALLY hacked?</h1>
+    <p class="post-meta">June 17, 2024</p>
+  </header>
+
+  <div class="post-content">
+    <p>I have been tinkering with microcontrollers since childhood and I can see the gap in the communication here. Between Rajeev and Musk.</p>
+
+<blockquote>
+  <p>This is a huge sweeping generalization statement that implies no one can build secure digital hardware. Wrong. <a href="https://twitter.com/elonmusk?ref_src=twsrc%5Etfw">@elonmusk</a> ‘s view may apply to US n other places – where they use regular compute platforms to build Internet connected Voting machines.</p>
+
+  <p>But Indian EVMs are custom…</p>
+
+  <p>— Rajeev Chandrasekhar 🇮🇳 (@RajeevRC_X) <a href="https://twitter.com/RajeevRC_X/status/1802195948254466461?ref_src=twsrc%5Etfw">June 16, 2024</a></p>
+</blockquote>
+
+<p>So, here’s the gap that no one is addressing:</p>
+
+<h5 id="1-any-hardwaresoftware-is-hackable">1. Any hardware/software is hackable</h5>
+
+<p>Anything that is understandable by us, is hackable. In fact, in this context, what we really mean is “cracking”. Legendary hacker ESR has talked about the difference between hacking and cracking in his famous “How To Become A Hacker” guide.[1]</p>
+
+<p>To quote him:<br />
+<em>“There is another group of people who loudly call themselves hackers, but aren’t. These are people (mainly adolescent males) who get a kick out of breaking into computers and phreaking the phone system. Real hackers call these people ‘crackers’ and want nothing to do with them. Real hackers mostly think crackers are lazy, irresponsible, and not very bright, and object that being able to break security doesn’t make you a hacker any more than being able to hotwire cars makes you an automotive engineer. Unfortunately, many journalists and writers have been fooled into using the word ‘hacker’ to describe crackers; this irritates real hackers no end.</em></p>
+
+<p><em>The basic difference is this: hackers build things, crackers break them.”</em></p>
+
+<p>(I will continue using the term ‘hack’ while actually I mean ‘crack’.)</p>
+
+<p>So, the question is, is it possible to hack anything? Theoretically, yes.</p>
+
+<p>In that case, this X account, my Credit Cards, my Bank accounts, the aeroplanes.. anything can be hacked.</p>
+
+<p>Then, why aren’t they already?</p>
+
+<p>Why hasn’t Russia hacked Ukraine and the US’s most important defences or vice versa?</p>
+
+<h5 id="2-you-need-access-to-hack-anything">2. You need access to hack anything</h5>
+
+<p>The traditional iron lock at the front gate of my home is 70 years old and still functions. It is easily hackable.</p>
+
+<p>But you. YOU, the reader, can’t hack it. Because you’re sitting somewhere far away and don’t have access to my lock.</p>
+
+<p>Similarly, if you can’t access EVMs, or my TV remote, you can’t hack them. (That’s the reason, why cutting-edge defence technology is not published. Limiting access, you know.)</p>
+
+<p>There’s a reason why Osama Bin Laden and the terrorist teams had to #hijack the aeroplanes. They HAD TO access them, to make it do what they wanted. Same goes for the rare events where thieves steal whole ATM machine and try to dismantle it.</p>
+
+<h5 id="3-access-alone-doesnt-allow-hacking">3. Access alone doesn’t allow hacking</h5>
+
+<p>Let’s imagine, you got access to my home lock, an EVM or my TV remote.</p>
+
+<p>How much time would it take you to hack these things?<br />
+5 minutes?<br />
+10 minutes?<br />
+60 minutes?</p>
+
+<p>You can’t be sure.<br />
+Because you don’t know the inner workings of these things. You would need a reasonable amount of time to understand the mechanisms, and then modify the workings, if possible.</p>
+
+<h5 id="4-decentralization-is-the-key">4. Decentralization is the key</h5>
+
+<p>As per the Election Commission of India’s estimate of conducting simultaneous elections, they would require 3 million EVM machines.[2]</p>
+
+<p>Mind you, these are standalone units. So, even if you could seize one of these heavily guarded EVM units for your hacking project, you won’t be able to change the election outcome. (And while you’d be tinkering with the seized EVM machine in your lab, the special forces would be looking for you. A fearful hacker soon becomes a tearful cracker.)</p>
+
+<h5 id="5-paper-trail-using-vvpat">5. Paper trail using VVPAT</h5>
+
+<p>Every voter can confirm their vote by seeing a live printout of their vote, which gets sealed along with the EVM unit.[3]</p>
+
+<p>It is like the Advanced Renamer utility that I use on the computer. Once I have renamed my 1000+ files, the software also gives me a detailed changelog, in case I want to track if everything has gone well.[4]</p>
+
+<p>A certain % of VVPAT is also counted for reconciliation.</p>
+
+<h5 id="hand-over-one-evm-unit-and-i-will-hack-it">“Hand over one EVM unit and I will hack it”</h5>
+
+<p>These people either don’t understand the whole system in place, or they’re in the business of seeding doubts in the psyche of general population.[5]</p>
+
+<p>Of course, with sufficient knowledge, lab and time, anyone can hack anything, including the EVM. But that’s exactly why the system doesn’t let anyone touch it. [6]</p>
+
+<p>For example, if you had a supercomputer and you wanted to hack in my account using this password (assuming there’s no 2FA), it would take you 109 B years![7] If you’ve got a supercomputer and 109 B years of time, welcome to hack my password.</p>
+
+<p>In summary, the people who jump to resorting to Ballot Box citing the hackability of EVMs are either misinformed or intentional about shaking the processes of democracy. Because we know the history.</p>
+
+<p><strong>References and Foot notes:</strong> [1] How To Become A Hacker: http://catb.org/~esr/faqs/hacker-howto.html</p>
+
+<p>[2]Election Commission will require around 30 lakh EVMs, 1.5-year preparation time for simultaneous polls to LS, assemblies: https://economictimes.indiatimes.com/news/india/election-commission-will-require-around-30-lakh-evms-1-5-year-preparation-time-for-simultaneous-polls-to-ls-assemblies/articleshow/104731346.cms?from=mdr</p>
+
+<p>[3] Voter-verified Paper Audit Trail: https://en.wikipedia.org/wiki/Voter-verified_paper_audit_trail</p>
+
+<p>[4]🪜Rename 100 files for 100 team members under a second: https://get.bhagyeshpathak.com/posts/rename-100-files-for-100-team-members-under-a-second</p>
+
+<p>[5] Archemedes had famously said “Give me a lever <em>long enough</em> and a fulcrum on which to place it, and I shall move the world/Earth.” We know theoretically it is possible to move the Earth if the lever is strong and long enough and a fulcrum to support the lever. But is it practical?</p>
+
+<p>[6] Now, there’s a notion that “the system is not letting us touch the EVMs in our private garage. THAT MEANS they’re rigged”. There is a flaw in this logic. Once a piece of information is declassified, it is no longer secure. Classification is one of the primary security layers.</p>
+
+<p>[7]🪜How strong is your password? Check and generate memorable passwords:</p>
+
+  </div>
+
+  
+    
+    
+    
+    
+    
+    
+
+    
+      
+    
+      
+    
+      
+    
+      
+        
+        
+        
+
+    
+  
+
+  
+  
+
+  <div class="post-navigation">
+    
+      <a class="prev" href="/blog/our-app-doesnt-have-ai-is-the-new-differentiator-now">&larr; “Our app doesn’t have AI” is the new differentiator now</a>
+    
+    
+      <a class="next" href="/blog/to-ai-or-not-to-ai">To AI or not to AI? &rarr;</a>
+    
+  </div>
+</article>
+
+
+      </main>
+      <footer class="site-footer">
+  <div class="footer-content">
+    <p>&copy; 2025 Bhagyesh Pathak. All rights reserved.</p>
+    <p class="footer-links">
+      <a href="/about">About</a>
+      <a href="mailto:">Contact</a>
+    </p>
+  </div>
+</footer>
+
+
+    </div>
+    <button id="goToTopBtn" title="Go to top">
+      <i class="fas fa-chevron-up"></i>
+    </button>
+    <script>
+      // When the user scrolls down 20px from the top of the document, show the button
+      window.onscroll = function() {scrollFunction()};
+      
+      function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+          document.getElementById("goToTopBtn").style.display = "block";
+        } else {
+          document.getElementById("goToTopBtn").style.display = "none";
+        }
+      }
+      
+      // When the user clicks on the button, scroll to the top of the document
+      document.getElementById("goToTopBtn").addEventListener("click", function(){
+          // For Safari
+          document.body.scrollTop = 0;
+      
+          // For Chrome, Firefox, IE and Opera
+          document.documentElement.scrollTop = 0;
+      });
+      
+        </script>
+        
+        <script data-goatcounter="https://bhagyeshpathak.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
+  </body>
+  
+</html>
+

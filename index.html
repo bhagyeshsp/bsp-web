@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <title>Home | Bhagyesh Pathak</title>
+  <meta name="description" content="A collection of essays and resources on technology, philosophy, and human potential.">
+  
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="https://bhagyeshpathak.com/">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  
+  
+</head>
+
+
+  <body>
+    <div class="container">
+      <header class="site-header">
+  <div class="site-title">
+    <a href="/">Bhagyesh Pathak</a>
+  </div>
+  <div class="container">
+  <nav class="site-nav">
+    <a href="/" class="nav-link active">Home</a>
+    <a href="/blog" class="nav-link ">Blog</a>
+    <a href="/newsletter" class="nav-link ">Newsletter</a>
+    <a href="/now" class="nav-link ">Now</a>
+    </nav>
+    <nav class="site-nav">
+    <a href="/reading-list" class="nav-link ">Reading List</a>
+    <a href="/listening-list" class="nav-link ">Listening List</a>
+    <a href="/shop" class="nav-link ">Shop</a>
+  </nav>
+  </div>
+</header>
+
+
+      <main>
+        <div class="home-intro">
+    <div class="home-text">
+        <p>Hi, let's make this easy.</p>
+        <p>My name is Bhagyesh Pathak.</p>
+        <p>If we were strangers riding an elevator and you asked me what I do, I'd answer "I provide tech and design solutions to businesses through my firm named <a href="https://sisyphusconsulting.org?ref=bhagyeshpathak.com">Sisyphus Consulting</a>. We focus only a select few things and do them right."</p>
+        <p>Then I'll ask you a question, you'll answer the question. Back-and-forth, back-and-forth.
+        And what if we hit it off?</p>
+        <p>Then eventually you'd learn the things I have listed on my <a href="/about/">About Page</a>. I need to update it, but still take a look.</p>
+</div>
+    <div class="home-image">
+        <img src="/assets/images/the_wall_experience.jpg" alt="The Wall Experience" />
+        <p>Painted from my "Wall Experience"</p>
+    </div>
+</div>
+
+<h2 id="what-im-doing-nowadays">What I’m doing nowadays?</h2>
+<p>See my <a href="/now">Now Page</a> to find out what I’m upto.</p>
+
+<h2 id="what-do-i-write-about">What do I write about?</h2>
+<p>I mostly write about tech, design, marketing, behaviour change, organization development, change management etc. You can find those ideas in my <a href="/blog">Blog Page</a>. I also publish a not-so regular newsletter called <a href="/newsletter">Sisyphus Notes</a>. Oh and before that, I used to publish The Friday Newsletter. You can find its full archive <a href="/newsletter#tfn-archive">here</a>.</p>
+
+<h2 id="my-bookshelf">My bookshelf</h2>
+<p>Being an avid reader, I have collected a number of books over the years. And read many of them. I have listed some of my favourite ones on my virtual bookshelf under my <a href="/reading-list">Reading List Page</a>. You may not be able to pay a visit to my physical bookshelf, but this is the closest you can get.</p>
+
+<h2 id="listener-instead">Listener instead?</h2>
+<p>I know a few people who’ll devour a 2-hour podcast in a single sitting, but they’ll never flip a page of a book. If you are one of them, you can check out my <a href="/listening-list">Listening List Page</a>. I only listen to a handful of podcasts or audio tracks, not a big fan of the format, but who doesn’t like the variety once in a while?</p>
+
+<h2 id="work-with-me">Work with me(?)</h2>
+<p>I think when people write “work with me” on their website, there are two possible connotations:</p>
+<ol>
+  <li>A polite, non-needy way of saying “hire me”</li>
+  <li>An invitation to join ongoing work at their firm</li>
+</ol>
+
+<p>This <em>work with me</em> carries both meanings: you can hire my consultancy to provide you with services and if you’re looking for work, you can check with me.
+Whichever the case, you can navigate to <a href="https://sisyphusconsulting.org?ref=bhagyeshpathak.com">Sisyphus Consulting</a> and click the appropriate button.</p>
+
+<h2 id="contact-me">Contact me</h2>
+<p>If you just want to say “hi”, <a onclick="copyEmail()" class="copy-btn"> click here <span class="tooltip">Click to copy email</span> </a> and my email will get copied. I reply to all emails. Almost immediately. I’m one of those people who likes to send and receive emails for fun.</p>
+
+<p>And what about work emails? Uggh, emails for work? No thanks, <a href="https:sisyphusconsulting.org/how-we-work?ref=bhagyeshpathak.com">I use Basecamp</a>.</p>
+
+<script>
+      function copyEmail() {
+          navigator.clipboard.writeText('bhagyeshspathak@gmail.com');
+          const btn = document.querySelector('.copy-btn');
+          const tooltip = btn.querySelector('.tooltip');
+          tooltip.textContent = 'Copied!';
+          setTimeout(() => tooltip.textContent = 'Click to copy', 2000);
+        }
+</script>
+
+
+      </main>
+      <footer class="site-footer">
+  <div class="footer-content">
+    <p>&copy; 2025 Bhagyesh Pathak. All rights reserved.</p>
+    <p class="footer-links">
+      <a href="/about">About</a>
+      <a href="mailto:">Contact</a>
+    </p>
+  </div>
+</footer>
+
+
+    </div>
+    <button id="goToTopBtn" title="Go to top">
+      <i class="fas fa-chevron-up"></i>
+    </button>
+    <script>
+      // When the user scrolls down 20px from the top of the document, show the button
+      window.onscroll = function() {scrollFunction()};
+      
+      function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+          document.getElementById("goToTopBtn").style.display = "block";
+        } else {
+          document.getElementById("goToTopBtn").style.display = "none";
+        }
+      }
+      
+      // When the user clicks on the button, scroll to the top of the document
+      document.getElementById("goToTopBtn").addEventListener("click", function(){
+          // For Safari
+          document.body.scrollTop = 0;
+      
+          // For Chrome, Firefox, IE and Opera
+          document.documentElement.scrollTop = 0;
+      });
+      
+        </script>
+        
+        <script data-goatcounter="https://bhagyeshpathak.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
+  </body>
+  
+</html>
+
