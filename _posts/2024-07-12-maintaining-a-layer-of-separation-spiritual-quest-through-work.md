@@ -3,7 +3,7 @@ title: "TFN#61: \U0001FA9CMaintaining a layer of separation: Spiritual quest thr
   work"
 date: '2024-07-12T09:30:18+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cmaintaining-a-layer-of-separation-spiritual-quest-through-work"
+
 author: Bhagyesh Pathak
 excerpt: A few years back, I learnt about Vipassana Meditation. No, I didn't go for
   it, and shortly, I will explain why. But some of my friends recommended it, while

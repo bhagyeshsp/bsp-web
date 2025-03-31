@@ -2,7 +2,7 @@
 title: "TFN#10: Change your mind about this and \U0001F4AA\U0001F3FB10x your judgment"
 date: '2023-07-21T10:00:00+05:30'
 status: publish
-permalink: "/blog/tfn10-change-your-mind-about-this-and-%f0%9f%92%aa%f0%9f%8f%bb10x-your-judgment"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

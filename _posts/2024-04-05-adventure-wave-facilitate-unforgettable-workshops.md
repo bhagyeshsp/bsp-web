@@ -2,7 +2,7 @@
 title: "TFN#47: \U0001FA9C Adventure Wave: Facilitate unforgettable workshops"
 date: '2024-04-05T12:51:59+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-adventure-wave-facilitate-unforgettable-workshops"
+
 author: Bhagyesh Pathak
 excerpt: '"Let''s begin with an icebreaker activity!" If you''ve been to work-related
   "team building" meetings, you''d have heard this a zillion times. I''m that guy

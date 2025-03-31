@@ -3,7 +3,7 @@ title: "TFN#70: \U0001FA9CToday we create a tiny folder-generator software using
   You can do it. Trust me."
 date: '2024-09-13T10:30:24+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9ctoday-we-create-a-tiny-folder-generator-software-using-notepad-you-can-do-it-trust-me"
+
 author: Bhagyesh Pathak
 excerpt: 'Trust me, it is worth spending 5 minutes of your life.All you need is Notepad
   on a Windows PC and NO programming knowledge.You may wonder, why we would go to

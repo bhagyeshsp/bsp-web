@@ -3,7 +3,7 @@ title: "TFN#42: \U0001FA9CSkill Cards: How to truly assess your skills and plan 
   path"
 date: '2024-03-01T09:30:04+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cskill-cards-how-to-truly-assess-your-skills-and-plan-career-path"
+
 author: Bhagyesh Pathak
 excerpt: Every time, in my resume, when I had to choose what to write about my strengths,
   I used to feel claustrophobic. I felt as if I had just a handful of words that I

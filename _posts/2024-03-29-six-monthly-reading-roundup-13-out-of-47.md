@@ -2,7 +2,7 @@
 title: "TFN#46: \U0001FA9C Six-monthly reading roundup | 13 out of 47"
 date: '2024-03-29T11:09:15+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-six-monthly-reading-roundup-13-out-of-47"
+
 author: Bhagyesh Pathak
 excerpt: So, I got the idea of sharing a reading roundup in August when I was traveling
   and trying to write a letter. And couldn’t write anything. That’s when I came up

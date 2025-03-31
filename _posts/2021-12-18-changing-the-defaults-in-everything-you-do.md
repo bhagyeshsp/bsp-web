@@ -2,7 +2,7 @@
 title: Changing the defaults in everything you do
 date: '2021-12-18T13:26:54+05:30'
 status: publish
-permalink: "/blog/changing-the-defaults-in-everything-you-do"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

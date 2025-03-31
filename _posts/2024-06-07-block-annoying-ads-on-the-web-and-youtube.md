@@ -2,7 +2,7 @@
 title: "TFN#56: \U0001FA9CBlock annoying ads on the web and YouTube"
 date: '2024-06-07T09:30:13+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cblock-annoying-ads-on-the-web-and-youtube"
+
 author: Bhagyesh Pathak
 excerpt: Imagine, you wake up in a 9 square meter room. There are screens all around
   you. You go to some physical labour work in the morning and come back to your room,

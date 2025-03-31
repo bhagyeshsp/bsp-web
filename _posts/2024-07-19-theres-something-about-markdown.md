@@ -2,7 +2,7 @@
 title: "TFN#62: \U0001FA9CThere’s something about Markdown"
 date: '2024-07-19T10:30:10+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9ctheres-something-about-markdown"
+
 author: Bhagyesh Pathak
 excerpt: 'Have you tried ChatGPT?One of the things that I love about it is the way
   it organizes its responses. The cleanliness it shows.Take this ChatGPT response

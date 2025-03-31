@@ -2,7 +2,7 @@
 title: A year of Friday Letters
 date: '2024-05-13T14:01:00+05:30'
 status: publish
-permalink: "/blog/a-year-of-friday-letters"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

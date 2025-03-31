@@ -2,7 +2,7 @@
 title: "TFN#41: \U0001FA9C The easiest way to explain visually: Murder Maps"
 date: '2024-02-23T09:36:49+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-the-easiest-way-to-explain-visually-murder-maps"
+
 author: Bhagyesh Pathak
 excerpt: 'If you’re a fan of suspense thriller movies like me, you’d have seen one
   of these murder maps in some scenes. (I didn’t know it is called that until now)

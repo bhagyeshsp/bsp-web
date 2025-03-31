@@ -2,7 +2,7 @@
 title: 'TFN #6: The surprising power of touch-point Maps + My fav retreat Video'
 date: '2023-06-23T10:00:00+05:30'
 status: publish
-permalink: "/blog/the-surprising-power-of-touch-point-maps-my-fav-retreat-video"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

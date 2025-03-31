@@ -2,7 +2,7 @@
 title: Which side of the table?
 date: '2021-07-17T22:12:03+05:30'
 status: publish
-permalink: "/blog/which-side-of-the-table"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

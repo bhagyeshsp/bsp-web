@@ -3,7 +3,7 @@ title: "TFN#76: \U0001FA9C(Part-1/2) Deep clean your PC: Find out heavy files an
   folders"
 date: '2024-10-25T10:30:48+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cpart-1-2-deep-clean-your-pc-find-out-heavy-files-and-folders"
+
 author: Bhagyesh Pathak
 excerpt: Since my childhood, the Diwali season has been the season of cleaning. It's
   like the Spring season. Every corner of the home should look new, dusted, and organized.

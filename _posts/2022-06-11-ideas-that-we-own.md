@@ -2,7 +2,7 @@
 title: Ideas that we own
 date: '2022-06-11T10:30:00+05:30'
 status: publish
-permalink: "/blog/ideas-that-we-own"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

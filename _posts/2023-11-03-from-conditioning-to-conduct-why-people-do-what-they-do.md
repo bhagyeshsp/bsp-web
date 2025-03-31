@@ -2,7 +2,7 @@
 title: "TFN#25: \U0001FA9C From Conditioning to Conduct: Why people do what they do?"
 date: '2023-11-03T09:30:12+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-from-conditioning-to-conduct-why-people-do-what-they-do"
+
 author: Bhagyesh Pathak
 excerpt: 'Interesting question, isn’t it? Especially in the workplace, we ask this
   a lottt. Why is he like that?” What does she think of herself?” Why does he chicken

@@ -2,7 +2,7 @@
 title: "TFN#74: \U0001FA9CThe problem with averages and dashboards"
 date: '2024-10-11T10:30:55+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cthe-problem-with-averages-and-dashboards"
+
 author: Bhagyesh Pathak
 excerpt: 'Tell me something, would you step into a river that is on average 4 feet
   deep?Take a pause. If your mind shouted NO right away, you don''t need to look at

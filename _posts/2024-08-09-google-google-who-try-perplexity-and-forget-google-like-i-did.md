@@ -3,7 +3,7 @@ title: "TFN#65: \U0001FA9CGoogle? Google who? Try perplexity and forget Google l
   I did"
 date: '2024-08-09T10:30:14+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cgoogle-google-who-try-perplexity-and-forget-google-like-i-did"
+
 author: Bhagyesh Pathak
 excerpt: Remember the old Google Search Result Page? Did you know that the word Google
   is based on the word "Googol", a mathematical term for the number one followed by

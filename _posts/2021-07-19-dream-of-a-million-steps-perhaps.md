@@ -2,7 +2,7 @@
 title: Dream of a million steps perhaps?
 date: '2021-07-19T18:57:09+05:30'
 status: publish
-permalink: "/blog/dream-of-a-million-steps-perhaps"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

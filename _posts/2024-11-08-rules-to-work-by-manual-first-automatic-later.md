@@ -2,7 +2,7 @@
 title: "TFN#78: \U0001FA9CRules to work by: Manual first, automatic later"
 date: '2024-11-08T10:30:12+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9crules-to-work-by-manual-first-automatic-later"
+
 author: Bhagyesh Pathak
 excerpt: Most things in our lives are now automatic:We don't go fetch water, it automatically
   reaches us.We don't need to generate electricity, it reaches us.We don't need to

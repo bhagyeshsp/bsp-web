@@ -2,7 +2,7 @@
 title: The volatility of our patience
 date: '2022-06-18T10:30:00+05:30'
 status: publish
-permalink: "/blog/the-volatility-of-our-patience"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

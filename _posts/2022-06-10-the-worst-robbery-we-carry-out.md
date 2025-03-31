@@ -2,7 +2,7 @@
 title: The worst robbery we carry out
 date: '2022-06-10T10:30:00+05:30'
 status: publish
-permalink: "/blog/the-worst-robbery-we-carry-out"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

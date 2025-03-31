@@ -2,7 +2,7 @@
 title: "TFN#32: \U0001FA9C The triangle of conflict and how to break it"
 date: '2023-12-22T09:31:11+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-the-triangle-of-conflict-and-how-to-break-it"
+
 author: Bhagyesh Pathak
 excerpt: 'If you remember, in my letter From Conditioning to Consciousness: Why People
   Do What They Do, we discussed the circle of conditioning. Few of the readers expressed

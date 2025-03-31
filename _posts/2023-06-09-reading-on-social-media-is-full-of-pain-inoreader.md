@@ -2,7 +2,7 @@
 title: 'TFN #4: Reading on social media is full of pain-InoReader'
 date: '2023-06-09T10:00:00+05:30'
 status: publish
-permalink: "/blog/reading-on-social-media-is-full-of-pain-inoreader"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

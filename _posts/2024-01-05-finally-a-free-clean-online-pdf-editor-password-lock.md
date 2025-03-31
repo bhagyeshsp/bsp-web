@@ -2,7 +2,7 @@
 title: "TFN#34: \U0001FA9C Finally! A free, clean, online PDF editor + password-lock"
 date: '2024-01-05T09:30:19+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-finally-a-free-clean-online-pdf-editor-password-lock"
+
 author: Bhagyesh Pathak
 excerpt: 'Yes, that’s what we are going to talk about today: PDF editor. But before
   that, I hope you kicked off your new year with renewed zeal. As for me, I have already

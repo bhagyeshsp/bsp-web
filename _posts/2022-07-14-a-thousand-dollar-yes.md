@@ -2,7 +2,7 @@
 title: A thousand dollar YES
 date: '2022-07-14T10:30:00+05:30'
 status: publish
-permalink: "/blog/a-thousand-dollar-yes"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

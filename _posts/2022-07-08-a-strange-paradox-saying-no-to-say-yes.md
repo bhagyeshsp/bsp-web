@@ -2,7 +2,7 @@
 title: 'A strange paradox: saying NO to say YES'
 date: '2022-07-08T10:30:00+05:30'
 status: publish
-permalink: "/blog/a-strange-paradox-saying-no-to-say-yes"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

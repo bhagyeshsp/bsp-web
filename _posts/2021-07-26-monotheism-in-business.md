@@ -2,7 +2,7 @@
 title: Monotheism in business
 date: '2021-07-26T18:40:33+05:30'
 status: publish
-permalink: "/blog/monotheism-in-business"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

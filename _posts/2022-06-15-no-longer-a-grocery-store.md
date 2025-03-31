@@ -2,7 +2,7 @@
 title: No longer a grocery store
 date: '2022-06-15T10:30:00+05:30'
 status: publish
-permalink: "/blog/no-longer-a-grocery-store"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

@@ -2,7 +2,7 @@
 title: Show, don’t tell
 date: '2021-02-16T18:19:36+05:30'
 status: publish
-permalink: "/blog/show-dont-tell"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

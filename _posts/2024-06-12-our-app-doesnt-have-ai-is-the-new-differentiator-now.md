@@ -2,7 +2,7 @@
 title: "“Our app doesn’t have AI” is the new differentiator now"
 date: '2024-06-12T20:17:33+05:30'
 status: publish
-permalink: "/blog/our-app-doesnt-have-ai-is-the-new-differentiator-now"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

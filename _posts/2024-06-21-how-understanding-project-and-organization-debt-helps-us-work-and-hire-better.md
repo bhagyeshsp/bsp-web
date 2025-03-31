@@ -3,7 +3,7 @@ title: "TFN#58: \U0001FA9CHow understanding project and organization debt helps 
   work and hire better"
 date: '2024-06-21T10:31:01+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9chow-understanding-project-and-organization-debt-helps-us-work-and-hire-better"
+
 author: Bhagyesh Pathak
 excerpt: 'A few days back, I came across this job listing by Gumroad. And it is something
   important that we need to talk about. It doesn''t matter whether you work in the

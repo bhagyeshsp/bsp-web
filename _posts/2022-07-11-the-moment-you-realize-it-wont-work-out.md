@@ -2,7 +2,7 @@
 title: The moment you realize it won’t work out
 date: '2022-07-11T10:30:00+05:30'
 status: publish
-permalink: "/blog/the-moment-you-realize-it-wont-work-out"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

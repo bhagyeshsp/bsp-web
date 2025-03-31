@@ -3,7 +3,7 @@ title: "TFN#64: \U0001FA9CRules to work by: A little variation in process leads 
   a little variation in output"
 date: '2024-08-02T10:30:19+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9crules-to-work-by-a-little-variation-in-process-leads-to-a-little-variation-in-output"
+
 author: Bhagyesh Pathak
 excerpt: Reader, have you ever prepared dosa?I mean dosa batter?If you have prepared
   it, you know that no two people's dosa batter comes out the same. Even with the

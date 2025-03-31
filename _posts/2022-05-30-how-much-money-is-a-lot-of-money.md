@@ -2,7 +2,7 @@
 title: How much money is a lot of money?
 date: '2022-05-30T10:08:52+05:30'
 status: publish
-permalink: "/blog/how-much-money-is-a-lot-of-money"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

@@ -2,7 +2,7 @@
 title: "TFN#16: \U0001FA9C Negative space, white space…what is it?"
 date: '2023-09-01T09:30:00+05:30'
 status: publish
-permalink: "/blog/tfn16-%f0%9f%aa%9c-negative-space-white-spacewhat-is-it"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

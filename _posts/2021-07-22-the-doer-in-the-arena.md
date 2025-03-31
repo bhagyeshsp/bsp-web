@@ -2,7 +2,7 @@
 title: The doer in the arena
 date: '2021-07-22T19:29:51+05:30'
 status: publish
-permalink: "/blog/the-doer-in-the-arena"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

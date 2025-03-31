@@ -2,7 +2,7 @@
 title: "TFN#26: \U0001FA9C Your Diwali Homework!"
 date: '2023-11-10T09:30:09+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-your-diwali-homework"
+
 author: Bhagyesh Pathak
 excerpt: Reader, I don’t know about you, but I used to hate Diwali homework during
   my school life. Whoever invented it, must have a natural talent to suck joy out

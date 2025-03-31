@@ -2,7 +2,7 @@
 title: 'TFN#7: The Power of Outline + Early access to my mini handbook!'
 date: '2023-06-30T10:00:00+05:30'
 status: publish
-permalink: "/blog/tfn7-the-power-of-outline-early-access-to-my-mini-handbook"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

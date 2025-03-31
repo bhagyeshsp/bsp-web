@@ -2,7 +2,7 @@
 title: Stand Here for Dance Party
 date: '2021-07-27T18:59:14+05:30'
 status: publish
-permalink: "/blog/stand-here-for-dance-party"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

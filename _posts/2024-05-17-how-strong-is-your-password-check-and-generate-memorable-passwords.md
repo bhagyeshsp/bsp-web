@@ -3,7 +3,7 @@ title: "TFN#53: \U0001FA9CHow strong is your password? Check and generate memora
   passwords"
 date: '2024-05-17T09:31:43+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9chow-strong-is-your-password-check-and-generate-memorable-passwords"
+
 author: Bhagyesh Pathak
 excerpt: 'The first time I came across the concept of a real computer password was
   when I was around 16 years old. That password set by my father, got so popular in

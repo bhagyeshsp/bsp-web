@@ -2,7 +2,7 @@
 title: "TFN#37: \U0001FA9CInstantly search your whole PC using Everything Search"
 date: '2024-01-26T09:30:05+05:30'
 status: publish
-permalink: "/blog/instantly-search-your-whole-pc-using-everything-search"
+
 author: Bhagyesh Pathak
 excerpt: Okay, so today's letter is specifically for Windows users. Because anyone
   using a Mac, has been blessed with an in-built instant search. So, if you want to

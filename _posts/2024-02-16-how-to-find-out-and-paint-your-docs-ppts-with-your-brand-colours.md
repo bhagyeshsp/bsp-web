@@ -3,7 +3,7 @@ title: "TFN#40: \U0001FA9C How to find out and paint your docs & ppts with your 
   colours?"
 date: '2024-02-16T09:30:09+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-how-to-find-out-and-paint-your-docs-ppts-with-your-brand-colours"
+
 author: Bhagyesh Pathak
 excerpt: Reader, if you've been on the internet for the past 10 years, you'd recognize
   TEDTalk and Conferences from a mile away. Most of the time, you would just "know"

@@ -2,7 +2,7 @@
 title: "TFN#71: \U0001FA9CCreate your personal intellectual assistant"
 date: '2024-09-20T10:30:12+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9ccreate-your-personal-intellectual-assistant"
+
 author: Bhagyesh Pathak
 excerpt: 'Who doesn''t like a little help in their work?Traditionally, people hire
   personal assistants. And we know it is so difficult to hire one: it costs money,

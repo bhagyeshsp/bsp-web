@@ -2,7 +2,7 @@
 title: "TFN#48: \U0001FA9C5 mistakes I avoid while designing my dashboards"
 date: '2024-04-12T09:30:59+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c5-mistakes-i-avoid-while-designing-my-dashboards"
+
 author: Bhagyesh Pathak
 excerpt: 'Reader, If you tell me you haven''t seen a dashboard in your career so far,
   I won''t believe you. You wouldn''t believe yourself. The ease with which data visualization

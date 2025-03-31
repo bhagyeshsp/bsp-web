@@ -2,7 +2,7 @@
 title: 'Circumstances: If they can’t find them, make them'
 date: '2021-02-19T19:00:00+05:30'
 status: publish
-permalink: "/blog/circumstances-if-they-cant-find-them-make-them"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

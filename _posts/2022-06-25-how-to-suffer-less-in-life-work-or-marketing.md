@@ -2,7 +2,7 @@
 title: 'How to suffer less: in life, work or marketing'
 date: '2022-06-25T10:30:00+05:30'
 status: publish
-permalink: "/blog/how-to-suffer-less-in-life-work-or-marketing"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

@@ -2,7 +2,7 @@
 title: Going slow to go fast
 date: '2022-06-24T10:30:00+05:30'
 status: publish
-permalink: "/blog/going-slow-to-go-fast"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

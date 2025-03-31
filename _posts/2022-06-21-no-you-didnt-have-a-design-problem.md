@@ -2,7 +2,7 @@
 title: No, you didn’t have a design problem
 date: '2022-06-21T10:30:00+05:30'
 status: publish
-permalink: "/blog/no-you-didnt-have-a-design-problem"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

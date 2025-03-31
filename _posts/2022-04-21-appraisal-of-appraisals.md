@@ -2,7 +2,7 @@
 title: Appraisal of appraisals
 date: '2022-04-21T09:26:33+05:30'
 status: publish
-permalink: "/blog/appraisal-of-appraisals"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

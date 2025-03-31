@@ -2,7 +2,7 @@
 title: Intentional Hassle
 date: '2022-04-15T09:55:45+05:30'
 status: publish
-permalink: "/blog/intentional-hassle"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

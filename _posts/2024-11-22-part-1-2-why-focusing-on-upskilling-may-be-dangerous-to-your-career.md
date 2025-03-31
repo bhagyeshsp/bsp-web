@@ -3,7 +3,7 @@ title: "TFN#80: \U0001FA9C(Part-1/2) Why focusing on upskilling may be dangerous
   your career?"
 date: '2024-11-22T10:31:20+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cpart-1-2-why-focusing-on-upskilling-may-be-dangerous-to-your-career"
+
 author: Bhagyesh Pathak
 excerpt: 'Reader, don''t get me wrong.I''m a believer and practitioner of life-long
   learning.In this two-part letter, I''m talking about "upskilling"—it is far from

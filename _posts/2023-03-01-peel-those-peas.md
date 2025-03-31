@@ -2,7 +2,7 @@
 title: Peel those peas
 date: '2023-03-01T10:41:37+05:30'
 status: publish
-permalink: "/blog/peel-those-peas"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

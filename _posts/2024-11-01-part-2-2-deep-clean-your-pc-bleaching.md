@@ -2,7 +2,7 @@
 title: "TFN#77: \U0001FA9C(Part-2/2) Deep clean your PC: Bleaching"
 date: '2024-11-01T10:32:11+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cpart-2-2-deep-clean-your-pc-bleaching"
+
 author: Bhagyesh Pathak
 excerpt: Hi Reader,How's your Diwali week progressing?I hope you had a good one.Wishing
   you a happy Diwali week.Today, I won't take long. Because I've got to be somewhere

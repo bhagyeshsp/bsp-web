@@ -2,7 +2,7 @@
 title: Why I don’t resort to Euphemisms
 date: '2022-11-21T10:30:00+05:30'
 status: publish
-permalink: "/blog/why-i-dont-resort-to-euphemisms"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

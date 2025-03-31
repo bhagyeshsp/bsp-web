@@ -2,7 +2,7 @@
 title: "TFN#63: \U0001FA9CWrite in Dillinger, Export as file, and…you’ve learned Markdown!"
 date: '2024-07-26T10:41:49+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cwrite-in-dillinger-export-as-file-and-youve-learned-markdown"
+
 author: Bhagyesh Pathak
 excerpt: "Last week, you saw my love for Markdown. And this week, I recruit more comrades!
   \U0001F604If you missed last week's letter, quickly skim through it so you know

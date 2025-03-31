@@ -2,7 +2,7 @@
 title: Our inherent need to be connected
 date: '2022-07-01T10:30:00+05:30'
 status: publish
-permalink: "/blog/our-inherent-need-to-be-connected"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

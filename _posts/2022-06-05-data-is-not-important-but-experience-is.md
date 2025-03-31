@@ -2,7 +2,7 @@
 title: Data is not important, but experience is
 date: '2022-06-05T10:30:00+05:30'
 status: publish
-permalink: "/blog/data-is-not-important-but-experience-is"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

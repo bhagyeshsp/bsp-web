@@ -2,7 +2,7 @@
 title: 'TFN #2: Nobody likes to eat ugly food OR ugly Fonts'
 date: '2023-05-26T09:30:00+05:30'
 status: publish
-permalink: "/blog/nobody-likes-to-eat-ugly-food-or-ugly-fonts"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

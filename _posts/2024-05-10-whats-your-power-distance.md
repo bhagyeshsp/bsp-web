@@ -2,7 +2,7 @@
 title: "TFN#52: \U0001FA9CWhat’s your power distance?"
 date: '2024-05-10T11:10:05+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cwhats-your-power-distance"
+
 author: Bhagyesh Pathak
 excerpt: "And..this is the 52nd letter!1 letter/week 52 weeks = 1 year!Can you believe
   we have been conversing for a year now? Incredible!No matter when you joined this

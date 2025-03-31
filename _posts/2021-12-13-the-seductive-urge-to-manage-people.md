@@ -2,7 +2,7 @@
 title: The seductive urge to manage people
 date: '2021-12-13T11:48:32+05:30'
 status: publish
-permalink: "/blog/the-seductive-urge-to-manage-people"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

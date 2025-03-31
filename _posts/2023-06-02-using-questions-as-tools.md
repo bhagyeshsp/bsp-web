@@ -2,7 +2,7 @@
 title: 'TFN #3: Using questions as tools'
 date: '2023-06-02T09:30:00+05:30'
 status: publish
-permalink: "/blog/using-questions-as-tools"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

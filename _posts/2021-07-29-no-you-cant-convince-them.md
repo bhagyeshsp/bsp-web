@@ -2,7 +2,7 @@
 title: No, You Can’t Convince Them
 date: '2021-07-29T18:35:18+05:30'
 status: publish
-permalink: "/blog/no-you-cant-convince-them"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

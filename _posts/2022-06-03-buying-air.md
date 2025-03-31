@@ -2,7 +2,7 @@
 title: Buying air
 date: '2022-06-03T10:30:00+05:30'
 status: publish
-permalink: "/blog/buying-air"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

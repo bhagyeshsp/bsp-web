@@ -2,7 +2,7 @@
 title: "TFN#21: \U0001FA9CGetting insights: What? So What? Now What?"
 date: '2023-10-06T11:16:05+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cgetting-insights-what-so-what-now-what"
+
 author: Bhagyesh Pathak
 excerpt: 'Reader, did you know that you can derive pretty good insights from any data
   using just three questions: What? So what? Now what? Data can be anything. A fact.

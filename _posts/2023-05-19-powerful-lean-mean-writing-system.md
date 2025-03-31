@@ -2,7 +2,7 @@
 title: Powerful lean-mean writing system
 date: '2023-05-19T19:49:29+05:30'
 status: publish
-permalink: "/blog/powerful-lean-mean-writing-system"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

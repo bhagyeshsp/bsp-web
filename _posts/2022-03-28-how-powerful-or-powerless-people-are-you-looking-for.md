@@ -2,7 +2,7 @@
 title: How powerful or powerless people are you looking for?
 date: '2022-03-28T08:56:55+05:30'
 status: publish
-permalink: "/blog/how-powerful-or-powerless-people-are-you-looking-for"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

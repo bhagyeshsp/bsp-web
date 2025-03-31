@@ -2,7 +2,7 @@
 title: A rewarding way of using frameworks, or at least the one that is effective
 date: '2021-06-03T19:24:19+05:30'
 status: publish
-permalink: "/blog/a-rewarding-way-of-using-frameworks-or-at-least-the-one-that-is-effective"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

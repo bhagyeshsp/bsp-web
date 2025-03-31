@@ -2,7 +2,7 @@
 title: Not just another conversation
 date: '2022-09-22T10:30:00+05:30'
 status: publish
-permalink: "/blog/not-just-another-conversation"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

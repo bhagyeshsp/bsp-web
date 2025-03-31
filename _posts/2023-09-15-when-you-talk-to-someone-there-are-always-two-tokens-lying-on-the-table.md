@@ -3,7 +3,7 @@ title: "TFN#18 \U0001FA9C When you talk to someone, there are always two tokens 
   on the table"
 date: '2023-09-15T09:32:23+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-when-you-talk-to-someone-there-are-always-two-tokens-lying-on-the-table"
+
 author: Bhagyesh Pathak
 excerpt: Hi Reader, Festival season has already begun in India. So, I’m sure you won’t
   be able to read each of my weekly emails, but that’s fine. They’re already in your

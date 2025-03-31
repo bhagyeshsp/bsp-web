@@ -2,7 +2,7 @@
 title: "TFN#14: \U0001F4DA My Swades movie moment and reading roundup"
 date: '2023-08-18T09:30:00+05:30'
 status: publish
-permalink: "/blog/tfn14-%f0%9f%93%9a-my-swades-movie-moment-and-reading-roundup"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

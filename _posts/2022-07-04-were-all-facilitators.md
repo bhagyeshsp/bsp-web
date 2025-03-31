@@ -2,7 +2,7 @@
 title: We’re all facilitators
 date: '2022-07-04T10:30:00+05:30'
 status: publish
-permalink: "/blog/were-all-facilitators"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

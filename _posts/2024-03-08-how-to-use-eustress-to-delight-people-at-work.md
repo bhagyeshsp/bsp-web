@@ -2,7 +2,7 @@
 title: "TFN#43: \U0001FA9CHow to use Eustress to delight people at work"
 date: '2024-03-08T09:30:04+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9chow-to-use-eustress-to-delight-people-at-work"
+
 author: Bhagyesh Pathak
 excerpt: 'Recently, I published my idea of facilitation on LinkedIn: We are all facilitators.
   Many readers and friends found it relatable. That got me thinking. What is a running

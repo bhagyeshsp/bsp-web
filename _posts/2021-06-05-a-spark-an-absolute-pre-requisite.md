@@ -2,7 +2,7 @@
 title: 'A spark: An absolute pre-requisite'
 date: '2021-06-05T19:35:03+05:30'
 status: publish
-permalink: "/blog/a-spark-an-absolute-pre-requisite"
+
 author: Bhagyesh Pathak
 excerpt: A spark is an absolute prerequisite for an engine to start, but this post
   is not about a car engine. We’re talking about engines that drive our life, work

@@ -2,7 +2,7 @@
 title: "TFN#49: \U0001FA9CDo you right-click to rename? Seriously!?"
 date: '2024-04-19T09:30:07+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cdo-you-right-click-to-rename-seriously"
+
 author: Bhagyesh Pathak
 excerpt: No, I'm not judging. But I'm curious. When you rename a file in your PC (assuming
   it's a Windows machine), do you point at the file icon using the mouse, then right-click

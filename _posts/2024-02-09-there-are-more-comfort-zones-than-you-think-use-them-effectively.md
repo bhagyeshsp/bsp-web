@@ -2,7 +2,7 @@
 title: "TFN#39: \U0001FA9C There are more comfort zones than you think, use them effectively"
 date: '2024-02-09T09:30:15+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-there-are-more-comfort-zones-than-you-think-use-them-effectively"
+
 author: Bhagyesh Pathak
 excerpt: He is a bright guy, but seems like he is in his comfort zone.” She is great,
   but as soon as you ask her to step out and talk to the customer, she loses her shine.”

@@ -2,7 +2,7 @@
 title: The Medium Matters
 date: '2021-07-20T22:11:01+05:30'
 status: publish
-permalink: "/blog/the-medium-matters"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

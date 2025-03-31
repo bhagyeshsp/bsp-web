@@ -2,7 +2,7 @@
 title: "TFN#54: \U0001FA9CInstant use-and-throw email ID using 10minutemail"
 date: '2024-05-24T09:30:18+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cinstant-use-and-throw-email-id-using-10minutemail"
+
 author: Bhagyesh Pathak
 excerpt: Reader, have you felt the uneasiness when you're shopping and the checkout
   counter guy asks for your contact number? For some elusive membership benefits?

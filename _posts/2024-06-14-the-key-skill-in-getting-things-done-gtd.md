@@ -2,7 +2,7 @@
 title: "TFN#57: \U0001FA9CThe key skill in Getting Things Done (GTD)"
 date: '2024-06-14T10:30:32+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cthe-key-skill-in-getting-things-done-gtd"
+
 author: Bhagyesh Pathak
 excerpt: 'Reader, sometimes you look at your work and wonder why it isn''t moving
   at a fast pace. Your team and you might be giving your best and still, you can''t

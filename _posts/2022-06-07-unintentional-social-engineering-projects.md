@@ -2,7 +2,7 @@
 title: Unintentional social engineering projects
 date: '2022-06-07T10:30:00+05:30'
 status: publish
-permalink: "/blog/unintentional-social-engineering-projects"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

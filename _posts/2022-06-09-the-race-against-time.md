@@ -2,7 +2,7 @@
 title: The race against time
 date: '2022-06-09T10:30:00+05:30'
 status: publish
-permalink: "/blog/the-race-against-time"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

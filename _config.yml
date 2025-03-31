@@ -8,7 +8,7 @@ url: "https://bhagyeshpathak.com" # the base hostname & protocol for your site, 
 google_site_verification: ""
 # Build settings
 markdown: kramdown
-permalink: /blog/:title/index.html # Ensures Jekyll generates clean URLs without breaking links. Even though posts are still stored as .html files, this setting helps GitHub Pages correctly resolve URLs with or without a trailing slash, preventing 404 errors.
+permalink: pretty
 # Collections
 # collections:
 #   resources:

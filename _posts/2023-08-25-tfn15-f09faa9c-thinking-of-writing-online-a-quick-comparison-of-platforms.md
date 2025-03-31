@@ -2,7 +2,7 @@
 title: "TFN#15: \U0001FA9C Thinking of writing online? A quick comparison of platforms"
 date: '2023-08-25T09:30:00+05:30'
 status: publish
-permalink: "/blog/tfn15-%f0%9f%aa%9c-thinking-of-writing-online-a-quick-comparison-of-platforms"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

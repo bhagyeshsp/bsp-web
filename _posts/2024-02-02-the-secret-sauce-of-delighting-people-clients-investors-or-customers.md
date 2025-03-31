@@ -3,7 +3,7 @@ title: "TFN#38: \U0001FA9C The secret sauce of delighting people, clients, inves
   or customers"
 date: '2024-02-02T09:30:17+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-the-secret-sauce-of-delighting-people-clients-investors-or-customers"
+
 author: Bhagyesh Pathak
 excerpt: In 2016, one of my friends introduced me to a Hair Salon chain named Green
   Trends. This is when I was residing in Hyderabad. Green Trends set a benchmark of

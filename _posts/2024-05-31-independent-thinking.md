@@ -2,7 +2,7 @@
 title: Independent Thinking
 date: '2024-05-31T11:00:00+05:30'
 status: publish
-permalink: "/blog/independent-thinking"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

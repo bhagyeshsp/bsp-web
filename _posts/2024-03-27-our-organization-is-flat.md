@@ -2,7 +2,7 @@
 title: Our organization is flat
 date: '2024-03-27T13:54:00+05:30'
 status: publish
-permalink: "/blog/our-organization-is-flat"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

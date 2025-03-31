@@ -2,7 +2,7 @@
 title: "TFN#67: \U0001FA9CStaff or Admin?"
 date: '2024-08-23T10:35:06+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cstaff-or-admin"
+
 author: Bhagyesh Pathak
 excerpt: Reader, I don't know what it is. But in the past few months, I have been
   thinking more about online safety and privacy than before. Maybe it is the news

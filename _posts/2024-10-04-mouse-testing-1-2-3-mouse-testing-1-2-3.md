@@ -2,7 +2,7 @@
 title: "TFN#73: \U0001FA9CMouse testing 1..2..3..Mouse testing 1..2..3.."
 date: '2024-10-04T10:30:31+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cmouse-testing-1-2-3-mouse-testing-1-2-3"
+
 author: Bhagyesh Pathak
 excerpt: That's what I do almost every year.As a regular user of PC, I use mouse and
   keyboard a lott. And that's why I have to replace my mouse often. (No, not the keyboard,

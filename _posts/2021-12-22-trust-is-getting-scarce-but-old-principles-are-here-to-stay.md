@@ -2,7 +2,7 @@
 title: Trust is getting scarce, but old principles are here to stay
 date: '2021-12-22T09:10:42+05:30'
 status: publish
-permalink: "/blog/trust-is-getting-scarce-but-old-principles-are-here-to-stay"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

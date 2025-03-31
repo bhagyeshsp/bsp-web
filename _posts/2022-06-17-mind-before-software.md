@@ -2,7 +2,7 @@
 title: Mind before software
 date: '2022-06-17T10:38:07+05:30'
 status: publish
-permalink: "/blog/mind-before-software"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

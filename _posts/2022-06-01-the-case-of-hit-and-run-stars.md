@@ -2,7 +2,7 @@
 title: The case of hit and run stars
 date: '2022-06-01T10:39:21+05:30'
 status: publish
-permalink: "/blog/the-case-of-hit-and-run-stars"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

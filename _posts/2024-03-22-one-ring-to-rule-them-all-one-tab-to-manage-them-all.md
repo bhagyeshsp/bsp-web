@@ -2,7 +2,7 @@
 title: "TFN#45: \U0001FA9COne Ring to rule them all, One Tab to manage them all"
 date: '2024-03-22T09:30:24+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cone-ring-to-rule-them-all-one-tab-to-manage-them-all"
+
 author: Bhagyesh Pathak
 excerpt: 'Reader, I want to ask you something. Does your browser window look like
   this: If it does, don''t worry, mine used to look the same until a few years ago.

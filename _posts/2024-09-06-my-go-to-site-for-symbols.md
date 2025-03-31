@@ -2,7 +2,7 @@
 title: "TFN#69: \U0001FA9C My go-to site for symbols"
 date: '2024-09-06T10:30:40+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-my-go-to-site-for-symbols"
+
 author: Bhagyesh Pathak
 excerpt: 'Do you remember the late 2000s when mobile phone adoption was on the rise
   and people had just begun using texting? Forwarding and communicating over sms all

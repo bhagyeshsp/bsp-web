@@ -2,7 +2,7 @@
 title: Dashboard managers
 date: '2024-04-23T13:58:00+05:30'
 status: publish
-permalink: "/blog/dashboard-managers"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

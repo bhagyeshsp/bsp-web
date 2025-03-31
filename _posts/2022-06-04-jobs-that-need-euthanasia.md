@@ -2,7 +2,7 @@
 title: Jobs that need euthanasia
 date: '2022-06-04T10:30:00+05:30'
 status: publish
-permalink: "/blog/jobs-that-need-euthanasia"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

@@ -2,7 +2,7 @@
 title: "TFN#31: \U0001FA9C A Tiny Extension to Supercharge Copy-Paste Command"
 date: '2023-12-15T09:30:11+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-a-tiny-extension-to-supercharge-copy-paste-command"
+
 author: Bhagyesh Pathak
 excerpt: 'Tell me Reader, do you know anyone who doesn’t use the Copy-Paste command?
   I can''t think of anyone who uses a computer and doesn''t use it. Copy-Paste command

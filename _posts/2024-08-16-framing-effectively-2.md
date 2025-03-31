@@ -2,7 +2,7 @@
 title: "TFN#66: \U0001FA9CFraming effectively"
 date: '2024-08-16T10:32:01+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cframing-effectively-2"
+
 author: Bhagyesh Pathak
 excerpt: 'Dear Reader,The months of August and September are full of long weekends
   and holidays in India. I hope you enjoy them and make the most out of them--and

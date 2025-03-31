@@ -2,7 +2,7 @@
 title: If you didn’t process it, it doesn’t count
 date: '2022-10-05T10:30:00+05:30'
 status: publish
-permalink: "/blog/if-you-didnt-process-it-it-doesnt-count"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

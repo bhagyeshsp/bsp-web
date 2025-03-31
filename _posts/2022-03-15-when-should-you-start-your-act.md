@@ -2,7 +2,7 @@
 title: When should you start your act?
 date: '2022-03-15T09:26:32+05:30'
 status: publish
-permalink: "/blog/when-should-you-start-your-act"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

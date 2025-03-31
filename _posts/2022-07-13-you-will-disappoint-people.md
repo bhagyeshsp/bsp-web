@@ -2,7 +2,7 @@
 title: You will disappoint people
 date: '2022-07-13T10:30:00+05:30'
 status: publish
-permalink: "/blog/you-will-disappoint-people"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

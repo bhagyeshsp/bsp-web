@@ -2,7 +2,7 @@
 title: See that empty space? Let’s fill it
 date: '2022-07-02T10:30:00+05:30'
 status: publish
-permalink: "/blog/see-that-empty-space-lets-fill-it"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

@@ -2,7 +2,7 @@
 title: 'TFN #1: A knowledge worker’s secret weapon: Hemingway App'
 date: '2023-05-19T09:30:00+05:30'
 status: publish
-permalink: "/blog/a-knowledge-workers-secret-weapon-hemingway-app"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

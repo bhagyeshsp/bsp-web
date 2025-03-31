@@ -2,7 +2,7 @@
 title: What will a true EdTech look like?
 date: '2022-06-16T10:30:00+05:30'
 status: publish
-permalink: "/blog/what-will-a-true-edtech-look-like"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

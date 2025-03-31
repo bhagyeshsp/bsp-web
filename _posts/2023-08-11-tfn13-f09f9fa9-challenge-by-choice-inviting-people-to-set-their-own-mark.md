@@ -2,7 +2,7 @@
 title: "TFN#13: \U0001F7E9 Challenge by choice: inviting people to set their own mark"
 date: '2023-08-11T09:30:00+05:30'
 status: publish
-permalink: "/blog/tfn13-%f0%9f%9f%a9-challenge-by-choice-inviting-people-to-set-their-own-mark"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

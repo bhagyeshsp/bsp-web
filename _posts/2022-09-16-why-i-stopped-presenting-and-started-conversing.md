@@ -2,7 +2,7 @@
 title: Why I stopped presenting and started conversing
 date: '2022-09-16T10:30:00+05:30'
 status: publish
-permalink: "/blog/why-i-stopped-presenting-and-started-conversing"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

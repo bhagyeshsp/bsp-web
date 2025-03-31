@@ -2,7 +2,7 @@
 title: "TFN#22: \U0001FA9C Google Docs, MS Word’s simplicity: the most ignored feature"
 date: '2023-10-13T09:30:15+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-google-docs-ms-words-simplicity-the-most-ignored-feature"
+
 author: Bhagyesh Pathak
 excerpt: Reader, If I start counting how many documents I have come across that have
   hand-made Table of Contents, it will take me a couple of days to finish counting.

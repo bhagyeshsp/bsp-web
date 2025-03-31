@@ -2,7 +2,7 @@
 title: How not to blindside your audience
 date: '2022-06-19T10:30:00+05:30'
 status: publish
-permalink: "/blog/how-not-to-blindside-your-audience"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

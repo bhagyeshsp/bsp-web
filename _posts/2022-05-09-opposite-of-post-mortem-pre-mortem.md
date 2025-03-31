@@ -2,7 +2,7 @@
 title: 'Opposite of post-mortem: pre-mortem'
 date: '2022-05-09T09:24:16+05:30'
 status: publish
-permalink: "/blog/opposite-of-post-mortem-pre-mortem"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

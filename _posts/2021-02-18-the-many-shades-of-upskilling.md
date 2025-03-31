@@ -2,7 +2,7 @@
 title: The many shades of upskilling
 date: '2021-02-18T00:09:10+05:30'
 status: publish
-permalink: "/blog/the-many-shades-of-upskilling"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

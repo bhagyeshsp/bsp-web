@@ -2,7 +2,7 @@
 title: Team-building activities by Steve Jobs
 date: '2022-06-13T10:30:00+05:30'
 status: publish
-permalink: "/blog/team-building-activities-by-steve-jobs"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

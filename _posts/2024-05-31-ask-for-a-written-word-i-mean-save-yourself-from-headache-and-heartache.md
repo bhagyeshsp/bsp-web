@@ -3,7 +3,7 @@ title: "TFN#55: \U0001FA9CAsk for a written word, I mean save yourself from head
   and heartache"
 date: '2024-05-31T09:30:14+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cask-for-a-written-word-i-mean-save-yourself-from-headache-and-heartache"
+
 author: Bhagyesh Pathak
 excerpt: "So, I was scrolling through social media and this comic from Marketoonist
   cracked me a few weeks back. \U0001F923 It is soo true. If you think about it, most

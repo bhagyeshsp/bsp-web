@@ -2,7 +2,7 @@
 title: Creating hurdles to provide value
 date: '2022-06-27T10:30:00+05:30'
 status: publish
-permalink: "/blog/creating-hurdles-to-provide-value"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

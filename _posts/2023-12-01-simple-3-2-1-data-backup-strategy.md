@@ -2,7 +2,7 @@
 title: "TFN#29: \U0001FA9C Simple 3-2-1 data backup strategy"
 date: '2023-12-01T09:30:18+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-simple-3-2-1-data-backup-strategy"
+
 author: Bhagyesh Pathak
 excerpt: 'Have you watched the 2012 superhit movie OMG — Oh My God? If you have, you’ll
   certainly remember this scene: Kanji is flaunting his Godrej Locker key in the aftermath

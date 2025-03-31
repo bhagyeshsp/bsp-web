@@ -2,7 +2,7 @@
 title: Physicians that hoard X-ray reports
 date: '2022-06-08T10:30:00+05:30'
 status: publish
-permalink: "/blog/physicians-that-hoard-x-ray-reports"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

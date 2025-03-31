@@ -2,7 +2,7 @@
 title: Your village and villagers
 date: '2022-07-03T10:30:00+05:30'
 status: publish
-permalink: "/blog/your-village-and-villagers"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

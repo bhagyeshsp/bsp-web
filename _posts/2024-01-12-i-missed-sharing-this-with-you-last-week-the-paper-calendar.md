@@ -2,7 +2,7 @@
 title: "TFN#35: \U0001FA9C I missed sharing this with you last week: The Paper Calendar"
 date: '2024-01-12T09:30:05+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-i-missed-sharing-this-with-you-last-week-the-paper-calendar"
+
 author: Bhagyesh Pathak
 excerpt: 'Reader, Tell me something. Have you ever sent a WhatsApp message and...felt
   an instant regret? In our case, I felt this regret a few days after sharing last

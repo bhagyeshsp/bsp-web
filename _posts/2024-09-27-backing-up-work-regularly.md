@@ -2,7 +2,7 @@
 title: "TFN#72: \U0001FA9CBacking up work regularly"
 date: '2024-09-27T10:30:53+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cbacking-up-work-regularly"
+
 author: Bhagyesh Pathak
 excerpt: Reader,You might have experienced the loss of data or a few important edits
   in a document at least a few times in your work. Everyone experiences that.I don't

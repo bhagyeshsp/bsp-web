@@ -3,7 +3,7 @@ title: "TFN#59: \U0001FA9CHighlight your mouse pointer during presentations and 
   calls"
 date: '2024-06-28T10:31:56+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9chighlight-your-mouse-pointer-during-presentations-and-video-calls"
+
 author: Bhagyesh Pathak
 excerpt: 'All of us have been there.Standing in front of the audience in a conference
   hall, moving our mouse vigorously, asking everyone "See this? Here?" "............ummm.."

@@ -2,7 +2,7 @@
 title: "TFN#24: \U0001FA9C How I use wireframe.cc for quick ideation"
 date: '2023-10-27T09:30:22+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-how-i-use-wireframe-cc-for-quick-ideation"
+
 author: Bhagyesh Pathak
 excerpt: 'Reader, Have you been in a situation where you want to quickly draw a couple
   of things on the computer and share them with your colleague or team? To give some

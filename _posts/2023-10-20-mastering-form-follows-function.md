@@ -2,7 +2,7 @@
 title: "TFN#23: \U0001FA9CMastering “Form Follows Function”"
 date: '2023-10-20T09:31:47+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cmastering-form-follows-function"
+
 author: Bhagyesh Pathak
 excerpt: Reader, if it was a matter of life and death to win a Formula-1 race, which
   car would you choose? Okay, what about choosing a gift for King Charles III if you

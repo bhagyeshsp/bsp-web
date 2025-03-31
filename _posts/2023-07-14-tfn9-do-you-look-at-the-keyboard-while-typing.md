@@ -2,7 +2,7 @@
 title: 'TFN#9: Do you look at the keyboard while typing?'
 date: '2023-07-14T10:00:00+05:30'
 status: publish
-permalink: "/blog/tfn9-do-you-look-at-the-keyboard-while-typing"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

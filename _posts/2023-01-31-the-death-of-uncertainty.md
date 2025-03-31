@@ -2,7 +2,7 @@
 title: The death of uncertainty
 date: '2023-01-31T10:30:00+05:30'
 status: publish
-permalink: "/blog/the-death-of-uncertainty"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

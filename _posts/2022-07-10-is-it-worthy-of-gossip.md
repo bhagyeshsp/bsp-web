@@ -2,7 +2,7 @@
 title: Is it worthy of gossip?
 date: '2022-07-10T10:30:00+05:30'
 status: publish
-permalink: "/blog/is-it-worthy-of-gossip"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

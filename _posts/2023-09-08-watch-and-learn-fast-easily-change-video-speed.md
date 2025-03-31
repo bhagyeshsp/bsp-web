@@ -2,7 +2,7 @@
 title: "TFN#17: \U0001FA9C Watch and learn fast: Easily change video speed"
 date: '2023-09-08T09:32:33+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-watch-and-learn-fast-easily-change-video-speed"
+
 author: Bhagyesh Pathak
 excerpt: 'Did you know YouTube releases a Culture and Trends report every year? I
   didn’t know. I recently read its 2023 report. Fascinating! Almost everyone who has

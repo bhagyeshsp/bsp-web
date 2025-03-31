@@ -2,7 +2,7 @@
 title: The Need to be Forgotten or Becoming Invisible
 date: '2021-08-02T09:30:00+05:30'
 status: publish
-permalink: "/blog/the-need-to-be-forgotten-or-becoming-invisible"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

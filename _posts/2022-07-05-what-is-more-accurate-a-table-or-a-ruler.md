@@ -2,7 +2,7 @@
 title: 'What is more accurate: a table or a ruler?'
 date: '2022-07-05T10:30:00+05:30'
 status: publish
-permalink: "/blog/what-is-more-accurate-a-table-or-a-ruler"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

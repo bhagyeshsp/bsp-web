@@ -2,7 +2,7 @@
 title: No Excuses = Remarkable
 date: '2021-05-31T20:03:53+05:30'
 status: publish
-permalink: "/blog/no-excuses-remarkable"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

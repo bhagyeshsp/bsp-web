@@ -2,7 +2,7 @@
 title: Waiting to pass out or to be dead
 date: '2022-06-20T10:30:00+05:30'
 status: publish
-permalink: "/blog/waiting-to-pass-out-or-to-be-dead"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

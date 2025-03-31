@@ -2,7 +2,7 @@
 title: Body of work
 date: '2022-06-06T10:30:00+05:30'
 status: publish
-permalink: "/blog/body-of-work"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

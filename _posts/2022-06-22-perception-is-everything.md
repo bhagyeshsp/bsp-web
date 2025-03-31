@@ -2,7 +2,7 @@
 title: Perception is everything
 date: '2022-06-22T10:30:00+05:30'
 status: publish
-permalink: "/blog/perception-is-everything"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

@@ -2,7 +2,7 @@
 title: "TFN#44: \U0001FA9CDon’t despair, find text inside files like a pro: SeekFast"
 date: '2024-03-15T09:30:05+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cdont-despair-find-text-inside-files-like-a-pro-seekfast"
+
 author: Bhagyesh Pathak
 excerpt: 'Reader, sometimes, we come across software applications that we didn’t know
   we needed. A few weeks back I sent you a letter titled: Instantly search your whole

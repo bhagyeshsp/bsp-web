@@ -2,7 +2,7 @@
 title: Begin with a pencil sketch
 date: '2021-02-25T10:30:00+05:30'
 status: publish
-permalink: "/blog/begin-with-a-pencil-sketch"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

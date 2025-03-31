@@ -2,7 +2,7 @@
 title: "TFN#50: \U0001FA9CApplying DRY principle in your work"
 date: '2024-04-26T09:31:07+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9capplying-dry-principle-in-your-work"
+
 author: Bhagyesh Pathak
 excerpt: 'I have always been fascinated by programming languages. There are so many
   of them: python, C, C++, Java, SQL, VBA, etc. Don''t worry, I''m not going to bore

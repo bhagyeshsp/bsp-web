@@ -2,7 +2,7 @@
 title: "“It has always been like this”"
 date: '2021-07-30T18:40:03+05:30'
 status: publish
-permalink: "/blog/it-has-always-been-like-this"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

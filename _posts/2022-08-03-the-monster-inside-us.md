@@ -2,7 +2,7 @@
 title: The monster inside us
 date: '2022-08-03T10:30:00+05:30'
 status: publish
-permalink: "/blog/the-monster-inside-us"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

@@ -2,7 +2,7 @@
 title: A powerful trick to improve decision-making skills
 date: '2022-07-12T10:30:00+05:30'
 status: publish
-permalink: "/blog/a-powerful-trick-to-improve-decision-making-skills"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

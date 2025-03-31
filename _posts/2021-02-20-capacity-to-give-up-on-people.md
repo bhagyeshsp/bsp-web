@@ -2,7 +2,7 @@
 title: Capacity to give up on people
 date: '2021-02-20T19:07:12+05:30'
 status: publish
-permalink: "/blog/capacity-to-give-up-on-people"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

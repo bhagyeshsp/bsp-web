@@ -2,7 +2,7 @@
 title: Our definitions may not match
 date: '2022-06-02T10:30:00+05:30'
 status: publish
-permalink: "/blog/our-definitions-may-not-match"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

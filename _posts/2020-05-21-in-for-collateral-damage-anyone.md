@@ -2,7 +2,7 @@
 title: In for collateral damage? Anyone?
 date: '2020-05-21T15:26:38+05:30'
 status: publish
-permalink: "/blog/in-for-collateral-damage-anyone"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

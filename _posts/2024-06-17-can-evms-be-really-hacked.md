@@ -2,7 +2,7 @@
 title: Can EVMs be REALLY hacked?
 date: '2024-06-17T10:36:44+05:30'
 status: publish
-permalink: "/blog/can-evms-be-really-hacked"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

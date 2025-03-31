@@ -2,7 +2,7 @@
 title: The Hubble Moment
 date: '2022-06-23T10:30:00+05:30'
 status: publish
-permalink: "/blog/the-hubble-moment"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

@@ -2,7 +2,7 @@
 title: "TFN#51: \U0001FA9CRename 100 files for 100 team members under a second"
 date: '2024-05-03T11:00:21+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9crename-100-files-for-100-team-members-under-a-second"
+
 author: Bhagyesh Pathak
 excerpt: I should have shared this letter last week, immediately after Do you right-click
   to rename? Seriously!?. But no problem, better late than never. In that letter,

@@ -2,7 +2,7 @@
 title: The Replication Problem
 date: '2021-06-04T18:34:59+05:30'
 status: publish
-permalink: "/blog/the-replication-problem"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

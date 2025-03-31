@@ -2,7 +2,7 @@
 title: Believing is being
 date: '2022-06-28T10:30:00+05:30'
 status: publish
-permalink: "/blog/believing-is-being"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

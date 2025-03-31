@@ -2,7 +2,7 @@
 title: "\U0001FA9C(Part-2/2) Increasing the surface area of luck"
 date: '2024-11-29T10:32:39+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cpart-2-2-increasing-the-surface-area-of-luck"
+
 author: Bhagyesh Pathak
 excerpt: 'I love science.I''m sure you''d have noticed that.So, whether you love science,
   you have to listen to this incredible thing. Our digestive organ--small intestine

@@ -2,7 +2,7 @@
 title: "TFN#33: \U0001FA9C The absurd reason why I stopped making New Year resolutions"
 date: '2023-12-29T09:30:37+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-the-absurd-reason-why-i-stopped-making-new-year-resolutions"
+
 author: Bhagyesh Pathak
 excerpt: Before I dive into explanations, wishing you a blockbuster New Year! I hope
   you get to fulfill your promises and resolutions by the end of 2024. And that allows

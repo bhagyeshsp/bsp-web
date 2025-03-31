@@ -2,7 +2,7 @@
 title: 'Looming Bubbles & Booms: The Volatility of Our Decisions'
 date: '2021-07-28T18:57:25+05:30'
 status: publish
-permalink: "/blog/looming-bubbles-booms-the-volatility-of-our-decisions"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

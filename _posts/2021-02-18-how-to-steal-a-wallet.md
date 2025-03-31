@@ -2,7 +2,7 @@
 title: How to steal a wallet?
 date: '2021-02-18T19:00:00+05:30'
 status: publish
-permalink: "/blog/how-to-steal-a-wallet"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

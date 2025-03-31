@@ -2,7 +2,7 @@
 title: What are our One-foot Leverage Points?
 date: '2021-06-01T09:54:45+05:30'
 status: publish
-permalink: "/blog/what-are-our-one-foot-leverage-points"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

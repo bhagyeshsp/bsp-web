@@ -2,7 +2,7 @@
 title: A simple filter test to make your surveys meaningful
 date: '2021-12-14T09:30:51+05:30'
 status: publish
-permalink: "/blog/a-simple-filter-test-to-make-your-surveys-meaningful"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

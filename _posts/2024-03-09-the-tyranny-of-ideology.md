@@ -2,7 +2,7 @@
 title: The Tyranny of Ideology
 date: '2024-03-09T13:59:00+05:30'
 status: publish
-permalink: "/blog/the-tyranny-of-ideology"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

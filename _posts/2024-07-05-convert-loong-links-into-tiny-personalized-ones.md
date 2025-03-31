@@ -2,7 +2,7 @@
 title: "TFN#60: \U0001FA9CConvert loong links into tiny, personalized ones"
 date: '2024-07-05T10:30:49+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cconvert-loong-links-into-tiny-personalized-ones"
+
 author: Bhagyesh Pathak
 excerpt: 'A few days back, I received this Experiential Education conference Google
   Form link in an email:https://docs.google.com/forms/d/e/1FAIpQLScRkN-dnFrE\_uIpPyKV410P2Oz5SFYMu3DYG\_iAyhMyJMqu7g/viewform

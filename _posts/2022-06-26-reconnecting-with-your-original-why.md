@@ -2,7 +2,7 @@
 title: Reconnecting with your original WHY
 date: '2022-06-26T10:30:00+05:30'
 status: publish
-permalink: "/blog/reconnecting-with-your-original-why"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

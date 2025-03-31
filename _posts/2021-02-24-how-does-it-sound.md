@@ -2,7 +2,7 @@
 title: How does it sound?
 date: '2021-02-24T17:00:00+05:30'
 status: publish
-permalink: "/blog/how-does-it-sound"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

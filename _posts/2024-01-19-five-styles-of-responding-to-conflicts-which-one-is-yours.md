@@ -2,7 +2,7 @@
 title: "TFN#36: \U0001FA9C Five styles of responding to conflicts | Which one is yours?"
 date: '2024-01-19T09:30:08+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-five-styles-of-responding-to-conflicts-which-one-is-yours"
+
 author: Bhagyesh Pathak
 excerpt: 'If you tell me you never had any conflict with anyone in your work, I won’t
   believe you. It is just impossible. By conflict, I don’t mean punching people in

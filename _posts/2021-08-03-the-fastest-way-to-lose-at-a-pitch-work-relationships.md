@@ -2,7 +2,7 @@
 title: The Fastest Way to Lose at a Pitch/Work/Relationships
 date: '2021-08-03T19:16:40+05:30'
 status: publish
-permalink: "/blog/the-fastest-way-to-lose-at-a-pitch-work-relationships"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

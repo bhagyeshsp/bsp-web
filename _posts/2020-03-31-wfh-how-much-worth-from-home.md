@@ -2,7 +2,7 @@
 title: 'WFH: How much ‘worth’ from home?'
 date: '2020-03-31T15:23:15+05:30'
 status: publish
-permalink: "/blog/wfh-how-much-worth-from-home"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

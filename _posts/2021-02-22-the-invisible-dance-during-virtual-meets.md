@@ -2,7 +2,7 @@
 title: The invisible dance during virtual meets
 date: '2021-02-22T10:30:00+05:30'
 status: publish
-permalink: "/blog/the-invisible-dance-during-virtual-meets"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

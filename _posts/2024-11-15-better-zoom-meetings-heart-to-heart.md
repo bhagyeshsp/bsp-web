@@ -2,7 +2,7 @@
 title: "TFN#79: \U0001FA9CBetter Zoom meetings, heart-to-heart"
 date: '2024-11-15T10:30:49+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cbetter-zoom-meetings-heart-to-heart"
+
 author: Bhagyesh Pathak
 excerpt: 'I used to detest the "keep your video on" dictum often thrown during Zoom
   meets four years back. It left a bad taste. You may feel my anguish and contempt

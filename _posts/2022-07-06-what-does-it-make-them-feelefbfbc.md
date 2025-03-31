@@ -2,7 +2,7 @@
 title: What does it make them feel?
 date: '2022-07-06T10:30:00+05:30'
 status: publish
-permalink: "/blog/what-does-it-make-them-feel%ef%bf%bc"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

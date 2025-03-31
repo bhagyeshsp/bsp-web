@@ -2,7 +2,7 @@
 title: "TFN#75: \U0001FA9CNonviolent communication in work and relationships"
 date: '2024-10-18T10:30:17+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cnonviolent-communication-in-work-and-relationships"
+
 author: Bhagyesh Pathak
 excerpt: Some time back, I came across the practice of Nonviolent Communication. Since
   then, I have constantly thought about it when I hear myself and others communicate

@@ -2,7 +2,7 @@
 title: "TFN #5: Like most people, do you also think you’re not a designer?\U0001F914"
 date: '2023-06-16T10:00:00+05:30'
 status: publish
-permalink: "/blog/like-most-people-do-you-also-think-youre-not-a-designer"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

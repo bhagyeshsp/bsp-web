@@ -2,7 +2,7 @@
 title: 'Jargon guys: my personal algorithm'
 date: '2022-06-14T10:30:00+05:30'
 status: publish
-permalink: "/blog/jargon-guys-my-personal-algorithm"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

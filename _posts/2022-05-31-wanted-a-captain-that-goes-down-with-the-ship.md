@@ -2,7 +2,7 @@
 title: 'Wanted: A captain that goes down with the ship'
 date: '2022-05-31T10:13:11+05:30'
 status: publish
-permalink: "/blog/wanted-a-captain-that-goes-down-with-the-ship"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

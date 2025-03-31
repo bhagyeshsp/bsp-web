@@ -2,7 +2,7 @@
 title: Life-changing method to improve decision-making
 date: '2023-06-08T12:42:14+05:30'
 status: publish
-permalink: "/blog/life-changing-method-to-improve-decision-making"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

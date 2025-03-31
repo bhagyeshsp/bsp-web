@@ -2,7 +2,7 @@
 title: "TFN#68: \U0001FA9CPrinciple of Least Privilege"
 date: '2024-08-30T10:32:49+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cprinciple-of-least-privilege"
+
 author: Bhagyesh Pathak
 excerpt: I should have named last week's letter "Staff or Admin (Part 1/2)". Because
   today's is kind of Part 2/2.Yes, kind of.I could have shared this independently,

@@ -2,7 +2,7 @@
 title: To AI or not to AI?
 date: '2024-08-06T12:02:48+05:30'
 status: publish
-permalink: "/blog/to-ai-or-not-to-ai"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

@@ -2,7 +2,7 @@
 title: Will a single step count?
 date: '2022-06-29T10:30:00+05:30'
 status: publish
-permalink: "/blog/will-a-single-step-count"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

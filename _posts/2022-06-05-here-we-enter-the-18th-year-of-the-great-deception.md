@@ -2,7 +2,7 @@
 title: Here we enter the 18th year of the great deception
 date: '2022-06-05T20:05:43+05:30'
 status: publish
-permalink: "/blog/here-we-enter-the-18th-year-of-the-great-deception"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

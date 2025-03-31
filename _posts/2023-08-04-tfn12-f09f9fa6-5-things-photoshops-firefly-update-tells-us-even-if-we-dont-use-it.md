@@ -3,7 +3,7 @@ title: "TFN#12: \U0001F7E6 5 things Photoshop’s Firefly update tells us, even 
   don’t use it"
 date: '2023-08-04T10:00:00+05:30'
 status: publish
-permalink: "/blog/tfn12-%f0%9f%9f%a6-5-things-photoshops-firefly-update-tells-us-even-if-we-dont-use-it"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

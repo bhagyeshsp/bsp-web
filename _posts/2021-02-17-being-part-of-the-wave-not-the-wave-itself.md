@@ -2,7 +2,7 @@
 title: Being part of the wave, not the wave itself
 date: '2021-02-17T19:00:00+05:30'
 status: publish
-permalink: "/blog/being-part-of-the-wave-not-the-wave-itself"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

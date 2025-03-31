@@ -3,7 +3,7 @@ title: "TFN#20: \U0001FA9C How to safely share confidential info like passwords 
   1time?"
 date: '2023-09-29T09:30:19+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-how-to-safely-share-confidential-info-like-passwords-using-1time"
+
 author: Bhagyesh Pathak
 excerpt: 'I don’t know Reader, whether you got a chance to go through the Golden Ratio
   newsletter last week, but I want to share something that I always love sharing:

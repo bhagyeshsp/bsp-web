@@ -2,7 +2,7 @@
 title: Developing an ear
 date: '2022-07-15T10:30:00+05:30'
 status: publish
-permalink: "/blog/developing-an-ear"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

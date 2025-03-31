@@ -2,7 +2,7 @@
 title: "TFN#19 \U0001FA9CHow to beautify your work using Golden Ratio?"
 date: '2023-09-22T09:33:07+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9chow-to-beautify-your-work-using-golden-ratio"
+
 author: Bhagyesh Pathak
 excerpt: Tell me something Reader, Do you believe that beauty lies in the eyes of
   the beholder? I believe sometimes it is true, sometimes not. There are some natural

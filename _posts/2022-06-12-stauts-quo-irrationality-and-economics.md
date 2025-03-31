@@ -2,7 +2,7 @@
 title: Stauts quo, Irrationality and Economics
 date: '2022-06-12T10:30:00+05:30'
 status: publish
-permalink: "/blog/stauts-quo-irrationality-and-economics"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

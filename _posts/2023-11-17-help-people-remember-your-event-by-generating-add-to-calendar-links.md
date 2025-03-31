@@ -3,7 +3,7 @@ title: "TFN#27: \U0001FA9C Help people remember your event by generating ‘Add 
   links"
 date: '2023-11-17T09:30:14+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-help-people-remember-your-event-by-generating-add-to-calendar-links"
+
 author: Bhagyesh Pathak
 excerpt: 'Reader, How many times have you heard “send me the calendar invite”? It
   is such a liberating feeling to invite other people and receive their acceptance.

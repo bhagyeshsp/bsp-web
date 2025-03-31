@@ -2,7 +2,7 @@
 title: AI in session planning-2
 date: '2024-09-02T16:30:00+05:30'
 status: publish
-permalink: "/blog/ai-in-session-planning-2"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

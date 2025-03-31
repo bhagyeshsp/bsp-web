@@ -2,7 +2,7 @@
 title: "TFN#30: \U0001FA9C How to create a user persona? [Template Inside]"
 date: '2023-12-08T09:30:16+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9c-how-to-create-a-user-persona-template-inside"
+
 author: Bhagyesh Pathak
 excerpt: 'The other day, my friend told me about the latest online scam tactic. In
   this tactic, the scammer poses as a police/CBI/Narcotics official and grills their

@@ -2,7 +2,7 @@
 title: Dusting off the glass
 date: '2022-06-30T10:30:00+05:30'
 status: publish
-permalink: "/blog/dusting-off-the-glass"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

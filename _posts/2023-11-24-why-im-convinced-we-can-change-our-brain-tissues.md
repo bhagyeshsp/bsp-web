@@ -2,7 +2,7 @@
 title: "TFN#28: \U0001FA9CWhy I’m convinced we can change our brain tissues"
 date: '2023-11-24T09:30:22+05:30'
 status: publish
-permalink: "/blog/%f0%9f%aa%9cwhy-im-convinced-we-can-change-our-brain-tissues"
+
 author: Bhagyesh Pathak
 excerpt: "So Reader, this really happened to me. And I’m not making it up. In 2016,
   I purchased a book named The Prophet. Mostly because I had heard a lot about the

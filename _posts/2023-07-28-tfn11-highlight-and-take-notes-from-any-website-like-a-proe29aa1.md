@@ -2,7 +2,7 @@
 title: 'TFN#11: Highlight and take notes from any website, like a pro⚡'
 date: '2023-07-28T10:00:00+05:30'
 status: publish
-permalink: "/blog/tfn11-highlight-and-take-notes-from-any-website-like-a-pro%e2%9a%a1"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post

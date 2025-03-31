@@ -3,7 +3,7 @@ title: 'TFN#8: The 7 sins we commit during Thrashing + Paul Graham’s essay tha
   loved'
 date: '2023-07-07T10:00:00+05:30'
 status: publish
-permalink: "/blog/tfn8-the-7-sins-we-commit-during-thrashing-paul-grahams-essay-that-i-loved"
+
 author: Bhagyesh Pathak
 excerpt: ''
 type: post
