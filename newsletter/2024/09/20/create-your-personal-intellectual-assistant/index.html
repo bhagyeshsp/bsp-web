@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <title>TFN#71: 🪜Create your personal intellectual assistant | Bhagyesh Pathak</title>
+  <meta name="description" content="Who doesn&#39;t like a little help in their work?Traditionally, people hire personal assistants. And we know it is so difficult to hire one: it costs money, they...">
+  
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="https://bhagyeshpathak.com/newsletter/2024/09/20/create-your-personal-intellectual-assistant/">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  
+  
+</head>
+
+
+  <body>
+    <div class="container">
+      <header class="site-header">
+  <div class="site-title">
+    <a href="/">Bhagyesh Pathak</a>
+  </div>
+  <nav class="site-nav">
+    <a href="/" class="nav-link ">Home</a>
+    <a href="/blog" class="nav-link ">Blog</a>
+    <a href="/newsletter" class="nav-link active">Newsletter</a>
+    <a href="/now" class="nav-link ">Now</a>
+    <!-- </nav>
+    <nav class="site-nav"> -->
+    <a href="/reading-list" class="nav-link ">Reading List</a>
+    <a href="/listening-list" class="nav-link ">Listening List</a>
+    <a href="/shop" class="nav-link ">Shop</a>
+  </nav>
+</header>
+
+
+      <main>
+        <article class="post">
+  <header class="post-header">
+    <h1 class="post-title">TFN#71: 🪜Create your personal intellectual assistant</h1>
+    <p class="post-meta">September 20, 2024</p>
+  </header>
+
+  <div class="post-content">
+    <p>Who doesn’t like a little help in their work?<br />
+Traditionally, people hire personal assistants. And we know it is so difficult to hire one: it costs money, they’re inefficient and they don’t get it our style from day one.<br />
+In short, hiring personal assistants is as tough for us as it was for Miranda Priestly (played by Meryl Streep) in The Devil Wear Prada in <a href="https://www.youtube.com/watch?v=b2f2Kqt_KcE">this scene</a>.</p>
+
+<p><img src="https://embed.filekitcdn.com/e/tkwVjiL2WnM6sb9P2ZThes/i28C2VPdHcytJfETLGfQJj" alt="0 6.jpg" /></p>
+
+<p>Or as painful as it was for Miranda to see the newly hired personal assistant <a href="https://www.youtube.com/watch?v=jjiJ-aeBj9Y">mess up the work</a>:</p>
+
+<p><img src="https://embed.filekitcdn.com/e/tkwVjiL2WnM6sb9P2ZThes/qjAggKUk4E7Ene2cCmPzpR" alt="1 3.jpg" /></p>
+
+<p>But if you think about it, most of us don’t need to hire a personal assistant to help in our day-to-day work.<br />
+In fact, the renowned philosopher Nassim Nicholas Taleb mentions in his book Skin In The Game that he doesn’t believe in hiring personal assistants:</p>
+
+<p>The mere presence of an assistant suspends your natural filtering—and its absence forces you to do only things you enjoy, and progressively steer your life that way. (By assistant here I exclude someone hired for a specific task, such as grading papers, helping with accounting, or watering plants; just some guardian angel overseeing all your activities). This is a <em>via negativa</em> approach: you want maximal free time, not maximal activity, and you can assess your own “success” according to such metric. Otherwise, you end up assisting your assistants, or being forced to “explain” how to do things, which requires more mental effort than doing the thing itself. In fact, beyond my writing and research life, this has proved to be great financial advice as I am freer, more nimble, and have a very high benchmark for doing something, while my peers have their days filled with unnecessary “meetings” and unnecessary correspondence.So, the personal assistant we are talking about is an assistant meant to do some specific intellectual work. Not a calendar manager of our work.</p>
+
+<h3 id="we-will-use-google-labs-notebooklm">We will use Google Labs’ NotebookLM</h3>
+
+<p>I came across this free product from Google Labs a few days back and it is great. It is called <a href="https://notebooklm.google.com/">NotebookLM</a>. Since it is from Google Labs and is experimental, we don’t know how long they will keep this project alive. But it shouldn’t discourage us from creating our personal assistant using it.</p>
+
+<h3 id="what-we-are-going-to-do">What we are going to do</h3>
+
+<p>We will create a personal assistant that can read our documents and answer questions like an obedient and smart assistant. In fact, it will also produce a high quality audio podcast summarizing our documents.</p>
+
+<h3 id="atal-tinkering-lab-curriculum-assistant">Atal Tinkering Lab curriculum assistant</h3>
+
+<p>If you’re my friend or a connection on social media, you might have been fed up with my usage of the ATL curriculum in all use cases. I like using it because I know the subject matter and it has practical implications.<br />
+A few days ago, I also shared one of such use cases of in-built ATL session planning in <a href="https://www.linkedin.com/posts/bhagyeshpathak_replace-equip-ataltinkeringlab-activity-7236327006672482304-3puj">this LinkedIn post</a>.<br />
+​</p>
+
+<p>But today, we will look at something entirely different: ATL curriculum assistant who would be able to summarize and talk about the curriculum to us.</p>
+
+<h3 id="follow-these-steps-and-then-take-over">Follow these steps and then take over</h3>
+
+<p>STEP-1</p>
+
+<p>Download the ATL curriculum files from <a href="https://www.aim.gov.in/atl-tinkering-cirriculam.php">here.</a> There are three levels of curriculum. I have used only Level-1 curriculum for our example.</p>
+
+<p>STEP-2</p>
+
+<p>Go to Google Labs’ <a href="https://notebooklm.google.com/">NotebookLM</a>. It will ask you to log in first.<br />
+​</p>
+
+<p><img src="https://embed.filekitcdn.com/e/tkwVjiL2WnM6sb9P2ZThes/p5RUV3ddQi85916gcrKaeY" alt="2 28.png" /></p>
+
+<p>STEP-3</p>
+
+<p>Then click “New Notebook”. Upload your PDFs as the source. I added the Level-1 curriculum. It would take 15-20 seconds to read the PDFs and populate the screen with relevant info.</p>
+
+<p>Once uploaded, the screen will provide options to:</p>
+
+<ol>
+  <li>Create an FAQ document from it</li>
+  <li>Create a Study Guide</li>
+  <li>Create a Table of Contents</li>
+  <li>Create a Timeline of the file edits</li>
+  <li>Create a Briefing Doc</li>
+  <li>Generate an Audio Overview (Must try)</li>
+  <li>Chat with the assistant about the curriculum</li>
+</ol>
+
+<p><img src="https://embed.filekitcdn.com/e/tkwVjiL2WnM6sb9P2ZThes/bRfvAevKgdvvZKDfmrN6JH" alt="3 30.png" /></p>
+
+<p>STEP-4</p>
+
+<p>Now tinker with it.<br />
+For example, I clicked on the FAQ button and It generated a pretty good list of FAQs:</p>
+
+<p><em>(Tip: in case, your screen is too small to fit the whole webpage, press the F11 key on your keyboard to enter a full-screen mode. Press it again to exit the full-screen mode.)</em>​<br />
+​</p>
+
+<p><img src="https://embed.filekitcdn.com/e/tkwVjiL2WnM6sb9P2ZThes/4mmZVHifoa31QzDKBKxNGn" alt="4 21.png" /></p>
+
+<p>I also generated the audio overview. It took about 3 minutes to generate. The AI actors talk about the whole curriculum in such a juicy manner. For example, just in the beginning, they comment that the number of children targeted under the ATL project are staggering 75 lac, similar to the population of Switzerland. (The AI agents came up with the factoid!)</p>
+
+<p>Here’s the audio if you want to see how natural and entertaining it has come out:<br />
+​<a href="https://download.filekitcdn.com/d/tkwVjiL2WnM6sb9P2ZThes/scoFu61czXaZ5wo19JBj6E"><strong>ATL Curriculum Podcast.mp3</strong></a>​</p>
+
+<p>So, give it a try and see what else you can do with it.</p>
+
+<p>I have tried such AI assistants by creating custom GPTs, but none of them match the precision and fun provided by NotebookLM.<br />
+I hope you enjoy it as much as I did.</p>
+
+<p>So, if you make some fun or serious use of this personal assistant, don’t forget to share it with me.<br />
+Have you tried it already? <strong>Hit Reply and share it with me.</strong></p>
+
+<hr />
+
+<p><strong>Reads of the week:</strong></p>
+
+<p><img src="https://embed.filekitcdn.com/e/tkwVjiL2WnM6sb9P2ZThes/e6vysEeGa24YCn8Ln1feGp" alt="6 10.png" /></p>
+
+<p>​<a href="https://www.livescience.com/technology/artificial-intelligence/these-living-computers-are-made-from-human-neurons">Link</a>​<br />
+We know that our brain is a computer. A biological one.<br />
+A company named FinalSparks has taken this idea to the implementation level. They’ve built neural computers. They’re alive and can perform some rudimentary tasks.<br />
+What a time to be alive!<br />
+Read on.</p>
+
+  </div>
+
+  
+    
+    
+    
+    
+    
+    
+
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        
+        
+        
+
+    
+  
+
+  
+  
+
+  <div class="post-navigation">
+    
+      <a class="prev" href="/newsletter/2024/09/13/today-we-create-a-tiny-folder-generator-software-using-notepad-you-can-do-it-trust-me/">&larr; TFN#70: 🪜Today we create a tiny folder-generator software using Notepad. You can do it. Trust me.</a>
+    
+    
+      <a class="next" href="/newsletter/2024/09/27/backing-up-work-regularly/">TFN#72: 🪜Backing up work regularly &rarr;</a>
+    
+  </div>
+</article>
+
+
+      </main>
+      <footer class="site-footer">
+  <div class="footer-content">
+    <p>&copy; 2025 Bhagyesh Pathak. All rights reserved.</p>
+    <p class="footer-links">
+      <a href="/">Home</a>
+      <a href="/about">About</a>
+      <a href="/#contact-me">Contact</a>
+    </p>
+  </div>
+</footer>
+
+
+    </div>
+    <button id="goToTopBtn" title="Go to top">
+      <i class="fas fa-chevron-up"></i>
+    </button>
+    <script>
+      // When the user scrolls down 20px from the top of the document, show the button
+      window.onscroll = function() {scrollFunction()};
+      
+      function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+          document.getElementById("goToTopBtn").style.display = "block";
+        } else {
+          document.getElementById("goToTopBtn").style.display = "none";
+        }
+      }
+      
+      // When the user clicks on the button, scroll to the top of the document
+      document.getElementById("goToTopBtn").addEventListener("click", function(){
+          // For Safari
+          document.body.scrollTop = 0;
+      
+          // For Chrome, Firefox, IE and Opera
+          document.documentElement.scrollTop = 0;
+      });
+      
+        </script>
+        
+        <script data-goatcounter="https://bhagyeshpathak.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
+  </body>
+  
+</html>
+

@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <title>TFN#68: 🪜Principle of Least Privilege | Bhagyesh Pathak</title>
+  <meta name="description" content="I should have named last week&#39;s letter &quot;Staff or Admin (Part 1/2)&quot;. Because today&#39;s is kind of Part 2/2.Yes, kind of.I could have shared this independently, ...">
+  
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="https://bhagyeshpathak.com/newsletter/2024/08/30/principle-of-least-privilege/">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  
+  
+</head>
+
+
+  <body>
+    <div class="container">
+      <header class="site-header">
+  <div class="site-title">
+    <a href="/">Bhagyesh Pathak</a>
+  </div>
+  <nav class="site-nav">
+    <a href="/" class="nav-link ">Home</a>
+    <a href="/blog" class="nav-link ">Blog</a>
+    <a href="/newsletter" class="nav-link active">Newsletter</a>
+    <a href="/now" class="nav-link ">Now</a>
+    <!-- </nav>
+    <nav class="site-nav"> -->
+    <a href="/reading-list" class="nav-link ">Reading List</a>
+    <a href="/listening-list" class="nav-link ">Listening List</a>
+    <a href="/shop" class="nav-link ">Shop</a>
+  </nav>
+</header>
+
+
+      <main>
+        <article class="post">
+  <header class="post-header">
+    <h1 class="post-title">TFN#68: 🪜Principle of Least Privilege</h1>
+    <p class="post-meta">August 30, 2024</p>
+  </header>
+
+  <div class="post-content">
+    <p>I should have named last week’s letter “Staff or Admin (Part 1/2)”. Because today’s is kind of Part 2/2.<br />
+Yes, <em>kind of</em>.<br />
+I could have shared this independently, but sequencing helps us connect the dots better. And this one is directly related to most people’s work. So…<br />
+So, we talked about four types of access control last week.<br />
+One of them was the DAC (Discretionary Access Control). The one where we decide whom to allow different levels of access.<br />
+Remember this screenshot? We will take that example forward.</p>
+
+<p><img src="https://embed.filekitcdn.com/e/tkwVjiL2WnM6sb9P2ZThes/9Mu1hoEG5F4VS9x1VqiaxY" alt="0 9.png" /></p>
+
+<h2 id="we-use-dac-everyday">We use DAC everyday</h2>
+
+<p>You might be sharing files on Google Drive or One Drive etc platforms with your colleagues regularly. We allow different people to access our files at our discretion. That makes it DAC type.</p>
+
+<p>And if you check the different types of available access, there are three types:</p>
+
+<ul>
+  <li>Viewer</li>
+  <li>Commenter</li>
+  <li>Editor</li>
+  <li>There’s a fourth one: Owner (which you can transfer to others. I will share how to do it in future)</li>
+</ul>
+
+<p><img src="https://embed.filekitcdn.com/e/tkwVjiL2WnM6sb9P2ZThes/5YueYaxcyKNdrtfqkeZn5v" alt="1 25.png" /></p>
+
+<h2 id="now-lets-say-we-are-working-on-a-document-on-google-docs">Now let’s say we are working on a document on Google Docs</h2>
+
+<p>And we need to add 10 of our colleagues to this document. For collaboration. What would we do?<br />
+Generally speaking, we would add all 10 colleagues to the document, making them “Editor”. This is also due to the <a href="https://www.mentesabiertaspsicologia.com/blog-psicologia/blog-psicologia/default-effect-what-it-is-and-how-it-influences-our-decisions">Default Effect that influences our decisions</a>. Because the “Editor” is a default choice provided by Google Docs.</p>
+
+<p>But would all of our colleagues be Editing the document?<br />
+No.</p>
+
+<p>Out of 10 colleagues:</p>
+
+<ul>
+  <li>2 will need editing rights</li>
+  <li>2 will need commenting rights</li>
+  <li>6 won’t bother looking at the document because you know we are just “keeping them in loop”, otherwise they will make a ruckus later</li>
+</ul>
+
+<h2 id="so-ideally">So ideally…</h2>
+
+<p>This is what how the access permissions should look like:</p>
+
+<ul>
+  <li>2 Editors</li>
+  <li>2 Commenters</li>
+  <li>6 Viewers</li>
+</ul>
+
+<h2 id="thats-the-principle-of-least-privilege">That’s the Principle of Least Privilege</h2>
+
+<p>Only granting the minimum access necessary for users to perform their jobs. Nothing less, nothing more.<br />
+Applying a culture of this principle shields organizations from suffering confidential info leaks, data breaches and reputational damage.</p>
+
+<p>I have observed–as you too might have–that so many organizations suffer from too relaxed a culture of privacy. This makes it difficult to say no to people who shouldn’t be on a team, a meeting room or a shared document.<br />
+What are your experiences in this regard?<br />
+​<strong>Hit Reply and share it with me.</strong></p>
+
+<hr />
+
+<p><strong>Reads of the week:</strong></p>
+
+<p><img src="https://embed.filekitcdn.com/e/tkwVjiL2WnM6sb9P2ZThes/oMfNin5JLZwnKnC4bFG1Qz" alt="2 25.png" /></p>
+
+<p>​<a href="https://a16z.com/ai-turns-capital-to-labor/">Click to read</a>​<br />
+All of us have been witnessing different types of software integrations with AI. But in almost all use cases, we have to take action. We have to do something and the AI helps do it.<br />
+In this article, Alex Rampell, a GP at Andreessen Horowitz, argues that we will see more and more use cases where the users will not have to do anything. The AI agents will become the labour (in fact, we have already seen it in a few companies). This opens up a possibility to generate new types of work, better work for people.<br />
+I liked how simply the author has laid out his thoughts in this article.</p>
+
+<h3 id="the-immediate-cause-of-the-obesity-epidemic-is-feminism">​<a href="https://x.com/Devon_Eriksen_/status/1827513966186160565">The immediate cause of the obesity epidemic is feminism</a>​</h3>
+
+<p>I had never thought of this. I’ve grown to experience and understand some of the sins of feminism and their causes. But this one hit home. One more of Devon Eriksen’s connecting the dots moment. Or putting the finger on the unsaid, un-understood part of politics and culture.</p>
+
+<p>You might have noticed, the louder a feminist, the uglier and unhealthier they tend to be. The American obesity epidemic has already knocked on the doors of India and other developing economies. It would be fun to see how far this pandemic progresses.</p>
+
+  </div>
+
+  
+    
+    
+    
+    
+    
+    
+
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        
+        
+        
+
+    
+  
+
+  
+  
+
+  <div class="post-navigation">
+    
+      <a class="prev" href="/newsletter/2024/08/23/staff-or-admin/">&larr; TFN#67: 🪜Staff or Admin?</a>
+    
+    
+      <a class="next" href="/newsletter/2024/09/06/my-go-to-site-for-symbols/">TFN#69: 🪜 My go-to site for symbols &rarr;</a>
+    
+  </div>
+</article>
+
+
+      </main>
+      <footer class="site-footer">
+  <div class="footer-content">
+    <p>&copy; 2025 Bhagyesh Pathak. All rights reserved.</p>
+    <p class="footer-links">
+      <a href="/">Home</a>
+      <a href="/about">About</a>
+      <a href="/#contact-me">Contact</a>
+    </p>
+  </div>
+</footer>
+
+
+    </div>
+    <button id="goToTopBtn" title="Go to top">
+      <i class="fas fa-chevron-up"></i>
+    </button>
+    <script>
+      // When the user scrolls down 20px from the top of the document, show the button
+      window.onscroll = function() {scrollFunction()};
+      
+      function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+          document.getElementById("goToTopBtn").style.display = "block";
+        } else {
+          document.getElementById("goToTopBtn").style.display = "none";
+        }
+      }
+      
+      // When the user clicks on the button, scroll to the top of the document
+      document.getElementById("goToTopBtn").addEventListener("click", function(){
+          // For Safari
+          document.body.scrollTop = 0;
+      
+          // For Chrome, Firefox, IE and Opera
+          document.documentElement.scrollTop = 0;
+      });
+      
+        </script>
+        
+        <script data-goatcounter="https://bhagyeshpathak.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
+  </body>
+  
+</html>
+
