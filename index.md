@@ -13,7 +13,7 @@ title: Home
         <p>Then eventually you'd learn the things I have listed on my <a href="{{'/about/' | relative_url }}">About Page</a>. I need to update it, but still take a look.</p>
 </div>
     <div class="home-image">
-        <img src="/assets/images/the_wall_experience.jpg" alt="The Wall Experience" />
+        <img src="/assets/images/the_wall_experience.webp" alt="The Wall Experience" />
         <p>Painted from my "Wall Experience"</p>
     </div>
 </div>
