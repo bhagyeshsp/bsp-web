@@ -2,6 +2,8 @@
 layout: page
 title: Shop
 permalink: /shop/
+description: "Tools and ideas I've learned from my experience in education and systems design. Check out Wu Wei Cards and Data System Design Notes."
+
 ---
 I like to market and sell ideas. 
 

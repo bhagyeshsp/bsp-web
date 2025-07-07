@@ -2,6 +2,8 @@
 layout: page
 title: Listening List
 permalink: /listening-list/
+description: "A curated list of insightful podcast episodes, mainly Akimbo by Seth Godin, to help you comprehend better and stay amused. Simply hit play and enjoy!"
+
 ---
 
 I understand that everyone is not a reader. Some people comprehend better by reading, while some by hearing. Regardless of your dominant comprehension style, you will enjoy these podcast episodes.

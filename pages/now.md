@@ -2,6 +2,8 @@
 layout: page
 title: What I'm upto?
 permalink: /now/
+description: "A snapshot of my current activities: projects, reading, and writing. Updated regularly."
+
 ---
 *(This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)*
 

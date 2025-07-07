@@ -2,6 +2,8 @@
 layout: page
 title: Newsletter
 permalink: /newsletter/
+description: "Stay updated with my insights! Sisyphus Notes on tech & design, plus the complete archive of The Friday Newsletter (TFN)."
+
 ---
 
 My last long-running weekly newsletter was named The Friday Newsletter (TFN).

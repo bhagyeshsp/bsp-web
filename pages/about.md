@@ -2,6 +2,7 @@
 layout: default
 title: About
 permalink: /about/
+description: "Learn about my background, experiences, and the types of projects I've worked on. I help founders bring their visions to life."
 ---
 *This about page is slightly dated. So, enjoy it until I update it. Meanwhile, you can learn [what I'm doing right now]({{'/now' | relative_url}}).*
 
