@@ -511,3 +511,38 @@ iframe {
   font-size: small;
   font-style: italic;
 }
+
+/* Table Styling */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1.5em;
+  overflow-x: auto;
+  word-break: normal;
+}
+
+/* Header and Cell Styling */
+th, td {
+  padding: 8px 12px 8px 2px;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+
+/* Table Header Styling */
+thead th {
+  font-weight: bold;
+  text-align: left;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+}
+
+/* Table Row Styling */
+tbody tr {
+  background-color: #fff;
+  border-top: 1px solid #000;
+}
+
+/* Spacing between columns */
+td + td, th + th {
+  padding-left: 1.5rem;
+}
