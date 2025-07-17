@@ -13,6 +13,11 @@ tag: []
 layout: post
 ---
 
+<h2> Essay Outline </h2>
+* TOC
+{:toc}
+
+
 In 2022, when I came across DALL-E and ChatGPT for the first time, I was hooked. I spent hours and hours of my time tinkering with them. Apart from the fun, I wanted to find out their capabilities and limitations. What a feeling! Consequently, I couldn't stop myself from sharing about it with the people I cared for. I had to share it with everyone I knew. I just couldn't resist.
 
 Why couldn't I resist myself from sharing about these tools?
