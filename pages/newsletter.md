@@ -15,7 +15,7 @@ And what about writing?
 
 I shifted to publishing Sisyphus Notes. Unlike The Friday Newsletter, these notes do not follow any weekly or monthly goals.
 
-<iframe src="https://sisyphusnotes.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+{% include newsletter.html %}
 
 <br>
 <br>
