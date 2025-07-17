@@ -1,0 +1,5 @@
+{% capture words %}
+{{ content | number_of_words }}
+{% endcapture %}
+{% if number_of_words <= 200 %} 1 minute to read {% else %} {% assign reading_time=words | minus: 1 | divided_by: 150 |
+    plus: 1 %} {{ reading_time | ceil }} minutes to read {% endif %}
