@@ -2,7 +2,7 @@
 
 > A collection of essays and resources on technology, philosophy, and human potential.
 
-Last Updated: 2026-02-24T11:33:19+00:00
+Last Updated: 2026-02-25T06:46:29+00:00
 
 
 ## Pages
@@ -1557,33 +1557,37 @@ Description: A snapshot of my current activities: projects, reading, and writing
 
 (This is a now page, and if you have your own site, you should make one, too.)
 
-Updated on March 28th, 2025 from my desk
+Updated on February 25th, 2026 from my desk
+
+Where and weather..
+
+This hasn’t changed since my last update.
 
 Right now I’m residing in Ahmedabad. March-June months are typically quite hot here. And they’re getting hotter (until early 2000s the media and “experts” were saying it is due to some Ozone layer hole. Then they started saying that it is due to Global Warming. Now I’m convinced it is due to Climate Change). Let’s see how this season goes.
 
 Watching, reading…
 
-I’m not binging any web series at the moment. And reading is a continuous process. Right now in the middle of “Seven years in Tibet”. Looks like I’m going to leave this read reserved for travel. I found it more enjoying while traveling.
+If I’m watching any movies, they’re mostly South Korean, Japanese or Indonesian ones. (This reminds me of compiling the list of movies that I have watched until now.)
+
+Currently reading “Barbarians at the Gate: The Fall of RJR Nabisco”, a real corporate drama thriller. I haven’t read something like this ever. The authors are wordsmiths and real artists, painting a vivid picture of each character involved in the LBO (leveraged buyout) of RJR Nabisco. Simply beautiful.
 
 Working…
 
-There are couple of things I’m working on:
+In the last update, I had mentioned a couple of projects that I was working on. I have abandoned some of them. These are couple of things I’m working on:
 
 Catering to a few clients on their tech solutions.
 
-Creating professional-grade physical copies of the Wu Wei Cards. I’m quite excited about putting them in the market.
+The Wu Wei Cards product is in its last phase: not only the physical cards, but also digital tools have been created. It is going to be a beautiful product providing a beautiful experience.
 
-Creating a simple Meal Planner app. We have been using a pen-and-paper meal planner at my home for more than 6 months. It is time to create an app. The app is almost ready. I tried to over-engineer it for offline capabilities and it was soo difficult that I abandoned the idea. Now improving the online-only version.
-
-Coming up: a web template marketplace. I recently published an open-source Jekyll template. This upcoming marketplace will have such templates: some free and some premium.
+Another major software prdouct I’m working on is Feedhammer. It is still stealth and the testing is in its last phase. This product is going to be the biggest bet from Sisyphus Consulting in 2026. Bet in the sense of opening a product up for a large number of users. And yes, this product is focused on the US, UK, European market. We will see if Indian consumers want it and later on release India-specific tiers too.
 
 Travel plans…
 
-No immediate leisure travel plans. Maybe a trip in and around Pune in couple of weeks, for work. And that’s not travel.
+Travelling to Pune and around in March for work. Leisure travel may not be this planned, if it is going to happen, it would take a moment’s notice I guess.
 
 Writing…
 
-I’m working on an essay about Artificial Intelligence. I published one a few months ago on the same subject. Experiencing the effects of AI first-hand, I won’t be surprised if I wrote a couple more essays on the subject.
+I have been publishing more than last year. However, long-form essays are taking more time. Currently writing an essay with a working title “you can just do things”.
 
 
 ---
