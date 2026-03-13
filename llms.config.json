@@ -1,0 +1,18 @@
+{
+  "baseUrl": "https://bhagyeshpathak.com",
+  "title": "Bhagyesh Pathak",
+  "description": "A collection of essays and resources on technology, philosophy, and human potential.",
+  "siteDir": "_site",
+  "outputFile": "_site/llms-full.txt",
+  "outputLlmsFile": "_site/llms.txt",
+  "excludeUrls": [
+    "/llms.txt",
+    "/llms-full.txt",
+    "/404.html",
+    "/404/",
+    "/sitemap.xml",
+    "/feed.xml",
+    "/atom.xml",
+    "/guide/"
+  ]
+}
