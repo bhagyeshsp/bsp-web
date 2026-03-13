@@ -1,8 +1,17 @@
 {
-  "name": "my-v0-project",
+  "name": "bsp-web",
   "version": "0.1.0",
   "private": true,
+  "description": "LLMS.txt generator using Mozilla Readability for Jekyll sites",
   "scripts": {
-    "build": "echo 'no build script'"
+    "build": "echo 'no build script'",
+    "generate:llms": "node scripts/generate-llms.js",
+    "postbuild": "npm run generate:llms"
+  },
+  "dependencies": {
+    "@mozilla/readability": "^0.5.0",
+    "jsdom": "^22.1.0",
+    "turndown": "^7.1.2",
+    "turndown-plugin-gfm": "^1.0.2"
   }
 }
