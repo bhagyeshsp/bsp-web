@@ -2,7 +2,7 @@
 
 > A collection of essays and resources on technology, philosophy, and human potential.
 
-Last Updated: 2026-03-13T07:17:41.513Z
+Last Updated: 2026-03-27T16:18:48.980Z
 
 ## Pages
 
@@ -1213,7 +1213,11 @@ I have listed only two of those ideas here: [Wu Wei Cards](#if-youre-in-the-busi
 
 ### If you’re in the business of facilitation…
 
-…don’t miss out on checking my favourite Wu-Wei Cards. I’m shortly coming up with printed cards, ready-to-ship too!
+Check out the [Wu Wei Cards](https://wuwei.cards/) on its dedicated address. These are smart processing tools that help you turn your workshops and interactions in powerful experiences. There are plenty of free facilitation tools that you might not have seen before. Give them a try, they’re all FREE and no login required.
+
+Attaching the latest home page screenshot at the time of writing this:
+
+![Wu Wei Cards](https://bhagyeshpathak.com/assets/images/uploads/wuwei-1.webp)
 
 ### If you’re in the business of data collection and analysis…
 
@@ -1227,6 +1231,36 @@ URL: https://bhagyeshpathak.com/now/
 Description: A snapshot of my current activities: projects, reading, and writing. Updated regularly.
 
 *(This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)*
+
+Updated on March 27th, 2026 from my desk
+
+## Where and weather…
+
+Same as my last update. Ahmedabad and Hot.
+
+## Watching, reading…
+
+Reading a lot of articles and blogs on LLM mechanism, embeddings, context engineering etc. Thanks to the just completed Wu Wei Cards product. It forced me to take this work up. More in upcoming blogs and essays.
+
+## Working
+
+As I mentioned, in the last update:
+
+-   [Wu Wei Cards](https://wuwei.cards/) product is made live today. This is one of the long-running projects of Sisyphus Consulting Pvt. Ltd. In fact, even before the company was formed. This was always in the pipeline. Wu Wei cards is a combination of physical + digital + AI tech. I’m quite excited to share all the struggles, learning and insights in my upcoming blogs and essays. If you’re reading this and if you want to get your hands dirty with some real work and ideas, email me.
+-   Feedhammer is still in the last phase of testing but there was a major feature addition that we had to do a few weeks back. All in all, I’m quite happy with the addition. It positions Feedhammer as a well-thought out product. Let’s see how much more time it takes for its rollout.
+-   Based on my experience with the Wu Wei Cards’ AI feature, now I’m gearing up to offer personalized AI solutions for clients. We have solved the problem from technical and costing side, now we can help clients better. If you’re looking for a solution or has an inkling on something that you want to build for your organization–on your own data, we are in the perfect position to help you figure things out and build it.
+
+## Travel plan…
+
+Every time I plan travel, something comes up. The last update’s travel plan didn’t happen. Let’s see what happens this time. In any case, April-June are not my favourite months of travel.
+
+## Writing
+
+“You can just do things” essay is almost complete. It should be out by next week.
+
+* * *
+
+## Then
 
 Updated on February 25th, 2026 from my desk
 
@@ -1257,6 +1291,45 @@ I have been publishing more than last year. However, long-form essays are taking
 ---
 
 ## Posts
+
+### Wu Wei cards are live!
+
+URL: https://bhagyeshpathak.com/uncategorized/2026/03/27/wu-wei-cards-are-live/
+Date: 2026-03-27
+Description: A collection of essays and resources on technology, philosophy, and human potential.
+Author: Bhagyesh Pathak
+
+Finally, [wuwei.cards](https://wuwei.cards/) is live. I first came across processing cards a few years ago. And their effect hasn’t left me since then, so much so that I’m going over so much trouble to provide the same experience to others. Crazy.
+
+Wu Wei is an ancient Chinese philosophy, which loosely translates to “non-action” or “effortless action”. I came across the idea of Wu Wei while reading and re-reading the beautiful experiential book by Steven Simpson, called “The Leader Who is Hardly Known”. (I literally distributed several tens copies of that book in my circle at the time.)
+
+One of the things that most facilitators miss out on is using props. Effective props. I believe Wu Wei cards are some of the most effective props a facilitator can use (of course, props are secondary, facilitation is primary).
+
+This project has been going on at the back of my mind, through [Hardi](https://hardishukla.com/)’s pencil and [Bansari](https://bansaripathak.com/)’s brainstorming for the last 4 years. And now finally, it has reached you.
+
+The initial idea was to offer only cards but what’s the point of only having physical cards when the world works now through hybrid mode: physical + digital. Hence, the digital tools that supercharge anyone’s facilitation.
+
+This is probably the world’s first digital facilitation toolkit with such a rich variety of interactivity.
+
+The main point is: if you can’t afford or need the Wu Wei cards, it’s okay. But these powerful tools are FREE. Anyone can use them without spending a penny or sharing a login credential.
+
+It is a gift–passed as received.
+
+Since this product was manifested by the talented [Hardi Shukla](https://hardishukla.com/), you will see her fingerprints all over them: cards, companion guide, and packaging.
+
+Shoutout to Vishwas Parchure for his DEEP facilitation. If it wasn’t for DEEP, I would have been building some fun applications but would have missed out on passing on these gifts.
+
+[wuwei.cards](https://wuwei.cards/) is the first major physical + digital + AI product by Sisyphus Consulting Pvt. Ltd..
+
+And oh yes, soon, the Wu Wei Cards will be available to purchase online and in some select stores.
+
+PS: To every friend whom I have been mentioning Wu Wei Cards product for last four years, this is it. Finally, it is published. :D
+
+PPS: Pls visit [wuwei.cards](https://wuwei.cards/) and let me know how you liked it.
+
+![Wu Wei Cards](https://bhagyeshpathak.com/assets/images/uploads/wuwei-1.webp)
+
+---
 
 ### Barbarians at the gate
 
@@ -12487,6 +12560,12 @@ So, what value are you serving from home?
 
 URL: https://bhagyeshpathak.com/blog/
 Description: Explore my insights on technology, design, marketing, philosophy, and human potential. Read my latest blog posts.
+
+March 27, 2026
+
+## [Wu Wei cards are live!](https://bhagyeshpathak.com/uncategorized/2026/03/27/wu-wei-cards-are-live/)
+
+Finally, wuwei.cards is live. I first came across processing cards a few years ago. And their effect hasn’t left me since then, so much so that I’m going over so much trouble to provide the same experience to others. Crazy. Wu Wei is an ancient Chinese philosophy, which loosely translates...
 
 March 13, 2026
 
