@@ -7,6 +7,36 @@ description: "A snapshot of my current activities: projects, reading, and writin
 
 _(This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)_
 
+Updated on March 27th, 2026 from my desk
+
+## Where and weather...
+
+Same as my last update. Ahmedabad and Hot.
+
+## Watching, reading...
+
+Reading a lot of articles and blogs on LLM mechanism, embeddings, context engineering etc. Thanks to the just completed Wu Wei Cards product. It forced me to take this work up. More in upcoming blogs and essays.
+
+## Working
+
+As I mentioned, in the last update:
+
+- [Wu Wei Cards](https://wuwei.cards) product is made live today. This is one of the long-running projects of Sisyphus Consulting Pvt. Ltd. In fact, even before the company was formed. This was always in the pipeline. Wu Wei cards is a combination of physical + digital + AI tech. I'm quite excited to share all the struggles, learning and insights in my upcoming blogs and essays. If you're reading this and if you want to get your hands dirty with some real work and ideas, email me.
+- Feedhammer is still in the last phase of testing but there was a major feature addition that we had to do a few weeks back. All in all, I'm quite happy with the addition. It positions Feedhammer as a well-thought out product. Let's see how much more time it takes for its rollout.
+- Based on my experience with the Wu Wei Cards' AI feature, now I'm gearing up to offer personalized AI solutions for clients. We have solved the problem from technical and costing side, now we can help clients better. If you're looking for a solution or has an inkling on something that you want to build for your organization--on your own data, we are in the perfect position to help you figure things out and build it.
+
+## Travel plan...
+
+Every time I plan travel, something comes up. The last update's travel plan didn't happen. Let's see what happens this time. In any case, April-June are not my favourite months of travel.
+
+## Writing
+
+"You can just do things" essay is almost complete. It should be out by next week.
+
+---
+
+# Then
+
 Updated on February 25th, 2026 from my desk
 
 ## Where and weather..
