@@ -2,7 +2,7 @@
 
 > A collection of essays and resources on technology, philosophy, and human potential.
 
-Last Updated: 2026-03-27T16:18:48.979Z
+Last Updated: 2026-03-30T03:59:25.677Z
 
 ## Pages
 - [About](https://bhagyeshpathak.com/about/)
@@ -15,6 +15,7 @@ Last Updated: 2026-03-27T16:18:48.979Z
 - [What I’m upto?](https://bhagyeshpathak.com/now/)
 
 ## Posts
+- [You can just do things](https://bhagyeshpathak.com/uncategorized/2026/03/30/you-can-just-do-things/)
 - [Wu Wei cards are live!](https://bhagyeshpathak.com/uncategorized/2026/03/27/wu-wei-cards-are-live/)
 - [Barbarians at the gate](https://bhagyeshpathak.com/uncategorized/2026/03/13/barbarians-at-the-gate-book-review/)
 - [The pleasure of experimenting](https://bhagyeshpathak.com/uncategorized/2026/01/12/the-pleasure-of-experimenting/)
