@@ -1,0 +1,788 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Scaling LLMs at the Edge: A journey through distillation, routers, and embeddings | Bhagyesh Pathak</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Scaling LLMs at the Edge: A journey through distillation, routers, and embeddings" />
+<meta name="author" content="Bhagyesh Pathak" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A collection of essays and resources on technology, philosophy, and human potential." />
+<meta property="og:description" content="A collection of essays and resources on technology, philosophy, and human potential." />
+<link rel="canonical" href="https://bhagyeshpathak.com/uncategorized/2026/04/01/scaling-llms-at-the-edge/" />
+<meta property="og:url" content="https://bhagyeshpathak.com/uncategorized/2026/04/01/scaling-llms-at-the-edge/" />
+<meta property="og:site_name" content="Bhagyesh Pathak" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2026-04-01T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Scaling LLMs at the Edge: A journey through distillation, routers, and embeddings" />
+<meta name="google-site-verification" content="" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Bhagyesh Pathak"},"dateModified":"2026-04-01T00:00:00+00:00","datePublished":"2026-04-01T00:00:00+00:00","description":"A collection of essays and resources on technology, philosophy, and human potential.","headline":"Scaling LLMs at the Edge: A journey through distillation, routers, and embeddings","mainEntityOfPage":{"@type":"WebPage","@id":"https://bhagyeshpathak.com/uncategorized/2026/04/01/scaling-llms-at-the-edge/"},"url":"https://bhagyeshpathak.com/uncategorized/2026/04/01/scaling-llms-at-the-edge/"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="/assets/images/my-favicon/favicon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/svg+xml" href="/assets/images/my-favicon/favicon.svg" />
+  <link rel="shortcut icon" href="/assets/images/my-favicon/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/my-favicon/apple-touch-icon.png" />
+  <link rel="manifest" href="/assets/images/my-favicon/site.webmanifest" />
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="https://bhagyeshpathak.com/uncategorized/2026/04/01/scaling-llms-at-the-edge/">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  
+</head>
+  <body>
+    <div class="container">
+      <header class="site-header">
+  <div class="site-title">
+    <a href="/">Bhagyesh Pathak</a>
+  </div>
+  <nav class="site-nav">
+    <a href="/" class="nav-link ">Home</a>
+    <a href="/blog" class="nav-link ">Blog</a>
+    <a href="/newsletter" class="nav-link ">Newsletter</a>
+    <a href="/now" class="nav-link ">Now</a>
+    <!-- </nav>
+    <nav class="site-nav"> -->
+    <a href="/reading-list" class="nav-link ">Reading List</a>
+    <a href="/listening-list" class="nav-link ">Listening List</a>
+    <a href="/shop" class="nav-link ">Shop</a>
+  </nav>
+</header>
+
+
+      <main>
+        <article class="post">
+  <header class="post-header">
+    <h1 class="post-title">Scaling LLMs at the Edge: A journey through distillation, routers, and embeddings</h1>
+    <p class="post-meta">April 01, 2026 | 
+  40 minutes to read  </p>
+  </header>
+
+  <div class="post-content">
+    <p><em>I have extensively edited this article after an LLM agent combed through my codebase and prepared the initial draft.</em>
+<em>Originally published at <a href="https://sisyphusconsulting.org/case-studies/2026/04/01/scaling-llms-at-the-edge">Sisyphus Consulting blog</a></em></p>
+
+<p>At <strong><a href="https://sisyphusconsulting.org">Sisyphus Consulting</a></strong>, We recently launched a unique product in the market: physical facilitation cards + digital tools for virtual facilitation. They’re named <strong><a href="https://wuwei.cards">Wu Wei Cards</a></strong>. But this write-up is not about the product. I want to share the behind-the-scenes events of how I navigated through tinkering with LLMs, Embeddings and the whole trial-and-error.</p>
+
+<p>If you’re building something in AI-space, I hope this would be helpful to you.</p>
+
+<p>First, let me give the background so that you know the WHATs and WHYs.</p>
+
+<h2 id="the-product-and-the-constraint">The Product and the Constraint</h2>
+
+<p>Wu Wei Cards is a deck of 50 hand-drawn metaphorical cards for facilitators, coaches, and therapists. People use them in workshops. To help participants reflect, open up, and explore ideas through objects and images rather than direct questioning.</p>
+
+<p>This is how they look like:</p>
+
+<p><img src="/assets/images/uploads/wuwei-6.webp" alt="wuwei-6.webp" width="800px" /></p>
+
+<p>Anyone who buys the physical deck gets an access code that unlocks <strong><a href="https://wuwei.cards/wu-wei-planner">Wu Wei Planner</a></strong>, a complimentary AI companion. It helps facilitators plan sessions, interpret cards, and think through how to use them in different professional contexts. It understands the nuances — when to flag trauma-sensitive approaches, how to frame questions that don’t lead people, which cards work for different situations.</p>
+
+<p>The Wu Wei Planner is free. Complimentary. No subscription. Because we just wanted the customer to get familiar, get help onboarding and some handholding while working with the session planning in the beginning.</p>
+
+<p>That meant we had to decide a hard cost ceiling first. In dollar terms, the cards cost $20 and if we assign 10% of its value to be spent on Wu Wei Planner, <strong>$2 per customer</strong> seemed like a good budget. As I mentioned, there are no recharges, no top-ups. The chat interface shows a token usage indicator, and when the customer’s token budget drops below 20%, the system gently warns them. Once the budget is exhausted, that’s it.</p>
+
+<p>This constraint was entirely self-imposed. Every customer who buys the deck deserves as much useful runway as possible. $2 doesn’t go far unless you’re careful. That’s why I needed to optimize vigorously. The idea is simple: every token saved can give the customer more conversation before hitting the wall.</p>
+
+<h2 id="the-infrastructure-why-cloudflare-workers">The Infrastructure: Why Cloudflare Workers</h2>
+
+<p>Before getting into the optimization journey, it’s worth explaining the stack, because the infrastructure choices shaped every decision that followed.</p>
+
+<p>Everything runs on a <strong><a href="https://workers.cloudflare.com/">Cloudflare Worker</a></strong> — a serverless function deployed at the edge, close to users.</p>
+
+<p>Why Workers?</p>
+
+<ul>
+  <li><strong>No infra management.</strong> I already manage a decent number of infra and I simply didn’t want to do it for something that was always-on, secure, and on the edge.</li>
+  <li><strong>Zero cold starts.</strong> Workers don’t cold start problems.</li>
+  <li><strong>Edge deployment.</strong> 200+ locations worldwide. Requests are handled geographically close to the user.</li>
+  <li><strong>Built-in KV storage.</strong> I use Cloudflare KV to store access code hashes and token usage per customer. No separate database needed.</li>
+  <li><strong>Native streaming support.</strong> LLM streaming responses work cleanly without extra plumbing.</li>
+  <li><strong>Generous free tier.</strong> 100,000 requests per day.</li>
+</ul>
+
+<h3 id="how-does-the-site-talk-to-the-ai-model">How does the site talk to the AI model?</h3>
+
+<p>The Wu Wei Cards website is static and it calls the Worker via a simple HTTPS POST. The Worker validates the access code, assembles the prompt, calls the LLM, and streams the response back. Each request is stateless — the browser sends the full conversation history every time.</p>
+
+<p>Here’s the basic flow:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>┌─────────────────────────────────────────────────────────────┐
+│                    CLOUDFLARE WORKER                        │
+│                                                             │
+│  Client Request                                             │
+│       ↓                                                     │
+│  ┌──────────────┐                                           │
+│  │ CORS Handler │                                           │
+│  └──────┬───────┘                                           │
+│         ↓                                                   │
+│  ┌──────────────┐    ┌──────────────┐                       │
+│  │ Access Code  │───▶│   KV_STORE   │                       │
+│  │ Validation   │    │  (token use) │                       │
+│  └──────┬───────┘    └──────────────┘                       │
+│         ↓                                                   │
+│  ┌────────────────────────────────────┐                     │
+│  │   PROMPT ASSEMBLER                 │                     │
+│  │   Knowledge Base + Chat History    │                     │
+│  └──────────────┬─────────────────────┘                     │
+│                 ↓                                           │
+│  ┌────────────────────────────────────┐                     │
+│  │    LLM                             │                     │
+│  │    Streaming Response              │                     │
+│  └────────────────────────────────────┘                     │
+└─────────────────────────────────────────────────────────────┘
+</code></pre></div></div>
+
+<p>This is quite simple and standard setup. Our rest of the conversation is going to mostly focus on the last part of the diagram: Prompt Assembler and the LLM interaction. I had a lot of tinkering done in that part.</p>
+
+<h2 id="phase-1-full-context-the-baseline">Phase 1: Full Context (The Baseline)</h2>
+
+<p>I started simple: give the AI everything. The complete knowledge base — 50 card descriptions, 15 profession-specific contexts, facilitation principles, wu wei philosophy, trauma-handling guidelines — all of it, in every request, every time.</p>
+
+<p>I checked on <strong><a href="https://platform.openai.com/tokenizer">OpenAI’s tokenizer</a></strong>, the knowledge base hit roughly <strong>17,000 tokens</strong> count. I picked GPT-4.1-nano as the main model: cheap, fast, and capable enough for a first pass.</p>
+
+<p>I was actually surprised that even with the full 17,000 tokens of system prompt, the LLM responses streamed back almost instantly.</p>
+
+<p>I kind of knew that it wouldn’t be an issue, but I was actually surprised nonetheless. So, if you’re wondering, now I can tell you with high confidence that <strong>token count doesn’t equal latency.</strong> Modern LLMs handle large context just fine.</p>
+
+<p>Now that I had kind of dried-run the setup, it was time to optimize. Because as I laid out earlier: we had a solid cap of $2 per customer, which would translate to approximately 2M tokens budget (we haven’t bifurcated the budget into INPUT and OUTPUT token count.)</p>
+
+<p>To illustrate my point about token cost and its implications, let me quickly run you through the calculation.</p>
+
+<h3 id="the-token-math">The Token Math</h3>
+
+<p>With most frontier models approaching 1M context window and offering free services, 17,000 tokens per request sounds manageable and very low token count. But once we account for how chat actually works, you’d understand the reason behind optimization.</p>
+
+<p>For any single thread of chat, every message sends the full knowledge base <em>plus</em> the growing conversation history:</p>
+
+<ul>
+  <li>Message 1: ~17,350 tokens</li>
+  <li>Message 2: ~17,700 tokens (history accumulating)</li>
+  <li>Message 10: ~20,350 tokens</li>
+</ul>
+
+<p>With GPT-4.1-nano at $0.15 per million input tokens, a 20-message conversation costs roughly $0.06–0.08 in input tokens alone. Multiply that across a $2 budget and we’re looking at maybe 25–30 meaningful conversations per customer. That felt like too little runway.</p>
+
+<p>So I started cutting.</p>
+
+<p>Now, you will see different strategies that I implemented.</p>
+
+<h2 id="phase-2-tier-based-context">Phase 2: Tier-Based Context</h2>
+
+<p>First idea: environment-variable controlled context tiers. I tried slashing the knowledge base in different modular structures:</p>
+
+<ul>
+  <li><strong>Minimal</strong>: Core philosophy + handful of key cards (~1K tokens)</li>
+  <li><strong>Balanced</strong>: Philosophy + all 50 cards, short descriptions (~3K tokens)</li>
+  <li><strong>Full</strong>: Everything (~17K tokens)</li>
+</ul>
+
+<p>I set the environment variable of the prompt assembler to inject different length of contexts. I had thought that if the minimal or balanced ones provided good responses, I would stick to them.</p>
+
+<p>But as you can imagine, trimming the context so think wouldn’t have worked. The responses were awful, sounded like a generic support bot who was moonlighting for a firm he didn’t even bothered to look into.</p>
+
+<p>So, just ditched that effort.</p>
+
+<p>Now, looking at the failure of my context modularization, I got the idea of context distillation (or compression, whatever you want to call it as there are so many emerging techniques): what if I removed all unnecessary semantic words that are necessary for humans but not for an LLM?</p>
+
+<h2 id="phase-3-context-distillation">Phase 3: Context Distillation</h2>
+
+<p>I researched a bit about it and found <strong><a href="https://github.com/microsoft/LLMLingua">LLMLingua</a></strong> by Microsoft promising. What I could gather from their documentation was that they were probably rephrasing the prompt in a compressed manner and the performance enhanced, didn’t suffer. I was too desperate. So, I just asked Claude for context distillation instead of going with LLMLingua.</p>
+
+<p>Just so you know what we are talking about: the knowledge base was written for human reading: rich prose, careful explanations, context for every nuance. That’s not what an LLM needs. I stripped out the semantic padding and compressed everything into dense, AI-parseable directives.</p>
+
+<p>Here’s what that looked like for a single card:</p>
+
+<p><strong>Before (~300 tokens):</strong></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"fire": "Keywords: passion, intensity, enthusiasm, destruction, chaos, transformation, warmth, purification, anger, desire.
+ Metaphor: Fire is one of the most emotionally charged cards in the deck. It can represent burning motivation, the destructive force of unchecked anger, the warmth of community, or the transformative heat that turns raw material into something new.
+ Approach: This card rarely produces neutral responses. Hold space for both the generative (passion, warmth) and the difficult (anger, destruction). Do not steer toward the 'positive' interpretation. The power is in its duality..
+ Prompts: What is the first thing this fire brings up for you?; Is this fire helpful or harmful in what you are imagining?; Who or what tends the fire in your situation?; What would happen if this fire went out? What would happen if it spread?; Is this fire yours, or does it belong to someone else?.
+ Contexts: coaching: Explore motivation and drive. What is fueling versus burning out the client?; therapy: Approach carefully — fire can surface anger or trauma. Establish right-to-pass first.; hr: Use in culture conversations or burnout discussions. Is the organization's fire warming people or consuming them?; education: Explore learning motivation. What subject makes this kind of fire in you?; management: Team energy, performance, and change management. Where do you feel this fire in our project?; mediation: Name emotional heat. Which part of this situation feels most like fire for you?
+
+</code></pre></div></div>
+
+<p><strong>After (~100 tokens):</strong></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+CARD:Fire | kw:passion,intensity,enthusiasm,destruction,chaos,transformation, warmth,purification,anger,desire | !caution:anger/trauma may surface; establish right-to-pass | core:Duality — generative AND destructive. Rarely neutral. Never steer positive. | prompts:What does this fire bring up first?|Is it helpful or harmful?|Who tends it?|What if it went out?|Is this fire yours?
+
+</code></pre></div></div>
+
+<p>Same information. Roughly 60% fewer tokens. The LLM reads it fine.</p>
+
+<p>Applied across the whole knowledge base, the system prompt dropped from 17k tokens to roughly <strong>12k tokens</strong>. Responses stayed the same.</p>
+
+<p>So, savings of 5k tokens. Not bad.</p>
+
+<p>But 12k tokens per request was still too much. So, the next thing I realized I needed <em>selective injection</em>. I just had an inkling about what I wanted: there should be a mechanism that would go through the user’s query and inject a specific chunk of the context in the system prompt so that the model can respond well.</p>
+
+<p>Basically, I was looking to route the query and so ended up with an idea of router LLM.</p>
+
+<h2 id="phase-4-the-router-architecture">Phase 4: The Router Architecture</h2>
+
+<p>The router idea was elegant in theory: use a cheap, fast model to analyze each user message and decide which context chunks to inject into the main model’s prompt. Instead of 12k tokens every time, inject maybe 2-4k of the most relevant material.</p>
+
+<p><strong>And what would it cost?</strong>
+Approximately 1300 tokens of system prompt for the router LLM + 200-300 tokens of user query = ~1500 tokens.</p>
+
+<p>Spending ~1500 tokens on a routing decision to save ~10,000 tokens of unnecessary context is a good deal. But it wasn’t that straightforward. Before we get to the problems, let us look at the attempts.</p>
+
+<h3 id="attempt-1-gpt-41-nano-as-router">Attempt 1: GPT-4.1-nano as Router</h3>
+
+<p>I kept GPT-4.1-nano for the router. Same model, different job. Cheap and fast, seemed right for simple classification. And how would the router inject the context? JSON. That was a no-brainer answer in my mind.</p>
+
+<p>If you want some more clarification, the router LLM was instructed to strictly ouput a JSON object that looked like this:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"schema_version"</span><span class="p">:</span><span class="w"> </span><span class="s2">"1.1"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"session_state_update"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"profession"</span><span class="p">:</span><span class="w"> </span><span class="s2">"therapist"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"group_context"</span><span class="p">:</span><span class="w"> </span><span class="s2">"small_group"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"session_goal"</span><span class="p">:</span><span class="w"> </span><span class="s2">"processing recent team conflict"</span><span class="w">
+  </span><span class="p">},</span><span class="w">
+  </span><span class="nl">"intent"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"primary"</span><span class="p">:</span><span class="w"> </span><span class="s2">"session_planning"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"confidence"</span><span class="p">:</span><span class="w"> </span><span class="s2">"high"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"requires_clarification"</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="w">
+  </span><span class="p">},</span><span class="w">
+  </span><span class="nl">"context_injection"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"core"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"cards"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"inject"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"selection_basis"</span><span class="p">:</span><span class="w"> </span><span class="s2">"theme"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"themes"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"conflict"</span><span class="p">,</span><span class="w"> </span><span class="s2">"communication"</span><span class="p">,</span><span class="w"> </span><span class="s2">"healing"</span><span class="p">],</span><span class="w">
+      </span><span class="nl">"card_slugs"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"broken_glass"</span><span class="p">,</span><span class="w"> </span><span class="s2">"chain_links_breaking"</span><span class="p">,</span><span class="w"> </span><span class="s2">"butterfly"</span><span class="p">]</span><span class="w">
+    </span><span class="p">},</span><span class="w">
+    </span><span class="nl">"professional_context"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nl">"inject"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w"> </span><span class="nl">"profession"</span><span class="p">:</span><span class="w"> </span><span class="s2">"therapist"</span><span class="w"> </span><span class="p">},</span><span class="w">
+    </span><span class="nl">"facilitation_principles"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"trauma_sensitive_guidance"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
+  </span><span class="p">},</span><span class="w">
+  </span><span class="nl">"response_mode"</span><span class="p">:</span><span class="w"> </span><span class="s2">"answer"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"flags"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"out_of_scope"</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"sensitive_content"</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"crisis_signal"</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="w">
+  </span><span class="p">}</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p>The router was provided with enough context to make these decisions. This JSON was fed into the prompt assembler. The assembler would just take this object and form a system prompt.</p>
+
+<p>It looked fine on paper but from the outset, JSON malformations started.</p>
+
+<p><strong>80% of router responses had malformed JSON.</strong> Trailing commas, missing closing braces, unescaped quotes embedded in reasoning text. The model couldn’t reliably produce structured output.</p>
+
+<p>You can see my tunnel-thinking from the fact that I built a fragile repair system:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">repairRouterOutput</span><span class="p">(</span><span class="nx">raw</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nx">raw</span> <span class="o">=</span> <span class="nx">raw</span><span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="sr">/,</span><span class="se">(\s</span><span class="sr">*</span><span class="se">[</span><span class="sr">}</span><span class="se">\]])</span><span class="sr">/g</span><span class="p">,</span> <span class="dl">"</span><span class="s2">$1</span><span class="dl">"</span><span class="p">);</span> <span class="c1">// trailing commas</span>
+
+  <span class="kd">const</span> <span class="nx">jsonMatch</span> <span class="o">=</span> <span class="nx">raw</span><span class="p">.</span><span class="nx">match</span><span class="p">(</span><span class="sr">/```</span><span class="se">(?:</span><span class="sr">json</span><span class="se">)?\s</span><span class="sr">*</span><span class="se">([\s\S]</span><span class="sr">*</span><span class="se">?)</span><span class="sr">```/</span><span class="p">);</span>
+  <span class="k">if</span> <span class="p">(</span><span class="nx">jsonMatch</span><span class="p">)</span> <span class="nx">raw</span> <span class="o">=</span> <span class="nx">jsonMatch</span><span class="p">[</span><span class="mi">1</span><span class="p">];</span> <span class="c1">// strip markdown fences</span>
+
+  <span class="kd">const</span> <span class="nx">openBraces</span> <span class="o">=</span> <span class="p">(</span><span class="nx">raw</span><span class="p">.</span><span class="nx">match</span><span class="p">(</span><span class="sr">/{/g</span><span class="p">)</span> <span class="o">||</span> <span class="p">[]).</span><span class="nx">length</span><span class="p">;</span>
+  <span class="kd">const</span> <span class="nx">closeBraces</span> <span class="o">=</span> <span class="p">(</span><span class="nx">raw</span><span class="p">.</span><span class="nx">match</span><span class="p">(</span><span class="sr">/}/g</span><span class="p">)</span> <span class="o">||</span> <span class="p">[]).</span><span class="nx">length</span><span class="p">;</span>
+  <span class="k">if</span> <span class="p">(</span><span class="nx">openBraces</span> <span class="o">&gt;</span> <span class="nx">closeBraces</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nx">raw</span> <span class="o">+=</span> <span class="dl">"</span><span class="s2">}</span><span class="dl">"</span><span class="p">.</span><span class="nx">repeat</span><span class="p">(</span><span class="nx">openBraces</span> <span class="o">-</span> <span class="nx">closeBraces</span><span class="p">);</span> <span class="c1">// patch missing braces</span>
+  <span class="p">}</span>
+
+  <span class="k">return</span> <span class="nx">JSON</span><span class="p">.</span><span class="nx">parse</span><span class="p">(</span><span class="nx">raw</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>This recovered about 60% of malformed responses. The remaining 20% were unrecoverable — falling back to full context injection, erasing every cost saving.</p>
+
+<p>Then I researched and found out about Gemini 2.5 flash’s reputation for good JSON output.</p>
+
+<h3 id="attempt-2-gemini-25-flash-as-router">Attempt 2: Gemini 2.5 Flash as Router</h3>
+
+<p>Switched the router to Gemini 2.5 Flash. JSON malformation dropped to under 3%. Problem solved.</p>
+
+<p>Then I hit the latency wall.</p>
+
+<p>Until I switched to Gemini, I could not reliably produce the JSON object and hence I hadn’t noticed the latency issue. Mostly, I was busy fire-fighting the JSON malformations.</p>
+
+<p>But now I experienced an average latency of 6 seconds before the first character streamed in the front-end. Let me call it 6000 ms so you feel the effect. I had experienced 100-150 ms latency when I began the setup and now it was 6000 ms, so obviously, it was unbearable.</p>
+
+<p>The reason behind this was clear: two LLMs working sequentially.</p>
+
+<h3 id="the-6-second-wait">The 6-Second Wait</h3>
+
+<p>Two sequential LLM calls meant no response until both finished:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>User Query
+    ↓ [Router: 4–5 seconds]
+Router Decision
+    ↓ [Main: ~1 second]
+Streaming Response
+</code></pre></div></div>
+
+<p>Objectively if you think about, the router LLM should not take more than 1 second to output but after running several trial-and-errors, I’m convinced, it was the JSON output step that was the rate limiting factor. (I’m just guessing that even though the LLM was low-latency, the brainstorming it had to do and strictly adhere to the JSON schema, those factors would have increased its latency.)</p>
+
+<p>One thing that I mistakenly did well was addition of a “thinking…” spinner in the chat bubble. It helped a bit as it felt like something was happening. But 6 seconds is 6 seconds.</p>
+
+<p>In any case, before we move ahead, this is our score board:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Approach</th>
+      <th>Tokens/Request</th>
+      <th>Latency</th>
+      <th>Cost/Message</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Full Context</td>
+      <td>~12,000 input</td>
+      <td>~1s</td>
+      <td>~$0.0018</td>
+    </tr>
+    <tr>
+      <td>Router-Based</td>
+      <td>~1500 (router) + ~3K (main)</td>
+      <td><strong>~6s</strong></td>
+      <td>~$0.0005</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Fantastic cost improvement. But catastrophic latency. And we are not counting router cost yet. Negligible but not zero.</p>
+
+<h3 id="stepping-back">Stepping back</h3>
+
+<p>If you noticed my steps until now, most of them were reactive. I implemented solutions for specific problems and each solution gave rise to a new problem.</p>
+
+<p>So I stepped back and reviewed where I was.</p>
+
+<p>One thing was clear to me:</p>
+
+<h3 id="i-had-over-engineered-the-router">I Had Over-Engineered the Router</h3>
+
+<p>Looking back, I was neck-deep in a problem and micro-managing things just because I could. The router had accumulated responsibility for:</p>
+
+<ul>
+  <li>Intent classification (9 types)</li>
+  <li>Whether to ask clarifying questions</li>
+  <li>Which cards to inject</li>
+  <li>Which profession context was relevant</li>
+  <li>Crisis and sensitive content flags</li>
+  <li>Response mode (answer vs. clarify vs. decline)</li>
+  <li>Session goal extraction</li>
+</ul>
+
+<p>This was only the router’s problem. I had also dictated too much to the main model. The router would inject <code class="language-plaintext highlighter-rouge">response_mode: "clarify_then_assist"</code> and the main model would obediently ask clarifying questions even when the context made the answer obvious. Responses felt stiff, mechanical.</p>
+
+<p>You saw the JSON object structure mentioned earlier.</p>
+
+<p>It looks thorough, right? But it was unnecessary. Sharing an excerpt from my notes to Claude on this setup during the realization:</p>
+
+<blockquote>
+  <ul>
+    <li>I’m still out here to save tokens and at the same time, reduce latency.</li>
+    <li>
+      <table>
+        <tbody>
+          <tr>
+            <td>one of the things in your three-layer architecture that I realized was layer-3 of router LLM. Let me comment on each of them: <code class="language-plaintext highlighter-rouge">requires_clarification</code>: when we pass the user message to the main model, it can do it on its own</td>
+            <td><code class="language-plaintext highlighter-rouge">crisis_signal</code>: this flag inserts just a small number of token prompt, which we can make part of the core prompts</td>
+            <td><code class="language-plaintext highlighter-rouge">sensitive_content</code>: same as crisis_signal</td>
+            <td><code class="language-plaintext highlighter-rouge">intent.primary</code>: main model can derive and decide the intent</td>
+            <td><code class="language-plaintext highlighter-rouge">session_goal</code>: main model can derive and respond</td>
+          </tr>
+        </tbody>
+      </table>
+    </li>
+    <li>The main reason for chunking was to save the tokens by not inserting the mammoth 50 cards and profession data. They can be very well done by embeddings. Even if it misclassifies, we have two options:</li>
+  </ul>
+
+  <ol>
+    <li>keep one-line info in the core prompt about these mammoth chunks</li>
+    <li>main model is not stupid, it will make up something relatable, but with our one-line prompt, it will not be clueless either. We are not doing search engine work, so it is fine.</li>
+  </ol>
+</blockquote>
+
+<p>In essence, the router needed to do only one job: find relevant cards and a profession context. That’s it.</p>
+
+<p>Now I needed to ditch the router and get it done more cheaply in terms of time and money. I already mentioned the solution in my the above-mentioned note: Embedding.</p>
+
+<h2 id="phase-5-the-embedding-breakthrough">Phase 5: The Embedding Breakthrough</h2>
+
+<p>I needed something low-latency, low-cost, and deterministic. The router was an ugly marriage: a probabilistic system forced to output deterministic structure. JSON is binary: valid or not. LLMs are not binary.</p>
+
+<p>Embeddings are different. They generate vectors: arrays of raw numbers that represent the <em>meaning</em> of text. You run similarity search on those numbers. The process is deterministic (same input always produces the same vector) but the semantic understanding underneath is as rich as anything an LLM produces. Deterministic and magical at the same time.</p>
+
+<h4 id="how-embeddings-work">How Embeddings Work</h4>
+
+<p>If you already know this, skip ahead.</p>
+
+<p>An embedding model takes a piece of text and converts it into a fixed-length array of numbers — a vector. OpenAI’s <code class="language-plaintext highlighter-rouge">text-embedding-3-small</code>, which I use here, produces 1536 numbers for any input, whether it’s two words or two paragraphs.</p>
+
+<p>The useful property is that meaning is preserved in the geometry. Text with similar meaning produces vectors that point in similar directions in that 1536-dimensional space. “I need cards for a grieving team” and “our group is processing a loss” will produce vectors that are close together. “What’s the best pasta recipe” will produce a vector that’s far from both.</p>
+
+<p>You see? The model is placing these words in a hyperdimensional space. The similar concepts are close and dissimilar ones are far from one another. I find this magical.</p>
+
+<p>In any case, the key thing about <code class="language-plaintext highlighter-rouge">text-embedding-3-small</code> specifically: <strong>it always produces the same vector for the same input.</strong> No temperature, no randomness, no probabilistic sampling. Feed it “Fire card” today and in six months, you get identical numbers. This is what makes it fundamentally different from an LLM — and exactly what I needed.</p>
+
+<h3 id="why-the-50-cards-were-a-perfect-fit">Why the 50 Cards Were a Perfect Fit</h3>
+
+<p>Not every problem is well-suited to embeddings. Mine happened to be close to ideal.</p>
+
+<p>Each of the 50 cards and 15 professional contexts is self-contained. The Fire card description doesn’t reference the Butterfly card. The therapist context doesn’t depend on the HR context. There’s no cross-referencing, no “see above,” no shared state. Each item is an isolated semantic unit.</p>
+
+<p>This matters because embedding similarity only works cleanly when items have clear boundaries. If my card descriptions were tangled together — if understanding one required reading another — the vectors would be muddled and the similarity scores not so meaningful.</p>
+
+<p>I prepared rich descriptions for the embedding generation pass: averaging 270 words per card and profession. Not the compressed distillation format we discussed earlier–in fact, this was complete opposite of that approach: complete semantic descriptions covering metaphorical meaning, facilitation approach, professional contexts, and sample prompts. More words meant richer vectors.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Example description used for embedding generation</span>
+<span class="kd">const</span> <span class="nx">cardDescription</span> <span class="o">=</span> <span class="s2">`
+Fire: This card represents the duality of passion and destruction. 
+Keywords: intensity, warmth, chaos, transformation, anger, desire.
+Metaphorically, fire burns, warms, destroys, and creates simultaneously.
+In facilitation, this card rarely produces neutral responses — it surfaces 
+strong emotions. The facilitator must hold space for both generative passion 
+and difficult anger without steering toward positive interpretations.
+Professional contexts: therapists use caution (trauma may surface), coaches 
+explore motivation vs burnout, HR discusses culture and burnout.
+`</span><span class="p">;</span>
+</code></pre></div></div>
+
+<p>This ran <strong>once</strong>, before deployment. The output: a static JSON file with 65 pre-computed vectors (50 cards + 15 professions), each 1536 numbers long. About 300kb total.</p>
+
+<p>You can now think of this 300kb pre-computed vector file as a dictionary or a map. I have vectors (the raw numbers) of my cards and professions. I just need to compare the user’s query’s vectors with them and return the cards and profession that show similarity with the user’s query.</p>
+
+<p>The process is simple. At query time, I embed only the user’s message. One API call, 15–20ms, ~150 tokens. I get the vector of the query immediately.</p>
+
+<p>I feed this vector to the cosine similarity function in pure JavaScript, which matches the query’s similarity against the pre-computed vectors of the cards + professions. And outputs: 3 cards and 1 profession.</p>
+
+<p>Here’s the full similarity function:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">cosineSimilarity</span><span class="p">(</span><span class="nx">a</span><span class="p">,</span> <span class="nx">b</span><span class="p">)</span> <span class="p">{</span>
+  <span class="kd">let</span> <span class="nx">dot</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span>
+    <span class="nx">normA</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span>
+    <span class="nx">normB</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+  <span class="k">for</span> <span class="p">(</span><span class="kd">let</span> <span class="nx">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="o">&lt;</span> <span class="nx">a</span><span class="p">.</span><span class="nx">length</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nx">dot</span> <span class="o">+=</span> <span class="nx">a</span><span class="p">[</span><span class="nx">i</span><span class="p">]</span> <span class="o">*</span> <span class="nx">b</span><span class="p">[</span><span class="nx">i</span><span class="p">];</span>
+    <span class="nx">normA</span> <span class="o">+=</span> <span class="nx">a</span><span class="p">[</span><span class="nx">i</span><span class="p">]</span> <span class="o">**</span> <span class="mi">2</span><span class="p">;</span>
+    <span class="nx">normB</span> <span class="o">+=</span> <span class="nx">b</span><span class="p">[</span><span class="nx">i</span><span class="p">]</span> <span class="o">**</span> <span class="mi">2</span><span class="p">;</span>
+  <span class="p">}</span>
+  <span class="k">return</span> <span class="nx">dot</span> <span class="o">/</span> <span class="p">(</span><span class="nb">Math</span><span class="p">.</span><span class="nx">sqrt</span><span class="p">(</span><span class="nx">normA</span><span class="p">)</span> <span class="o">*</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">sqrt</span><span class="p">(</span><span class="nx">normB</span><span class="p">));</span>
+<span class="p">}</span>
+
+<span class="k">export</span> <span class="kd">function</span> <span class="nx">findTopMatches</span><span class="p">(</span><span class="nx">queryVector</span><span class="p">,</span> <span class="nx">items</span><span class="p">,</span> <span class="p">{</span> <span class="nx">k</span> <span class="o">=</span> <span class="mi">3</span><span class="p">,</span> <span class="nx">threshold</span> <span class="o">=</span> <span class="mf">0.2</span> <span class="p">})</span> <span class="p">{</span>
+  <span class="kd">const</span> <span class="nx">scored</span> <span class="o">=</span> <span class="nx">items</span><span class="p">.</span><span class="nx">map</span><span class="p">((</span><span class="nx">item</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">({</span>
+    <span class="p">...</span><span class="nx">item</span><span class="p">,</span>
+    <span class="na">score</span><span class="p">:</span> <span class="nx">cosineSimilarity</span><span class="p">(</span><span class="nx">queryVector</span><span class="p">,</span> <span class="nx">item</span><span class="p">.</span><span class="nx">embedding</span><span class="p">),</span>
+  <span class="p">}));</span>
+  <span class="nx">scored</span><span class="p">.</span><span class="nx">sort</span><span class="p">((</span><span class="nx">a</span><span class="p">,</span> <span class="nx">b</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="nx">b</span><span class="p">.</span><span class="nx">score</span> <span class="o">-</span> <span class="nx">a</span><span class="p">.</span><span class="nx">score</span><span class="p">);</span>
+  <span class="k">return</span> <span class="nx">scored</span><span class="p">.</span><span class="nx">filter</span><span class="p">((</span><span class="nx">item</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="nx">item</span><span class="p">.</span><span class="nx">score</span> <span class="o">&gt;=</span> <span class="nx">threshold</span><span class="p">).</span><span class="nx">slice</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="nx">k</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>Cosine similarity measures the angle between two vectors — ignoring magnitude, focusing purely on direction. A score of 1.0 means identical meaning. 0.0 means no relationship. -1.0 means opposite relationship.</p>
+
+<p>I learned from the net that for text embeddings in practice, most similarity scores fall between 0.1 and 0.7.</p>
+
+<p>So, the higher the similarity score, the better. I needed to inject at least 3 cards and 1 profession context that was closer to the user’s query. So, I began by setting the similarity threshold score.</p>
+
+<h3 id="the-threshold-calibration-problem">The Threshold Calibration Problem</h3>
+
+<p>I started with a threshold of 0.7. That’s the number that comes up in most embedding tutorials and AI answers.</p>
+
+<p>No matches. Every query returned empty.</p>
+
+<p>Lowered to 0.6. Still nothing.</p>
+
+<p>I added live server logging to see the raw scores. The top matches were landing around 0.40–0.45. Reasonably related pairs scored 0.27–0.35.</p>
+
+<p>After seeing those scores, I realized that there were two reasons why my similarity results were hovering around 0.35-0.4 instead of the proposed 0.7:</p>
+
+<p><strong>Older models, denser spaces.</strong> Embedding models with ~300 dimensions compress semantic meaning into a smaller space, which naturally produces higher similarity scores — good matches score 0.7–0.8. <code class="language-plaintext highlighter-rouge">text-embedding-3-small</code> has 1536 dimensions. The semantic space is higher resolution and more spread out. The same conceptual relationship scores around 0.4 instead of 0.7.</p>
+
+<p><strong>My content is metaphorical.</strong> “Fire” and “burnout” are related but they’re not semantically close the way “London” and “England” are. The content domain genuinely called for lower thresholds.</p>
+
+<p><em>If you’re interested in visualizing embeddings, check this <strong><a href="https://projector.tensorflow.org/">TensorFlow Embedding Visualizer</a></strong>.</em></p>
+
+<p>So, ultimately, <strong>I calibrated thresholds against my actual data, not against recommendations written for different models and different content.</strong></p>
+
+<p>Final thresholds for this project:</p>
+
+<ul>
+  <li>Cards: <strong>0.2</strong> — low enough to capture weak but relevant associations</li>
+  <li>Professions: <strong>0.25</strong> — single selection, slightly higher confidence needed</li>
+</ul>
+
+<h3 id="the-new-architecture">The New Architecture</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>┌─────────────────────────────────────────────────────────────┐
+│                    CLOUDFLARE WORKER                        │
+│                                                             │
+│  Client Request → CORS → Access Code Validation             │
+│                              ↓                              │
+│  ┌─────────────────────────────────────────────────┐        │
+│  │  EMBEDDING LAYER (text-embedding-3-small)       │        │
+│  │  Embed user query (15–20ms)                     │        │
+│  │  Cosine similarity → top 3 cards, top 1 profession│      │
+│  └──────────────────────┬──────────────────────────┘        │
+│                         ↓ [~20ms total]                     │
+│  ┌─────────────────────────────────────────────────┐        │
+│  │  PROMPT ASSEMBLER                               │        │
+│  │  Core (~800t): philosophy + one-line card refs  │        │
+│  │  Selected (~1–2K t): full card + profession data│        │
+│  │  + crisis suggestion if keyword-flagged         │        │
+│  └──────────────────────┬──────────────────────────┘        │
+│                         ↓                                   │
+│  ┌─────────────────────────────────────────────────┐        │
+│  │  MAIN LLM (GPT-4.1-nano → later 4o-mini)        │        │
+│  │  Streaming Response (~1 second to first token)  │        │
+│  └─────────────────────────────────────────────────┘        │
+└─────────────────────────────────────────────────────────────┘
+</code></pre></div></div>
+
+<p>Total overhead: ~20ms and ~150 tokens. Compare that to the router’s 6,000ms and ~1500 tokens.</p>
+
+<p>The main model now handles everything the router was trying to manage — intent, clarification decisions, response tone. It does this better, because it reasons from context rather than following injected directives. The responses became quite better.</p>
+
+<p>This is the final scoreboard.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Metric</th>
+      <th><strong>Full-Context</strong></th>
+      <th>Router-Based</th>
+      <th>Embedding-Based</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Latency</td>
+      <td><strong>~1 second</strong></td>
+      <td><strong>~6 seconds</strong></td>
+      <td><strong>~1 second</strong></td>
+    </tr>
+    <tr>
+      <td>Token overhead</td>
+      <td>~12,000 tokens</td>
+      <td>~1500 tokens</td>
+      <td>~150 tokens</td>
+    </tr>
+    <tr>
+      <td>Card selection accuracy</td>
+      <td>~100%</td>
+      <td>~85%</td>
+      <td>~80%</td>
+    </tr>
+    <tr>
+      <td>Code complexity</td>
+      <td>Lowest</td>
+      <td>High</td>
+      <td>Low</td>
+    </tr>
+    <tr>
+      <td>Failure rate</td>
+      <td>~0%</td>
+      <td>~3%</td>
+      <td>~0%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>The 5-point accuracy drop is a non-issue. The core prompt still includes one-line descriptions of all 50 cards, so even if the embedding selects a slightly wrong card, the model can see the full list and reason toward the right one. Conversational AI doesn’t need search-engine precision.</p>
+
+<p>I kept the “thinking…” spinner. Now it takes just a second for the model’s answers to stream but the spinner looks good even for a second.</p>
+
+<h2 id="phase-6-model-quality">Phase 6: Model Quality</h2>
+
+<p>Once the embedding architecture was stable, the latency and cost problems were solved. The only issue remained of the response <em>quality</em>. It wasn’t as good as the directions in the core system prompt.</p>
+
+<p>The responses were following the prompt structure but missing the nuance. Wu Wei facilitation has specific requirements: open-ended, non-prescriptive, warm, following the participant’s projection rather than steering it.</p>
+
+<p>GPT-4.1-nano was clearly the wrong choice.</p>
+
+<p>There’s a developer version of <strong><a href="https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs">Maslow’s hierarchy of needs</a></strong> at work here. You don’t think about response quality when the system is malforming JSON. You don’t think about nuance when you’re irritated by 6-second latency. Only once the infrastructure basics are solved: reliability, speed, cost etc, does quality rise to the top of your priorities</p>
+
+<p>I immediately switched to GPT-4o-mini. Response quality improved 10x. Better tone, better adherence to facilitation principles, better handling of edge cases.</p>
+
+<h2 id="phase-7-benchmarking-with-promptfoo">Phase 7: Benchmarking with Promptfoo</h2>
+
+<p>The final step was formalizing what “good” looked like so I could test changes without depending on my gut feeling.</p>
+
+<p>I used <strong><a href="https://promptfoo.dev/">promptfoo</a></strong> for automated evaluation. First few attempts used simple keyword assertions: does the response contain certain phrases, does it avoid others. That kind of thing. It was largely a waste of time.</p>
+
+<p>Because the problem I’m dealing with is different. Wu Wei Planner’s quality isn’t about keywords. It’s about tone, reasoning structure, and whether the response embodies the facilitation philosophy. A response can contain every right word and still feel like customer support copy instead of a facilitation companion.</p>
+
+<p>So, I removed promptfoo’s simple assertion types called <code class="language-plaintext highlighter-rouge">contain</code> and used <code class="language-plaintext highlighter-rouge">llm-rubric</code> instead. This is a very interesting evaluation. Promptfoo runs the model’s response through an LLM. That LLM judges the response on our provided rubric and evaluates.</p>
+
+<p>This is how it looked like for my use case. Sharing two test assertions:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">tests</span><span class="pi">:</span>
+  <span class="c1"># LLM Sensitivity Evaluation: Right-to-pass principle</span>
+  <span class="pi">-</span> <span class="na">vars</span><span class="pi">:</span>
+      <span class="na">query</span><span class="pi">:</span> <span class="s2">"</span><span class="s">What</span><span class="nv"> </span><span class="s">if</span><span class="nv"> </span><span class="s">someone</span><span class="nv"> </span><span class="s">refuses</span><span class="nv"> </span><span class="s">to</span><span class="nv"> </span><span class="s">engage</span><span class="nv"> </span><span class="s">with</span><span class="nv"> </span><span class="s">the</span><span class="nv"> </span><span class="s">cards?"</span>
+    <span class="na">assert</span><span class="pi">:</span>
+      <span class="pi">-</span> <span class="na">type</span><span class="pi">:</span> <span class="s">llm-rubric</span>
+        <span class="na">value</span><span class="pi">:</span> <span class="pi">|</span>
+          <span class="s">Wu Wei Philosophy Context: Right-to-pass: always available, never questioned, never commented on. Resistance is information. Facilitator validates and offers alternatives without pressure. Never insist or encourage forcefully.</span>
+          <span class="s">Evaluate the response for:</span>
+          <span class="s">1. Does it honor right-to-pass as absolute and non-negotiable?</span>
+          <span class="s">2. Does it treat resistance as information, not problem to solve?</span>
+          <span class="s">3. Is the tone accepting and non-pressure-inducing?</span>
+          <span class="s">4. Does it avoid phrases like "Encourage them to try" or "insist"?</span>
+          <span class="s">Respond with: PASS/FAIL and a 1-2 sentence comment explaining your judgment.</span>
+
+  <span class="c1"># LLM Tone Evaluation: Coaching context</span>
+  <span class="pi">-</span> <span class="na">vars</span><span class="pi">:</span>
+      <span class="na">query</span><span class="pi">:</span> <span class="s2">"</span><span class="s">How</span><span class="nv"> </span><span class="s">do</span><span class="nv"> </span><span class="s">I</span><span class="nv"> </span><span class="s">use</span><span class="nv"> </span><span class="s">these</span><span class="nv"> </span><span class="s">cards</span><span class="nv"> </span><span class="s">as</span><span class="nv"> </span><span class="s">a</span><span class="nv"> </span><span class="s">life</span><span class="nv"> </span><span class="s">coach?"</span>
+    <span class="na">assert</span><span class="pi">:</span>
+      <span class="pi">-</span> <span class="na">type</span><span class="pi">:</span> <span class="s">llm-rubric</span>
+        <span class="na">value</span><span class="pi">:</span> <span class="pi">|</span>
+          <span class="s">Wu Wei Philosophy Context: The AI supports coaches with goal setting, limiting belief work, and vision creation. Cards bypass client's invested self-image. Use metaphor when client is stuck in their own language. Trust the projection over immediate explanation. Never clinical diagnosis or therapy.</span>
+          <span class="s">Evaluate the response for:</span>
+          <span class="s">1. Is the advice appropriate for coaching (not therapy/clinical)?</span>
+          <span class="s">2. Does it emphasize metaphor and projection without prescribing?</span>
+          <span class="s">3. Is the tone supportive but non-directive?</span>
+          <span class="s">4. Does it avoid clinical or diagnostic language?</span>
+
+          <span class="s">Respond with: PASS/FAIL and a 1-2 sentence comment explaining your judgment.</span>
+</code></pre></div></div>
+
+<p>And this was their evaluation results:</p>
+
+<p><img src="/assets/images/uploads/wu-wei-planner-eval-llm-1.png" alt="wu-wei-planner-eval-llm-1.png" width="800px" /></p>
+
+<p><img src="/assets/images/uploads/wu-wei-planner-eval-llm-2.png" alt="wu-wei-planner-eval-llm-2.png" width="800px" /></p>
+
+<p>You can see the LLM-judge’s comments in RED and GREEN. The black text is the response it has evaluated. (Also, note the ~1 second latency recorded by promptfoo.)
+What I found quite helpful was the judge returning scores with rationale, which is far more useful for iteration than a pass/fail. You can see <em>why</em> a response underperformed, not just that it did.</p>
+
+<p>All in all, I’m quite satisfied with the results.</p>
+
+<hr />
+
+<h2 id="my-takeaways">My takeaways</h2>
+
+<p><strong>Start simpler than you think is necessary.</strong> This is such a no-brainer. But while deep into trenches, it is difficult to differentiate between simple and complex. Most of my solutions sounded “simple”. I was just trying to fix just one tiny problem at a time. Taking a step back helped a lot.</p>
+
+<p><strong>Distillate your system prompts.</strong> This is probably one of the lowest hanging fruits we can pick for any AI-related workflow. You don’t have to lift a finger, just use <strong><a href="https://gist.github.com/bhagyeshsp/b2728f41ef96d14fff76f52607aca684">these prompts</a></strong> I have created.</p>
+
+<p><strong>One LLM is better than two LLMs.</strong> The router added 5 seconds of latency to do work the main model was already capable of. Before adding another model call, ask whether the main model could handle this in-context. And even befor that, do you think your customer would be patient enough to sit through the latency? I think if you’re providing a custom LLM solution for a proprietary product, then customers might be patient with the latency but otherwise, I won’t count on it.</p>
+
+<p><strong>Calibrate thresholds for your data.</strong> Due to my inexperience with embedding, I expected to see similarity scores around 0.7 because that’s what most articles and AI agents suggested. As I explained in the embedding section, the only real way to know your similarity threshold is logging actual similarity scores on actual data.</p>
+
+<p><strong>Pre-compute everything you can.</strong> Generating embeddings once and loading them as a static file eliminated API rate limits on the embedding call, cold-start latency, and cost unpredictability. If your dataset fits in memory, keep it in memory.</p>
+
+<p><strong>Model quality is a separate concern from architecture.</strong> I spent a lot of time optimizing the infrastructure around a model that wasn’t the right fit. The embedding approach with GPT-4.1-nano was fast and cheap. It just wasn’t good. Switching to GPT-4o-mini was the right call, but I got to it late because I was focused on other things.</p>
+
+<p><strong>Accept 95% solutions.</strong> The embedding approach matches the “right” card about 80% of the time and a “relevant” card about 95% of the time. The 5% accuracy drop was worth the 85% latency reduction and 75% cost reduction. This isn’t a search engine. It’s conversational AI where close enough plus good reasoning produces good outcomes.</p>
+
+<hr />
+
+<h2 id="closing-thoughts">Closing Thoughts</h2>
+
+<p>Every situation is different. We have to implement solutions based on our technical and business objectives.</p>
+
+<p>Recently, I came across a few click-bait videos on “RAG is dead.” But that’s all click-bait. RAG is not going anywhere anytime soon, unless a fundamentally different approach to indexing and retrieval comes into practice.</p>
+
+<p>Pls share your thoughts, ideas and questions. Especially, any other architecture that you have tried and tested.</p>
+
+<hr />
+
+<p>Originally posted at: https://sisyphusconsulting.org/case-studies/2026/04/01/scaling-llms-at-the-edge/</p>
+
+  </div>
+
+  
+    
+    
+    
+    
+    
+    
+
+    
+      
+        
+        
+        
+
+    
+  
+
+  
+  
+
+  <div class="post-navigation">
+    
+      <a class="prev" href="/uncategorized/2026/03/30/you-can-just-do-things/">&larr; You can just do things</a>
+    
+    
+  </div>
+  <br>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <h3>Receive new articles in your inbox</h3>
+</div>
+<iframe src="https://sisyphusnotes.substack.com/embed" width="480" height="320"
+    style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<p style="font-size: 14px; color: #555; margin: 0 auto; text-align: center;">Can't see the newsletter form? <a
+        href="https://sisyphusnotes.substack.com" target="_blank">Click here</a></p>
+<!-- Added a caption type CTA for when the iframe is not loaded -->
+</article>
+      </main>
+      <footer class="site-footer">
+  <div class="footer-content">
+    <p>&copy; 2026 Bhagyesh Pathak. All rights reserved.</p>
+    <p class="footer-links">
+      <a href="/">Home</a>
+      <a href="/about">About</a>
+      <a href="/#contact-me">Contact</a>
+    </p>
+  </div>
+</footer>
+
+
+    </div>
+    <button id="goToTopBtn" title="Go to top">
+      <i class="fas fa-chevron-up"></i>
+    </button>
+    <script>
+      // When the user scrolls down 20px from the top of the document, show the button
+      window.onscroll = function() {scrollFunction()};
+      
+      function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+          document.getElementById("goToTopBtn").style.display = "block";
+        } else {
+          document.getElementById("goToTopBtn").style.display = "none";
+        }
+      }
+      
+      // When the user clicks on the button, scroll to the top of the document
+      document.getElementById("goToTopBtn").addEventListener("click", function(){
+          // For Safari
+          document.body.scrollTop = 0;
+      
+          // For Chrome, Firefox, IE and Opera
+          document.documentElement.scrollTop = 0;
+      });
+      
+        </script>
+        
+        <script data-goatcounter="https://bhagyeshpathak.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
+  </body>
+  
+</html>
+
