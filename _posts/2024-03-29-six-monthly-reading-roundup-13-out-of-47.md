@@ -4,6 +4,7 @@ date: '2024-03-29T11:09:15+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Six-month reading roundup: 13 hand-picked articles from 47 shared. Best reads on persuasion, management, and AI."
 excerpt: So, I got the idea of sharing a reading roundup in August when I was traveling
   and trying to write a letter. And couldn’t write anything. That’s when I came up
   with My Swades movie moment and reading roundup So, it has been approximately 6

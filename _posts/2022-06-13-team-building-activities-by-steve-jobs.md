@@ -4,6 +4,7 @@ date: '2022-06-13T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Steve Jobs never ran team-building exercises. He offered a vision worth pursuing for years. The rest is corporate theater."
 excerpt: ''
 type: post
 id: 954

@@ -4,6 +4,7 @@ date: '2022-07-15T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Communication platforms gave us easy voice but we gave up listening. Developing a listening attitude is essential for managers and facilitators."
 excerpt: ''
 type: post
 id: 1081

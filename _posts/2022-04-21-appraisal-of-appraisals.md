@@ -4,6 +4,7 @@ date: '2022-04-21T09:26:33+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Appraisal systems are optimized for masses, not individuals. Self-evaluate realistically—detach from third-party validation."
 excerpt: ''
 type: post
 id: 790

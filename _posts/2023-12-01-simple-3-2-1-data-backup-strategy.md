@@ -4,6 +4,7 @@ date: '2023-12-01T09:30:18+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Never lose data again. Learn the simple 3-2-1 backup strategy: 3 copies, 2 media types, 1 offsite location for total protection."
 excerpt: 'Have you watched the 2012 superhit movie OMG — Oh My God? If you have, you’ll
   certainly remember this scene: Kanji is flaunting his Godrej Locker key in the aftermath
   of the earthquake. Because the locker had his insurance papers in it. There wouldn’t

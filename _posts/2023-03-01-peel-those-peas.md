@@ -4,6 +4,7 @@ date: '2023-03-01T10:41:37+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "The dollar value of time mindset is robbing you of joy. Discover why peeling your own peas matters—and how to find balance."
 excerpt: ''
 type: post
 id: 1162

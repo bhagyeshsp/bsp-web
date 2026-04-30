@@ -5,6 +5,7 @@ date: '2024-03-01T09:30:04+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Use 100+ skill cards for honest self-assessment. Plan your career path by identifying skills to improve and focus on."
 excerpt: Every time, in my resume, when I had to choose what to write about my strengths,
   I used to feel claustrophobic. I felt as if I had just a handful of words that I
   knew, and beyond that...there was a dead end. Now imagine, what would happen when

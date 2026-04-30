@@ -5,6 +5,7 @@ date: '2023-07-07T10:00:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Discover the 7 deadly sins that ruin brainstorming sessions. From time constraints to idea hitchhikers, learn what kills team creativity."
 excerpt: ''
 type: post
 id: 1804

@@ -5,6 +5,7 @@ date: '2024-09-13T10:30:24+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Create thousands of folders in seconds using Notepad. No coding needed—just a simple batch file transforms productivity."
 excerpt: 'Trust me, it is worth spending 5 minutes of your life.All you need is Notepad
   on a Windows PC and NO programming knowledge.You may wonder, why we would go to
   the length of creating our folder-generator when we can create as many as we want

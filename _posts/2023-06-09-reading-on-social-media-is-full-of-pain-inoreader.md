@@ -4,6 +4,7 @@ date: '2023-06-09T10:00:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Social media is noisy with short content lifespan. Inoreader provides calm, distraction-free reading at your own pace."
 excerpt: ''
 type: post
 id: 1533

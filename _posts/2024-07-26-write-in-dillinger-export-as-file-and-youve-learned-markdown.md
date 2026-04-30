@@ -4,6 +4,7 @@ date: '2024-07-26T10:41:49+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Write in Dillinger, export as PDF, and learn Markdown naturally. Save ChatGPT responses in proper formatted documents."
 excerpt: "Last week, you saw my love for Markdown. And this week, I recruit more comrades!
   \U0001F604If you missed last week's letter, quickly skim through it so you know
   what we are discussing in today's letter.We will talk about a web app called Dillinger.

@@ -4,6 +4,7 @@ date: '2021-12-18T13:26:54+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Don't accept defaults in work engagements. Negotiate modifications. Your commitment is changeable, not set in stone."
 excerpt: ''
 type: post
 id: 692

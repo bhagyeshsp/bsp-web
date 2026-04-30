@@ -2,9 +2,8 @@
 title: The pleasure of experimenting
 date: "2026-01-12"
 status: publish
-
+description: "The joy of setting up real-world experiments and learning from them beats theoretical guesses. Here's how I tested Google Calendar's polling frequency."
 author: Bhagyesh Pathak
-excerpt: ""
 type: post
 id:
 category:

@@ -4,6 +4,7 @@ date: '2024-03-15T09:30:05+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Search text inside any file—Word, PDF, and more. Use SeekFast to find words across your entire computer."
 excerpt: 'Reader, sometimes, we come across software applications that we didn’t know
   we needed. A few weeks back I sent you a letter titled: Instantly search your whole
   PC using Everything Search It focused on finding files and folders with matching

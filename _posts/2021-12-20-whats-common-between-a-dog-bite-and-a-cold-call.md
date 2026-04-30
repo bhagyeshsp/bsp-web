@@ -4,6 +4,7 @@ date: '2021-12-20T09:37:44+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Facing physical fears builds capacity for psychological fears. Determination transfers across all areas of life."
 excerpt: ''
 type: post
 id: 718

@@ -4,6 +4,7 @@ date: '2024-10-18T10:30:17+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Transform workplace communication with Nonviolent Communication. A 4-step framework to express observations, feelings, needs, and requests."
 excerpt: Some time back, I came across the practice of Nonviolent Communication. Since
   then, I have constantly thought about it when I hear myself and others communicate
   violently. Since the practice has stayed with me for a sufficiently long time, I

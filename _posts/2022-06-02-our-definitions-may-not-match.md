@@ -4,6 +4,7 @@ date: '2022-06-02T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Visit any handicrafts market and you'll see art undersold. But we can all be artists by gifting work that makes recipients feel hopeful."
 excerpt: ''
 type: post
 id: 877

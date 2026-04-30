@@ -4,6 +4,7 @@ date: '2024-07-05T10:30:49+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Turn long links into memorable short URLs using TinyURL. Create personalized links for easy sharing and tracking."
 excerpt: 'A few days back, I received this Experiential Education conference Google
   Form link in an email:https://docs.google.com/forms/d/e/1FAIpQLScRkN-dnFrE\_uIpPyKV410P2Oz5SFYMu3DYG\_iAyhMyJMqu7g/viewform
   It''s a Google Form, like this: Imagine, if I wanted to provide this Google Form

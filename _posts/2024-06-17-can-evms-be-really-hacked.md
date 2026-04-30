@@ -4,6 +4,7 @@ date: '2024-06-17T10:36:44+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Can Indian EVMs really be hacked? A technical analysis of EVM security, access controls, and the VVPAT paper trail."
 excerpt: ''
 type: post
 id: 2215

@@ -4,6 +4,7 @@ date: '2024-09-02T16:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "AI can help educators break from the rut. See how ATL AI Assistant creates hyper-contextual, personalized learning experiences."
 excerpt: ''
 type: post
 id: 2291

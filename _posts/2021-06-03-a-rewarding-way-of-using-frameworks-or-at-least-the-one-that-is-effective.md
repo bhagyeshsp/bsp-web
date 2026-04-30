@@ -4,6 +4,7 @@ date: '2021-06-03T19:24:19+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Stop starting with frameworks on paper. Learn to imbibe mental models deeply for effective problem-solving and decision-making."
 excerpt: ''
 type: post
 id: 318

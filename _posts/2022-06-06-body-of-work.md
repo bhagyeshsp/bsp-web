@@ -4,6 +4,7 @@ date: '2022-06-06T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Think portfolio, not resume—produce a body of work so compelling you can't be ignored. You'll never need to pause."
 excerpt: ''
 type: post
 id: 891

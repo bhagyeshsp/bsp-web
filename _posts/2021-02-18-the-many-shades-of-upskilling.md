@@ -4,6 +4,7 @@ date: '2021-02-18T00:09:10+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Discover why generic upskilling programs fail most employees. Learn to match learning styles with content for real growth."
 excerpt: ''
 type: post
 id: 255

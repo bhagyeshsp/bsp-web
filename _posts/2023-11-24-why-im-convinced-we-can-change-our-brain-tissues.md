@@ -4,6 +4,7 @@ date: '2023-11-24T09:30:22+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Neuroplasticity in action! Discover how your brain physically changes through practice, proven by the backwards bicycle experiment."
 excerpt: "So Reader, this really happened to me. And I’m not making it up. In 2016,
   I purchased a book named The Prophet. Mostly because I had heard a lot about the
   author Kahlil Gibran. In fact, during my schooling, we had a Gujarati-translated

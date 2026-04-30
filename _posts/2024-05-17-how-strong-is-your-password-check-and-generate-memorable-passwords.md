@@ -5,6 +5,7 @@ date: '2024-05-17T09:31:43+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Check password strength and generate memorable ones. Some take 5 quintillion years to crack—secure your important accounts."
 excerpt: 'The first time I came across the concept of a real computer password was
   when I was around 16 years old. That password set by my father, got so popular in
   our family that we still use some version of that password even for our home WiFi.

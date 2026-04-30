@@ -4,6 +4,7 @@ date: '2023-01-31T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Our obsession with certainty is killing creativity and joy. Discover why embracing uncertainty leads to breakthrough ideas."
 excerpt: ''
 type: post
 id: 1154

@@ -4,6 +4,7 @@ date: '2023-10-13T09:30:15+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Unlock Google Docs' hidden power. Use text styles to auto-generate tables of contents and keep documents perfectly organized."
 excerpt: Reader, If I start counting how many documents I have come across that have
   hand-made Table of Contents, it will take me a couple of days to finish counting.
   But it is not their fault. Because there is something inherently soo simple about

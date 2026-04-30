@@ -4,6 +4,7 @@ date: '2023-05-26T09:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Think fonts don't matter? Think again. Discover how typography shapes perception and why ugly fonts drive audiences away."
 excerpt: ''
 type: post
 id: 1452

@@ -4,6 +4,7 @@ date: '2023-08-25T09:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Thinking of writing online? Compare the best platforms side-by-side. Find the perfect home for your words and audience."
 excerpt: ''
 type: post
 id: 1881

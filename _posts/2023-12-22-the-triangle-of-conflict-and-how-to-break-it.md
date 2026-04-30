@@ -4,6 +4,7 @@ date: '2023-12-22T09:31:11+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Understand conflict using the triangle model—opinions, emotions, stakes. Break any side to resolve disputes effectively."
 excerpt: 'If you remember, in my letter From Conditioning to Consciousness: Why People
   Do What They Do, we discussed the circle of conditioning. Few of the readers expressed
   the usefulness of that discussion. So, thanks for the feedback. In that letter,

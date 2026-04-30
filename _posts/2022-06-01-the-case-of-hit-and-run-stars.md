@@ -4,6 +4,7 @@ date: '2022-06-01T10:39:21+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Serial entrepreneurs who start many projects but finish none are hit-and-run stars. Filter them out—they're good starters, not finishers."
 excerpt: ''
 type: post
 id: 874

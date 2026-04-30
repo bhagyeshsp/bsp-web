@@ -4,6 +4,7 @@ date: '2024-01-19T09:30:08+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Five conflict response styles: Lion, Owl, Fox, Tortoise, Bear. Know your style to navigate workplace conflicts better."
 excerpt: 'If you tell me you never had any conflict with anyone in your work, I won’t
   believe you. It is just impossible. By conflict, I don’t mean punching people in
   the face. Street-fighter style. Not that. But conflict means subtle disagreement

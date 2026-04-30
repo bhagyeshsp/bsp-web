@@ -4,6 +4,7 @@ date: '2022-11-21T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Euphemisms create trust gaps and suppress truth, letting people shrug off responsibility. See why direct language builds stronger relationships."
 excerpt: ''
 type: post
 id: 1134

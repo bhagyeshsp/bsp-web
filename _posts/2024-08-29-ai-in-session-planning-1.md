@@ -4,6 +4,7 @@ date: '2024-08-29T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Building an ATL AI Assistant to help teachers plan better sessions. Using AI to create personalized learning without replacing teachers."
 excerpt: ''
 type: post
 id: 2288

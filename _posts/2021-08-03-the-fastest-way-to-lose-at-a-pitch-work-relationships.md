@@ -4,6 +4,7 @@ date: '2021-08-03T19:16:40+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Operating from fear loses trust fastest. Transparent pricing builds relationships; hiding costs destroys them."
 excerpt: ''
 type: post
 id: 677

@@ -4,6 +4,7 @@ date: '2023-12-29T09:30:37+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "The absurd reason I stopped New Year resolutions: Earth travels 100,000 km/hr through space. Any goal feels meaningless!"
 excerpt: Before I dive into explanations, wishing you a blockbuster New Year! I hope
   you get to fulfill your promises and resolutions by the end of 2024. And that allows
   me to share my reason ― which you will find absurd. My reason behind ditching the

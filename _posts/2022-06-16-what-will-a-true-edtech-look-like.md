@@ -4,6 +4,7 @@ date: '2022-06-16T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "True EdTech goes beyond digital blackboards. Brain-computer interfaces, VR, and Metaverse will finally augment learning, not replace classrooms."
 excerpt: ''
 type: post
 id: 964

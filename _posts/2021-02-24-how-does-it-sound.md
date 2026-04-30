@@ -4,6 +4,7 @@ date: '2021-02-24T17:00:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Use 'Undo send' wisely. Ask 'How does it sound?' before hitting send. Empathy starts with rephrasing."
 excerpt: ''
 type: post
 id: 292

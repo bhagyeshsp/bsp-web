@@ -4,6 +4,7 @@ date: '2021-12-13T11:48:32+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Rethinking managerial roles in knowledge work. Learn from Apple and Basecamp about self-organization and trust."
 excerpt: ''
 type: post
 id: 701

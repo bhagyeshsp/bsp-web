@@ -5,6 +5,7 @@ date: '2023-09-29T09:30:19+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Share passwords and sensitive data safely using 1time.app. Links self-destruct after viewing—no traces left behind anywhere."
 excerpt: 'I don’t know Reader, whether you got a chance to go through the Golden Ratio
   newsletter last week, but I want to share something that I always love sharing:
   a tool! A tool for sharing confidential information with one or more people. No,

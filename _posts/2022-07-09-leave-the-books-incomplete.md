@@ -4,6 +4,7 @@ date: '2022-07-09T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "If you force yourself to complete every book, you'll give up reading. Leave books incomplete to discover what truly resonates."
 excerpt: ''
 type: post
 id: 1065

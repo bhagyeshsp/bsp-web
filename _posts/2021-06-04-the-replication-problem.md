@@ -4,6 +4,7 @@ date: '2021-06-04T18:34:59+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Why one-size-fits-all solutions fail. The trap of replication and the need for personalization in everything."
 excerpt: ''
 type: post
 id: 593

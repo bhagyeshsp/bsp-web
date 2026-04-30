@@ -4,6 +4,7 @@ date: '2022-09-22T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "A good diagnostic conversation uncovers problems before designing solutions. Hold bias-free conversations—focus on the process."
 excerpt: ''
 type: post
 id: 1113

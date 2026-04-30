@@ -4,6 +4,7 @@ date: '2022-07-02T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Technology liberates time and mind space to fill with entertainment or meaning. The choice is ours—what will you fill?"
 excerpt: ''
 type: post
 id: 1041

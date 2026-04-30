@@ -4,6 +4,7 @@ date: '2021-12-22T09:10:42+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Trust between brands and people is scarce. Word of mouth still works. Will people recommend you to friends?"
 excerpt: ''
 type: post
 id: 746

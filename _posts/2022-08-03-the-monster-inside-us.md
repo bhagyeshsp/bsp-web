@@ -4,6 +4,7 @@ date: '2022-08-03T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "The resistance monster feels cute but is dangerous—it flatters when you switch from consumption to creation. Your creative biggest obstacle."
 excerpt: ''
 type: post
 id: 1088

@@ -4,6 +4,7 @@ date: '2022-07-13T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "You'll disappoint people either because you changed or didn't change. Choose which group to disappoint—it's your choice."
 excerpt: ''
 type: post
 id: 1076

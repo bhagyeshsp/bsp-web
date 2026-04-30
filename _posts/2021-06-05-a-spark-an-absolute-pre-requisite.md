@@ -4,6 +4,7 @@ date: '2021-06-05T19:35:03+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "A spark initiates learning, not certificates or prerequisites. The emotional urge to see something happen matters."
 excerpt: A spark is an absolute prerequisite for an engine to start, but this post
   is not about a car engine. We’re talking about engines that drive our life, work
   and culture. When we sign up for a course, a degree, a discussion, or an uncomfortable

@@ -4,6 +4,7 @@ date: '2024-03-27T13:54:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Debunking the flat organization myth. Real hierarchy exists in decision-making—pretending otherwise causes dysfunction."
 excerpt: ''
 type: post
 id: 2196

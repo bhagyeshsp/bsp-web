@@ -4,6 +4,7 @@ date: '2022-06-17T10:38:07+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Solve the problem in your mind first, then use software. Software automates—the approach must be figured out beforehand."
 excerpt: ''
 type: post
 id: 980

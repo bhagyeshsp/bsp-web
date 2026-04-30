@@ -4,6 +4,7 @@ date: '2023-09-08T09:32:33+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Watch and learn faster! Video Speed Controller lets you adjust YouTube, Coursera video speeds instantly with keyboard shortcuts."
 excerpt: 'Did you know YouTube releases a Culture and Trends report every year? I
   didn’t know. I recently read its 2023 report. Fascinating! Almost everyone who has
   an internet connection consumes some or the other type of video content. I learned

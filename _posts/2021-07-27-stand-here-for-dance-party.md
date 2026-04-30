@@ -4,6 +4,7 @@ date: '2021-07-27T18:59:14+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Discover how to craft invitations that spark curiosity and enrollment, rather than forcing engagement. Learn the art of facilitation."
 excerpt: ''
 type: post
 id: 661

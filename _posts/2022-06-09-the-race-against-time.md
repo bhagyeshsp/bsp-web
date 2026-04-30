@@ -4,6 +4,7 @@ date: '2022-06-09T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "We have limited time according to Deathclock. Live as if there is a tomorrow needing your legacy and gift."
 excerpt: ''
 type: post
 id: 913

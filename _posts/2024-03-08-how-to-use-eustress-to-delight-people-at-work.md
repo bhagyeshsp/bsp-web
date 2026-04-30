@@ -4,6 +4,7 @@ date: '2024-03-08T09:30:04+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Use eustress (positive stress) to help colleagues grow. Push people respectfully into their growth zone for fulfillment."
 excerpt: 'Recently, I published my idea of facilitation on LinkedIn: We are all facilitators.
   Many readers and friends found it relatable. That got me thinking. What is a running
   theme of the people I enjoyed working with? What exactly is it that I cherish about

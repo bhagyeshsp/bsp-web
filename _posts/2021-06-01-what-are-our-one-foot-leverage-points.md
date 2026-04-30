@@ -4,6 +4,7 @@ date: '2021-06-01T09:54:45+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Find small changes with big impact. One-foot leverage points: minor adjustments for significant outcome improvements."
 excerpt: ''
 type: post
 id: 313

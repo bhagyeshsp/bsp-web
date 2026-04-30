@@ -4,6 +4,7 @@ date: '2024-10-11T10:30:55+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Averages in dashboards trick us into bad decisions. See how 93% of derivative traders lost money and why dashboards hide the truth."
 excerpt: 'Tell me something, would you step into a river that is on average 4 feet
   deep?Take a pause. If your mind shouted NO right away, you don''t need to look at
   this illustration: See? Averages are tricky.Most of the time, they play with our

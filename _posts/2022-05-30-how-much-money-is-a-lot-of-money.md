@@ -4,6 +4,7 @@ date: '2022-05-30T10:08:52+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Bob Marley said 'how much money is a lot of money?' We need to ask instead: how much hard work is enough?"
 excerpt: ''
 type: post
 id: 853

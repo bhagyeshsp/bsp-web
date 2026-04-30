@@ -4,6 +4,7 @@ date: '2023-07-21T10:00:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "The 10th edition explores how changing your mind can 10x your judgment. Drawing insights from Atlas Shrugged to level up decisions."
 excerpt: ''
 type: post
 id: 1814

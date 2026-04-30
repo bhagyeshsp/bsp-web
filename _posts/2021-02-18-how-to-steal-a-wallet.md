@@ -4,6 +4,7 @@ date: '2021-02-18T19:00:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Unlock the art of gaining attention, trust, and commitment through skilled facilitation. Learn to engage people without resistance."
 excerpt: ''
 type: post
 id: 252

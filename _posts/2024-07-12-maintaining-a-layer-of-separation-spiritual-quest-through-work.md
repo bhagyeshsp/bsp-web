@@ -5,6 +5,7 @@ date: '2024-07-12T09:30:18+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Maintain psychological separation between work and personal traits. Detach from outcomes, dissolve ego, and enjoy professional growth."
 excerpt: A few years back, I learnt about Vipassana Meditation. No, I didn't go for
   it, and shortly, I will explain why. But some of my friends recommended it, while
   a few were already practising it. If you don't know what Vipassana meditation entails,

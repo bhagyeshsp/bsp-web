@@ -4,6 +4,7 @@ date: '2023-08-11T09:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Learn the 'challenge by choice' method from Dead Poets Society. Discover how letting people set their own marks transforms motivation."
 excerpt: ''
 type: post
 id: 1847

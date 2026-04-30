@@ -4,6 +4,7 @@ date: '2024-05-03T11:00:21+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Rename 100 files in 1 second using Advanced Renamer. Bulk rename with CSV—perfect for HR performance reviews."
 excerpt: I should have shared this letter last week, immediately after Do you right-click
   to rename? Seriously!?. But no problem, better late than never. In that letter,
   we talked about using the F2 function key on your keyboard to rename files in day-to-day

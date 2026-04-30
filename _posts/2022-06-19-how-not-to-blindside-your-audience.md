@@ -4,6 +4,7 @@ date: '2022-06-19T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Stamp your logo everywhere and become invisible. Effective marketing presents itself with permission, not interruption."
 excerpt: ''
 type: post
 id: 987

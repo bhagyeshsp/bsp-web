@@ -4,6 +4,7 @@ date: '2022-07-12T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "A decision journal records your decision story to avoid cognitive biases and improve choices. Track your reasoning over time."
 excerpt: ''
 type: post
 id: 1072

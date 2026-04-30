@@ -4,6 +4,7 @@ date: '2024-07-19T10:30:10+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Markdown is portable formatting that works everywhere. Write in any text editor and keep structure intact across platforms."
 excerpt: 'Have you tried ChatGPT?One of the things that I love about it is the way
   it organizes its responses. The cleanliness it shows.Take this ChatGPT response
   for example, ignore the content, and look at the info organization: As you can see

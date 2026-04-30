@@ -4,6 +4,7 @@ date: '2021-12-14T09:30:51+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Filter test for surveys: Would respondents answer these questions in person? Simple but requires thinking."
 excerpt: ''
 type: post
 id: 709

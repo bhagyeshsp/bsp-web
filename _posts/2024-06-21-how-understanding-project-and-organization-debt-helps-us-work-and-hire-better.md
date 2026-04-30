@@ -5,6 +5,7 @@ date: '2024-06-21T10:31:01+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Understand project and organization debt to work smarter and hire better. Learn to manage invisible debt in teams."
 excerpt: 'A few days back, I came across this job listing by Gumroad. And it is something
   important that we need to talk about. It doesn''t matter whether you work in the
   software industry or not, it is not at all related. But we will start with this

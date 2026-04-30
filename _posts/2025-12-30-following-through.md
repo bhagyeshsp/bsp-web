@@ -2,9 +2,8 @@
 title: Following through
 date: "2025-12-30"
 status: publish
-
+description: "Following through isn't a skill—it's a quality. Here's why keeping your word matters more than ambition or talent."
 author: Bhagyesh Pathak
-excerpt: ""
 type: post
 id:
 category:

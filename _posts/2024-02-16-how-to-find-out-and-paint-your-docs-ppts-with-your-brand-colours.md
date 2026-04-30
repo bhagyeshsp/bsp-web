@@ -5,6 +5,7 @@ date: '2024-02-16T09:30:09+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Extract brand colors from logos using Adobe Color. Paint your documents and presentations with consistent brand colors."
 excerpt: Reader, if you've been on the internet for the past 10 years, you'd recognize
   TEDTalk and Conferences from a mile away. Most of the time, you would just "know"
   that a video, photo, or website is from TED! Brand identity" your mind would tell

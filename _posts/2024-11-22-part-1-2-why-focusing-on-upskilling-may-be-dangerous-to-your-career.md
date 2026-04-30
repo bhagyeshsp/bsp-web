@@ -5,6 +5,7 @@ date: '2024-11-22T10:31:20+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Upskilling is a dangerous trap word. Learn why focusing only on certifications may harm your career instead of advancing it."
 excerpt: 'Reader, don''t get me wrong.I''m a believer and practitioner of life-long
   learning.In this two-part letter, I''m talking about "upskilling"—it is far from
   "learning". It''s a deceptive term. So, I hope I don''t confuse you by mixing the

@@ -4,6 +4,7 @@ date: '2023-10-20T09:31:47+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Master form follows function—the design principle that shape should match purpose. Apply it to documents, emails, and meetings."
 excerpt: Reader, if it was a matter of life and death to win a Formula-1 race, which
   car would you choose? Okay, what about choosing a gift for King Charles III if you
   were to pay him a visit? Both of us know each other’s choices. And the choices are

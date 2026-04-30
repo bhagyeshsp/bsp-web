@@ -4,6 +4,7 @@ date: '2021-07-30T18:40:03+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Breaking free from 'it's always been done this way' thinking. When new recruits hear this, imagination gets limited."
 excerpt: ''
 type: post
 id: 672

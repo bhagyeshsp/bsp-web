@@ -4,6 +4,7 @@ date: '2022-06-28T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Believing is being—we can't wait for existence to manifest before believing. Visionaries paint the future so clearly people can see it."
 excerpt: ''
 type: post
 id: 1023

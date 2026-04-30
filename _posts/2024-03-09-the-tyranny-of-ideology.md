@@ -4,6 +4,7 @@ date: '2024-03-09T13:59:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Ideology infiltrates organizations like Google. Check if your workplace serves people or pushes ideology. Self-diagnose now."
 excerpt: ''
 type: post
 id: 2200

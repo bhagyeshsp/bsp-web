@@ -4,6 +4,7 @@ date: '2021-02-16T18:19:36+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Move beyond empty words to inspire real vulnerability and engagement. Learn why actions speak louder than statements."
 excerpt: ''
 type: post
 id: 241

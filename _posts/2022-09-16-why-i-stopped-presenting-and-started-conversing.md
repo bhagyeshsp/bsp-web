@@ -4,6 +4,7 @@ date: '2022-09-16T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Presentations boost ego and render us opaque to feedback. Replace the big reveal with conversation to forge understanding."
 excerpt: ''
 type: post
 id: 1108

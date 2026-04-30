@@ -4,6 +4,7 @@ date: '2021-02-22T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Discover hidden dynamics in virtual meetings that reveal team connections. Learn to read subtle cues for better design."
 excerpt: ''
 type: post
 id: 261

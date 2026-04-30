@@ -4,6 +4,7 @@ date: '2024-05-10T11:10:05+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Understand power distance to find matching workplaces. High or low—it shapes how you respond to authority at work."
 excerpt: "And..this is the 52nd letter!1 letter/week 52 weeks = 1 year!Can you believe
   we have been conversing for a year now? Incredible!No matter when you joined this
   circle, I'm grateful for your support.Thank you so much for reading, replying and

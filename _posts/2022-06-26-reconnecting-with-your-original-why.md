@@ -4,6 +4,7 @@ date: '2022-06-26T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Feeling lost? Your WHY changes with time. Keep a decision journal to reconnect with your original purpose."
 excerpt: ''
 type: post
 id: 1015

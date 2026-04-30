@@ -2,9 +2,8 @@
 title: Barbarians at the gate
 date: "2026-03-13"
 status: publish
-
+description: "A review of Barbarians at the Gate—the gripping tale of RJR Nabisco's takeover that reveals Wall Street's raw power and ambition."
 author: Bhagyesh Pathak
-excerpt: ""
 type: post
 id:
 category:

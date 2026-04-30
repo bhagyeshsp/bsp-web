@@ -4,6 +4,7 @@ date: '2022-07-04T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "We're all facilitators—job titles are just hierarchy codes. True leaders seek to serve, see the big picture, and look for collaborators."
 excerpt: ''
 type: post
 id: 1049

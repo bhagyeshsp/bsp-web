@@ -4,6 +4,7 @@ date: '2022-06-04T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Some jobs trap youth with false hope. 10-minute delivery agents need mercy killing. We must create meaningful replacement jobs."
 excerpt: ''
 type: post
 id: 884

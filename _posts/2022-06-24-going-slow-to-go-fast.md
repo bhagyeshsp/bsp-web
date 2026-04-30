@@ -4,6 +4,7 @@ date: '2022-06-24T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Going slow to go fast—thoughtful action always outperforms expedited ones. Mistakes increase with diluted attention."
 excerpt: ''
 type: post
 id: 1003

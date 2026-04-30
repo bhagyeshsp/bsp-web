@@ -4,6 +4,7 @@ date: '2024-09-20T10:30:12+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Create a free AI research assistant using Google NotebookLM. Upload PDFs, chat with documents, and generate audio podcasts instantly."
 excerpt: 'Who doesn''t like a little help in their work?Traditionally, people hire
   personal assistants. And we know it is so difficult to hire one: it costs money,
   they''re inefficient and they don''t get it our style from day one.In short, hiring

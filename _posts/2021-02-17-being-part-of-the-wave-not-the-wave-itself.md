@@ -4,6 +4,7 @@ date: '2021-02-17T19:00:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Discover why chasing KPIs traps organizations in mediocrity. Learn why commitment to mission, not metrics, drives genuine results."
 excerpt: ''
 type: post
 id: 246

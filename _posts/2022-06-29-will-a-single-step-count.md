@@ -4,6 +4,7 @@ date: '2022-06-29T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "We praise walking the extra mile but dismiss a single step. Every gesture matters equally—low standards bar trust-building."
 excerpt: ''
 type: post
 id: 1027

@@ -5,6 +5,7 @@ date: '2024-10-25T10:30:48+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Deep clean your PC for Diwali. Use TreeSize Free to find heavy folders consuming your storage and reclaim disk space."
 excerpt: Since my childhood, the Diwali season has been the season of cleaning. It's
   like the Spring season. Every corner of the home should look new, dusted, and organized.
   "Rejuvenated", that's the word I was looking for. Although the necessity of cleaning

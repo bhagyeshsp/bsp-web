@@ -4,6 +4,7 @@ date: '2020-05-21T15:26:38+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "During COVID-19, we are all collateral damage. But we can choose our response. Understand the war and find your part."
 excerpt: ''
 type: post
 id: 192

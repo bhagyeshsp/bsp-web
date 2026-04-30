@@ -4,6 +4,7 @@ date: '2024-04-23T13:58:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Critique of 'dashboard managers' who stare at screens instead of understanding real work. Data-guided decisions need context."
 excerpt: ''
 type: post
 id: 2198

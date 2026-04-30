@@ -4,6 +4,7 @@ date: '2024-01-05T09:30:19+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Free, clean PDF editor without watermarks. Edit, add shapes, and password-protect PDFs online with pdfescape."
 excerpt: 'Yes, that’s what we are going to talk about today: PDF editor. But before
   that, I hope you kicked off your new year with renewed zeal. As for me, I have already
   explained my absurd reason why I have stopped making New Year resolutions. But one

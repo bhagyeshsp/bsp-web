@@ -5,6 +5,7 @@ date: '2024-05-31T09:30:14+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Always ask for written confirmation to avoid miscommunication. Get clarity and commitment before starting any work."
 excerpt: "So, I was scrolling through social media and this comic from Marketoonist
   cracked me a few weeks back. \U0001F923 It is soo true. If you think about it, most
   of the work that we get, the amount of clarity varies. Sometimes we get complete

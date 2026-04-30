@@ -4,6 +4,7 @@ date: '2022-06-12T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Organizations aren't children—they can't grow infinitely. Journalists pushing YoY growth expectations create cheating cultures."
 excerpt: ''
 type: post
 id: 951

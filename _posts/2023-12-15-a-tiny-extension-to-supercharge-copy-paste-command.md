@@ -4,6 +4,7 @@ date: '2023-12-15T09:30:11+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Never lose copied content again. Clipboard History Pro saves every item you copy—so you can access past clips anytime."
 excerpt: 'Tell me Reader, do you know anyone who doesn’t use the Copy-Paste command?
   I can''t think of anyone who uses a computer and doesn''t use it. Copy-Paste command
   is: Ctrl+C, followed by Ctrl+V In case of Mac OS, it is Cmd+C, Cmd+V So, it is quite

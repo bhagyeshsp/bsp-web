@@ -5,6 +5,7 @@ date: '2024-08-02T10:30:19+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Small process changes lead to different results. Like dosa batter—recipe variations change the outcome. Find your work recipe."
 excerpt: Reader, have you ever prepared dosa?I mean dosa batter?If you have prepared
   it, you know that no two people's dosa batter comes out the same. Even with the
   same ingredients! (And let's not get into the effect of different seasons.) Why?Because

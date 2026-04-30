@@ -4,6 +4,7 @@ date: '2021-02-25T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Start with pencil and paper before digital tools. No app replaces human spirit, priorities, and genuine connection."
 excerpt: ''
 type: post
 id: 298

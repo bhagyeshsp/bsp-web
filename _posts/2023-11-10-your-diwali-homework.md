@@ -4,6 +4,7 @@ date: '2023-11-10T09:30:09+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Your Diwali homework: Selected readings for the holiday season. Wishing you a happy, fulfilling Diwali filled with light."
 excerpt: Reader, I don’t know about you, but I used to hate Diwali homework during
   my school life. Whoever invented it, must have a natural talent to suck joy out
   of leisure. My Diwali homework assignments used to carry things like “write the

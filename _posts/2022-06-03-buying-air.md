@@ -4,6 +4,7 @@ date: '2022-06-03T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Education is like buying air—intangible and invisible. Evaluate what intangibles schools offer: healthy competition or winning at all costs?"
 excerpt: ''
 type: post
 id: 879

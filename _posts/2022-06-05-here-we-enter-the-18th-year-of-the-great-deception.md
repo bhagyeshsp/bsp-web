@@ -4,6 +4,7 @@ date: '2022-06-05T20:05:43+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "BP popularized carbon footprint in 2004 to shift blame to individuals. 92% of emissions come from corporations. Shift focus where action lacks."
 excerpt: ''
 type: post
 id: 888

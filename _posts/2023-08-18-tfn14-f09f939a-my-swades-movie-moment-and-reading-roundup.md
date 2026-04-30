@@ -4,6 +4,7 @@ date: '2023-08-18T09:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "A personal Swades movie moment on a crowded bus. Plus my curated reading roundup from around the web this week."
 excerpt: ''
 type: post
 id: 1866

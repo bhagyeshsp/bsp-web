@@ -4,6 +4,7 @@ date: '2024-11-29T10:32:39+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Upskilling alone won't advance your career. Discover how expanding your luck's surface area through diverse experiences matters more."
 excerpt: 'I love science.I''m sure you''d have noticed that.So, whether you love science,
   you have to listen to this incredible thing. Our digestive organ--small intestine
   is 3-5 meters long, with a diameter of a mere 2-3 cm. That''s like a normal PVC

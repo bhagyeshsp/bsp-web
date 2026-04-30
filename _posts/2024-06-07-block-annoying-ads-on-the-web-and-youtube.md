@@ -4,6 +4,7 @@ date: '2024-06-07T09:30:13+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Block annoying ads with Adblock Plus and Adblock for YouTube. Remove 30+ ads per page and protect privacy from trackers."
 excerpt: Imagine, you wake up in a 9 square meter room. There are screens all around
   you. You go to some physical labour work in the morning and come back to your room,
   which is also your home and spend the rest of the day playing video games and watching

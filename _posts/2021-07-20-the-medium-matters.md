@@ -4,6 +4,7 @@ date: '2021-07-20T22:11:01+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Why choosing the right communication medium matters. Email vs instant messaging and respecting attention boundaries."
 excerpt: ''
 type: post
 id: 614

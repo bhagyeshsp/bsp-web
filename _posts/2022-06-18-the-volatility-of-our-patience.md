@@ -4,6 +4,7 @@ date: '2022-06-18T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Our patience is decreasing and volatile—US stock holding period dropped from 7 years in 1950s to 5-7 months. See the trend."
 excerpt: ''
 type: post
 id: 982

@@ -4,6 +4,7 @@ date: '2024-09-06T10:30:40+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Quickly insert any symbol into documents. My go-to site copychar.cc solves the Microsoft Word symbols nightmare instantly."
 excerpt: 'Do you remember the late 2000s when mobile phone adoption was on the rise
   and people had just begun using texting? Forwarding and communicating over sms all
   the time.Some of my friends used to be pro at texting different smileys. For example,

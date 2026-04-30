@@ -4,6 +4,7 @@ date: '2024-06-12T20:17:33+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Our app doesn't have AI is becoming the new differentiator. Why privacy-conscious users prefer tools without AI surveillance."
 excerpt: ''
 type: post
 id: 2208

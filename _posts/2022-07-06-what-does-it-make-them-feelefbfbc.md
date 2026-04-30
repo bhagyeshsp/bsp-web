@@ -4,6 +4,7 @@ date: '2022-07-06T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "What does it make them feel—hopeful, empowered, creative? Design with empathy for bookworms, patients, parents, and children."
 excerpt: ''
 type: post
 id: 1054

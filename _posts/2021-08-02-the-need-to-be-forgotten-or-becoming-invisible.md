@@ -4,6 +4,7 @@ date: '2021-08-02T09:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Why being invisible during facilitation empowers learners. The art of Wu Wei in product design and customer experience."
 excerpt: ''
 type: post
 id: 675

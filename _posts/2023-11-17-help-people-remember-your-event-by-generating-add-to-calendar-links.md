@@ -5,6 +5,7 @@ date: '2023-11-17T09:30:14+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Help attendees remember your event. Generate 'Add to Calendar' links for Google Calendar, Outlook, Yahoo, and Office 365."
 excerpt: 'Reader, How many times have you heard “send me the calendar invite”? It
   is such a liberating feeling to invite other people and receive their acceptance.
   It is comforting and reassuring to know that they’re most likely to show up. But

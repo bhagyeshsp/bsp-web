@@ -4,6 +4,7 @@ date: '2023-06-08T12:42:14+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Transform your decisions with the Decision Diary method. Track choices, review outcomes, and continuously improve your judgment."
 excerpt: ''
 type: post
 id: 1513

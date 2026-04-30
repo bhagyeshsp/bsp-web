@@ -4,6 +4,7 @@ date: '2023-11-03T09:30:12+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Discover how your conditioning shapes behavior and why micro background checks can transform workplace understanding and empathy."
 excerpt: 'Interesting question, isn’t it? Especially in the workplace, we ask this
   a lottt. Why is he like that?” What does she think of herself?” Why does he chicken
   out at the last minute!!” Mostly, the answers are generic: entitled” “power hungry”

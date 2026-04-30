@@ -4,6 +4,7 @@ date: '2024-08-16T10:32:01+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Frame information for impact. Master the three elements—value, emotion, and decision clarity—to get things done effectively."
 excerpt: 'Dear Reader,The months of August and September are full of long weekends
   and holidays in India. I hope you enjoy them and make the most out of them--and
   I guess you won''t be opening your mailbox this weekend. But if you do, don''t forget

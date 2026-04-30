@@ -4,6 +4,7 @@ date: '2024-04-26T09:31:07+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Learn the DRY principle from programming applied to daily work: templates, SOPs, and documentation save time and reduce errors."
 excerpt: 'I have always been fascinated by programming languages. There are so many
   of them: python, C, C++, Java, SQL, VBA, etc. Don''t worry, I''m not going to bore
   you to death talking about programming. But what I want to talk about is the DRY

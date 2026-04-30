@@ -4,6 +4,7 @@ date: '2022-06-11T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Can you abandon an idea if it fails? Separating original ideas from borrowed ones keeps you objective and ready to pivot."
 excerpt: ''
 type: post
 id: 947

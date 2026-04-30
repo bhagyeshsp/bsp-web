@@ -4,6 +4,7 @@ date: '2024-01-12T09:30:05+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Why paper calendars beat digital ones for important dates. Make your schedule visible and never miss a deadline."
 excerpt: 'Reader, Tell me something. Have you ever sent a WhatsApp message and...felt
   an instant regret? In our case, I felt this regret a few days after sharing last
   week’s letter: Finally! A free, clean, online PDF editor + password-lock. Nothing

@@ -4,6 +4,7 @@ date: '2022-06-07T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Every engineering project reshapes society: ATMs taught unsupervised queues. Intentional design beats accidental impact."
 excerpt: ''
 type: post
 id: 894

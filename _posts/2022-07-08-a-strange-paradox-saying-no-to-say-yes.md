@@ -4,6 +4,7 @@ date: '2022-07-08T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Saying NO to say YES paradox—build capacity to refuse commands and propose better ROI. Great organizations reward those who can say NO."
 excerpt: ''
 type: post
 id: 1062

@@ -4,6 +4,7 @@ date: '2024-03-22T09:30:24+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Tame browser tab chaos with OneTab extension. Consolidate tabs, save memory, and organize your browsing efficiently."
 excerpt: 'Reader, I want to ask you something. Does your browser window look like
   this: If it does, don''t worry, mine used to look the same until a few years ago.
   We are all addicted to a secret disease called "tabbed browsing". Mozilla introduced

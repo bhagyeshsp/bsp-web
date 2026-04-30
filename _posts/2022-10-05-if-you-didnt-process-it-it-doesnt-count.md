@@ -4,6 +4,7 @@ date: '2022-10-05T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "If you didn't process it, it doesn't count. Structured reflection is essential for effective outcomes—experiences are incomplete without processing."
 excerpt: ''
 type: post
 id: 1125

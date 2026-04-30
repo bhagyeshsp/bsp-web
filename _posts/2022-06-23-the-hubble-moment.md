@@ -4,6 +4,7 @@ date: '2022-06-23T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Launch projects repeatedly. One will become the Hubble of your industry. Small bets increase chances of monumental impact."
 excerpt: ''
 type: post
 id: 1001

@@ -4,6 +4,7 @@ date: '2024-04-12T09:30:59+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Avoid these 5 dashboard mistakes: decimal precision, ignoring tables, too much detail, objectifying subjective data."
 excerpt: 'Reader, If you tell me you haven''t seen a dashboard in your career so far,
   I won''t believe you. You wouldn''t believe yourself. The ease with which data visualization
   tools are available, it is impossible to believe that you would be spared from a

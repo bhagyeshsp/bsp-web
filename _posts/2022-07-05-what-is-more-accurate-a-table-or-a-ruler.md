@@ -4,6 +4,7 @@ date: '2022-07-05T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "No rulers are equal or accurate—interviewers may know less than their experience suggests. Don't let compliments define your worth."
 excerpt: ''
 type: post
 id: 1052

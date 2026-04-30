@@ -4,6 +4,7 @@ date: '2024-05-24T09:30:18+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Protect your inbox from spam. Use 10minutemail for anonymous, throwaway email IDs that expire after 10 minutes."
 excerpt: Reader, have you felt the uneasiness when you're shopping and the checkout
   counter guy asks for your contact number? For some elusive membership benefits?
   Now, my uneasiness turns into a permanent frown when I'm in a checkout queue. Because

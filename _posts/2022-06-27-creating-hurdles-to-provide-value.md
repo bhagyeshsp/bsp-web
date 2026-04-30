@@ -4,6 +4,7 @@ date: '2022-06-27T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Gatekeeping as business is an illusion—commerce is value exchange. Roadblocking is blackmail—true value sustains."
 excerpt: ''
 type: post
 id: 1018

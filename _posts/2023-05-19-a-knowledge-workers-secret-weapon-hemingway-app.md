@@ -4,6 +4,7 @@ date: '2023-05-19T09:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Hemingway App makes writing clear and bold. Check readability scores, eliminate passive voice, and simplify complex sentences."
 excerpt: ''
 type: post
 id: 1427

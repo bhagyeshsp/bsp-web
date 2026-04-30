@@ -4,6 +4,7 @@ date: '2023-09-01T09:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Negative space is your secret weapon for powerful documents. Learn how white space engages audiences and makes your message impossible to ignore."
 excerpt: ''
 type: post
 id: 1889

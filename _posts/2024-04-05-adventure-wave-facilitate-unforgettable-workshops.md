@@ -4,6 +4,7 @@ date: '2024-04-05T12:51:59+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Design unforgettable workshops using the Adventure Wave. Guide participants through highs and lows for transformative experiences."
 excerpt: '"Let''s begin with an icebreaker activity!" If you''ve been to work-related
   "team building" meetings, you''d have heard this a zillion times. I''m that guy
   who makes the gloomiest face possible upon hearing those words. (OR I used to be.

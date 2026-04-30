@@ -2,9 +2,8 @@
 title: You can just do things
 date: "2026-03-30"
 status: publish
-
+description: "In the age of AI, you don't need permission to start. Here's why you can—and should—just do things without waiting for approval."
 author: Bhagyesh Pathak
-excerpt: ""
 type: post
 id:
 category:

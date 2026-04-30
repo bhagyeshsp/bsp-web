@@ -4,6 +4,7 @@ date: '2023-12-08T09:30:16+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Create powerful user personas with this free template. Understand your audience deeply and never target the wrong people again."
 excerpt: 'The other day, my friend told me about the latest online scam tactic. In
   this tactic, the scammer poses as a police/CBI/Narcotics official and grills their
   victim for hours. Eventually, their victim pays some heavy amount of money and gets

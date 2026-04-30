@@ -4,6 +4,7 @@ date: '2022-04-15T09:55:45+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "We trade time, attention, and relationships for convenience. Which hassles are worth retaining?"
 excerpt: ''
 type: post
 id: 780

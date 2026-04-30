@@ -4,6 +4,7 @@ date: '2024-08-30T10:32:49+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Only grant minimum access needed for jobs. The Principle of Least Privilege protects organizations from data leaks and breaches."
 excerpt: I should have named last week's letter "Staff or Admin (Part 1/2)". Because
   today's is kind of Part 2/2.Yes, kind of.I could have shared this independently,
   but sequencing helps us connect the dots better. And this one is directly related

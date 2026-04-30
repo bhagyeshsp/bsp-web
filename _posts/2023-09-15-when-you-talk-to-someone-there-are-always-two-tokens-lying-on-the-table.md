@@ -5,6 +5,7 @@ date: '2023-09-15T09:32:23+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "In every conversation, two tokens sit on the table. Master choosing your token wisely to transform difficult interactions."
 excerpt: Hi Reader, Festival season has already begun in India. So, I’m sure you won’t
   be able to read each of my weekly emails, but that’s fine. They’re already in your
   inbox, take your time and relish. One of the best things about the festive season

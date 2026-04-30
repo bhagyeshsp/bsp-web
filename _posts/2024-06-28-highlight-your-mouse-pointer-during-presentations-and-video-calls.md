@@ -5,6 +5,7 @@ date: '2024-06-28T10:31:56+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Never lose your audience during presentations. Use PenAttention to highlight your mouse pointer for clear screen visibility."
 excerpt: 'All of us have been there.Standing in front of the audience in a conference
   hall, moving our mouse vigorously, asking everyone "See this? Here?" "............ummm.."
   "Now?" "See the mouse pointer?" It breaks the flow of our conversation and our connection

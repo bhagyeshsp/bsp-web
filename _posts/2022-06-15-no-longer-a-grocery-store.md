@@ -4,6 +4,7 @@ date: '2022-06-15T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Physical proximity gave direct customer sense. Now data proxies replace senses—use WHY questions to deepen understanding."
 excerpt: ''
 type: post
 id: 959

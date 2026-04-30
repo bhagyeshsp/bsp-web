@@ -4,6 +4,7 @@ date: '2023-06-02T09:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Questions are tools for solving problems, not poems. Learn to use questions effectively to gain deeper understanding."
 excerpt: ''
 type: post
 id: 1493

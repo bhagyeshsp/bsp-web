@@ -4,6 +4,7 @@ date: '2022-06-30T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Clarity is crystal clear glass—people see through noise and appreciate commitment. Keep your vision dust-free."
 excerpt: ''
 type: post
 id: 1030

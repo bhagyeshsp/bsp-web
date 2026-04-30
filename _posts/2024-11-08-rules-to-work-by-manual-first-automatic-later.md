@@ -4,6 +4,7 @@ date: '2024-11-08T10:30:12+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Do manual work first before automating. Grassroots understanding builds mastery and reveals what really needs automation."
 excerpt: Most things in our lives are now automatic:We don't go fetch water, it automatically
   reaches us.We don't need to generate electricity, it reaches us.We don't need to
   assemble blocks to print on paper, the laser printer just prints it.And oh, manual

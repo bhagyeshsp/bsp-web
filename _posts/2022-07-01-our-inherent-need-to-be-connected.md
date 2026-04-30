@@ -4,6 +4,7 @@ date: '2022-07-01T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "We have an inherent need to be connected with the right beings—thrive in live cohort-based classes where tribes form."
 excerpt: ''
 type: post
 id: 1039

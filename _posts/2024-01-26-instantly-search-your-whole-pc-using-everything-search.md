@@ -4,6 +4,7 @@ date: '2024-01-26T09:30:05+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Instant file search for Windows. Everything Search indexes your PC in seconds—find any file instantly."
 excerpt: Okay, so today's letter is specifically for Windows users. Because anyone
   using a Mac, has been blessed with an in-built instant search. So, if you want to
   be as blessed as an average Mac user, read on. The day I stopped using the Windows

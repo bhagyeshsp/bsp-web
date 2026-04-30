@@ -4,6 +4,7 @@ date: '2024-09-27T10:30:53+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Back up work after major changes, not just occasionally. Combined with 3-2-1 strategy, it protects your crucial files."
 excerpt: Reader,You might have experienced the loss of data or a few important edits
   in a document at least a few times in your work. Everyone experiences that.I don't
   know why we tend to forget to either save our work or back up regularly.The gruelling

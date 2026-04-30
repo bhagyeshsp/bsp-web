@@ -4,6 +4,7 @@ date: '2021-07-17T22:12:03+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "The power of sitting on the same side of the table in marketing and relationships. Choose your side wisely."
 excerpt: ''
 type: post
 id: 618

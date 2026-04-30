@@ -4,6 +4,7 @@ date: '2022-06-20T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Waiting for the right threshold is a delusion. Thresholds expand—waiting makes us old and weak. Replace waiting with urgent action."
 excerpt: ''
 type: post
 id: 989

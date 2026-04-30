@@ -4,6 +4,7 @@ date: '2021-07-19T18:57:09+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Walking extra miles creates culture change. Small steps leave lasting impressions. Extra effort transforms expectations."
 excerpt: ''
 type: post
 id: 646

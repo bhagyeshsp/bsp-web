@@ -4,6 +4,7 @@ date: '2023-10-06T11:16:05+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Turn any data into powerful insights with just three questions: What, So What, Now What? A simple framework used by expert analysts."
 excerpt: 'Reader, did you know that you can derive pretty good insights from any data
   using just three questions: What? So what? Now what? Data can be anything. A fact.
   A conversation. An incident. A story Or A database! Data doesn’t have to always

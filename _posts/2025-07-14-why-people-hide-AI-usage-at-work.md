@@ -2,9 +2,8 @@
 title: Why people hide AI usage at work?
 date: '2025-07-14'
 status: publish
-
+description: "Why do employees secretly use AI at work? From shame to job security fears—here are the real reasons behind secret AI adoption."
 author: Bhagyesh Pathak
-excerpt: ''
 type: post
 id: 
 category:

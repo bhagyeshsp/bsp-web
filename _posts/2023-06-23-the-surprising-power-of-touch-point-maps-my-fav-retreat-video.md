@@ -4,6 +4,7 @@ date: '2023-06-23T10:00:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Unlock touchpoint mapping—a simple technique used by top design firms to map every customer interaction and create better user experiences."
 excerpt: ''
 type: post
 id: 1777

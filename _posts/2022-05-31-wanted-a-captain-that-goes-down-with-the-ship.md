@@ -4,6 +4,7 @@ date: '2022-05-31T10:13:11+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Organizations need captains who go down with the ship. Focus on hiring the right personalities and making people feel valued."
 excerpt: ''
 type: post
 id: 866

@@ -4,6 +4,7 @@ date: '2023-07-28T10:00:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Take notes and highlight from any website like a pro. Discover the powerful Chrome extension that organizes all your online research."
 excerpt: ''
 type: post
 id: 1822

@@ -4,6 +4,7 @@ date: '2022-06-08T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Physicians analyze and prescribe from data. Organizations hoard data—then wonder why decisions fail. Data shared is data multiplied."
 excerpt: ''
 type: post
 id: 897

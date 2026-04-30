@@ -4,6 +4,7 @@ date: '2022-06-21T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "No, you didn't have a design problem—it was probably an accounting problem. Look closely at what you missed."
 excerpt: ''
 type: post
 id: 991

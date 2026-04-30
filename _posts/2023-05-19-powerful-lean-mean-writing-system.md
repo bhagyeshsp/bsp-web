@@ -4,6 +4,7 @@ date: '2023-05-19T19:49:29+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Face a blank screen without fear. A lean writing system to help anyone write consistently without the paralysis of the blinking cursor."
 excerpt: ''
 type: post
 id: 1298

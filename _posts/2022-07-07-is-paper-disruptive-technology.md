@@ -4,6 +4,7 @@ date: '2022-07-07T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Paper was disruptive 3000 years ago, not anymore. The goal isn't disruption—focus on providing 5-10X better solutions, disruption follows."
 excerpt: ''
 type: post
 id: 1059

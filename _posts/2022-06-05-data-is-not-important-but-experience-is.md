@@ -4,6 +4,7 @@ date: '2022-06-05T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Statistics don't change behavior—experiences do. A smoker knows the numbers but needs an emotional experience to quit. Data first fails."
 excerpt: ''
 type: post
 id: 886

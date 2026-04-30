@@ -4,6 +4,7 @@ date: '2024-02-09T09:30:15+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Beyond comfort zone: four zones (Comfort, Groan, Growth, Panic). Help people progress gradually to avoid burnout."
 excerpt: He is a bright guy, but seems like he is in his comfort zone.” She is great,
   but as soon as you ask her to step out and talk to the customer, she loses her shine.”
   Reader, haven't all of us either overheard or participated in similar conversations?

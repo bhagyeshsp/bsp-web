@@ -4,6 +4,7 @@ date: '2022-05-09T09:24:16+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Ask 'what can go wrong?' BEFORE failure strikes. Pre-mortem analysis helps course-correct projects, unlike post-mortems."
 excerpt: ''
 type: post
 id: 834

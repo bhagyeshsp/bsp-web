@@ -4,6 +4,7 @@ date: '2024-04-19T09:30:07+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Stop right-clicking to rename files. Press F2—your keyboard's secret weapon for instant file renaming in Windows."
 excerpt: No, I'm not judging. But I'm curious. When you rename a file in your PC (assuming
   it's a Windows machine), do you point at the file icon using the mouse, then right-click
   (or double-click) to "rename" the file or folder? Isn't that, too much effort? I

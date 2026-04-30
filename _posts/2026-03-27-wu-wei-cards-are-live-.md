@@ -2,9 +2,8 @@
 title: Wu Wei cards are live!
 date: "2026-03-27"
 status: publish
-
+description: "Wu Wei Cards are finally live—a deck of 50 hand-drawn facilitation cards with free digital companion tools for coaches and therapists."
 author: Bhagyesh Pathak
-excerpt: ""
 type: post
 id:
 category:

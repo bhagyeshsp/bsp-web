@@ -4,6 +4,7 @@ date: '2021-07-29T18:35:18+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Understand others' problems before convincing them. Genuine offers create partnerships, not narrow goal-focused pitches."
 excerpt: ''
 type: post
 id: 669

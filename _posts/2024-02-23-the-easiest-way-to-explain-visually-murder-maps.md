@@ -4,6 +4,7 @@ date: '2024-02-23T09:36:49+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Explain complex ideas visually using murder map style. Try Excalidraw to create relatable, clear visual explanations."
 excerpt: 'If you’re a fan of suspense thriller movies like me, you’d have seen one
   of these murder maps in some scenes. (I didn’t know it is called that until now)
   What I love about those boards is, how easy it is for a viewer to understand what

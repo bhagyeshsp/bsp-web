@@ -4,6 +4,7 @@ date: '2021-07-28T18:57:25+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Exploring how emotional volatility in decisions impacts our culture, from GameStop to Zomato IPOs. Time for conscious choices."
 excerpt: ''
 type: post
 id: 256

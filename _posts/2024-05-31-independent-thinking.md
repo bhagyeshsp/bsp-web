@@ -4,6 +4,7 @@ date: '2024-05-31T11:00:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Independent thinking is being systematically eliminated. Protect your child's imagination through unschooling and reading for pleasure."
 excerpt: ''
 type: post
 id: 2194

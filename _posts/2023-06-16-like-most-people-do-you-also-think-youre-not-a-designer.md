@@ -4,6 +4,7 @@ date: '2023-06-16T10:00:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Think you're not a designer? Everyone designs every day. Discover why design thinking is for everyone, not just creatives."
 excerpt: ''
 type: post
 id: 1760

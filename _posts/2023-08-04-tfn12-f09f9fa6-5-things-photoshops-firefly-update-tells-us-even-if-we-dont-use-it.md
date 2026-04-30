@@ -5,6 +5,7 @@ date: '2023-08-04T10:00:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Photoshop's Firefly AI reveals 5 crucial lessons: skill alone won't matter—imagination and real-world understanding matter more."
 excerpt: ''
 type: post
 id: 1834

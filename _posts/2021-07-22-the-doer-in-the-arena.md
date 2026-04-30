@@ -4,6 +4,7 @@ date: '2021-07-22T19:29:51+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Value the doers in the arena, not the critics. Leadership cannot be assigned a value; it must be cultivated."
 excerpt: ''
 type: post
 id: 652

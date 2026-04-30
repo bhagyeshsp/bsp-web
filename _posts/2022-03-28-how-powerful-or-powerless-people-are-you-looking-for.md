@@ -4,6 +4,7 @@ date: '2022-03-28T08:56:55+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Are you hiring followers or challenge-ers? Understanding power distance helps match jobs with candidates who thrive."
 excerpt: ''
 type: post
 id: 776

@@ -4,6 +4,7 @@ date: '2022-06-10T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "We rob students, children, and mentees of learning experiences when we give ready-made answers. Even with good intentions."
 excerpt: ''
 type: post
 id: 945

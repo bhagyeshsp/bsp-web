@@ -4,6 +4,7 @@ date: '2020-03-31T15:23:15+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Two weeks of WFH revealed hidden productivity truths. Learn to measure real value, prioritize tasks, and decline worthless meetings."
 excerpt: ''
 type: post
 id: 171

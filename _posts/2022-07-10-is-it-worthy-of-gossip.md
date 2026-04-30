@@ -4,6 +4,7 @@ date: '2022-07-10T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Gossip is an intimate act for survival—whatever idea, product or business is worthy of gossip spreads organically. Ask: is it worth talking about?"
 excerpt: ''
 type: post
 id: 1067

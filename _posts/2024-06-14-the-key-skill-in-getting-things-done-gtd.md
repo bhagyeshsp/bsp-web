@@ -4,6 +4,7 @@ date: '2024-06-14T10:30:32+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "The key skill in getting things done: identify and address limiting factors. Remove blockers to accelerate work."
 excerpt: 'Reader, sometimes you look at your work and wonder why it isn''t moving
   at a fast pace. Your team and you might be giving your best and still, you can''t
   get things done.These things could be anything: Data analysis reports Software development

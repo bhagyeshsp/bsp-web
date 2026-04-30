@@ -4,6 +4,7 @@ date: '2022-06-25T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "See reality as it is, not as you expected. Gap between expectation and reality IS suffering. Embrace what is."
 excerpt: ''
 type: post
 id: 1007

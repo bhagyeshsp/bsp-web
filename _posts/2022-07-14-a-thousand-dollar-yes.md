@@ -4,6 +4,7 @@ date: '2022-07-14T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "A thousand-dollar YES costs your client significantly. Saying NO to every whim is a disservice—choose conflict over heavy cost."
 excerpt: ''
 type: post
 id: 1079

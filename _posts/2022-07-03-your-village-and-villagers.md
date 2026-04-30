@@ -4,6 +4,7 @@ date: '2022-07-03T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "It takes a village to raise a child—and success depends on choosing your village and villagers wisely in business."
 excerpt: ''
 type: post
 id: 1046

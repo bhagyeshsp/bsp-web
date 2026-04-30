@@ -4,6 +4,7 @@ date: '2023-10-27T09:30:22+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Sketch ideas instantly with wireframe.cc—a free, minimal tool for creating wireframes without complex design software."
 excerpt: 'Reader, Have you been in a situation where you want to quickly draw a couple
   of things on the computer and share them with your colleague or team? To give some
   idea of what the output should look like? Output such as: where to place elements

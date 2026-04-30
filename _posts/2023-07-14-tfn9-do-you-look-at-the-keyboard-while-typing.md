@@ -4,6 +4,7 @@ date: '2023-07-14T10:00:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Do you stare at your keyboard while typing? Discover why touch typing matters and how keyboard bumps guide your fingers to speed."
 excerpt: ''
 type: post
 id: 1807

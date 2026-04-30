@@ -4,6 +4,7 @@ date: '2021-02-20T19:07:12+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Explore why managers must balance persistence with the capacity to let go. Learn when giving up fosters both success and fulfillment."
 excerpt: ''
 type: post
 id: 271

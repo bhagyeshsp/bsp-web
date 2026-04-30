@@ -4,6 +4,7 @@ date: '2022-06-14T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Spot real experts from jargon-spewing pseudo-experts using this 3-step heuristic. Ask why, then ask for experience."
 excerpt: ''
 type: post
 id: 957

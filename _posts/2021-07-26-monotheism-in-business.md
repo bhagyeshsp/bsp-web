@@ -4,6 +4,7 @@ date: '2021-07-26T18:40:33+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Business has multiple stakeholders, not one god. Why 'customer is king' thinking fails and sustainable alternatives exist."
 excerpt: ''
 type: post
 id: 659

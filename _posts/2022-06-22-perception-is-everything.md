@@ -4,6 +4,7 @@ date: '2022-06-22T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Perception gets your cold call answered, wins jobs, and begets votes. Our brains use mental shortcuts—master them or be manipulated."
 excerpt: ''
 type: post
 id: 993

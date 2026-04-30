@@ -4,6 +4,7 @@ date: '2024-05-13T14:01:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Reflecting on a year of sending Friday newsletters—the writer-reader symbiosis and the responsibility of thoughtful communication."
 excerpt: ''
 type: post
 id: 2202

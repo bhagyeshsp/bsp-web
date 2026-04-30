@@ -5,6 +5,7 @@ date: '2024-02-02T09:30:17+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Delight clients by under-promising and over-delivering. Like Green Trends salon—the secret is exceeding expectations."
 excerpt: In 2016, one of my friends introduced me to a Hair Salon chain named Green
   Trends. This is when I was residing in Hyderabad. Green Trends set a benchmark of
   what it means to delight someone. There were many things that they were doing right,

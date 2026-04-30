@@ -4,6 +4,7 @@ date: '2021-05-31T20:03:53+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "No excuses means remarkable. How commitment, courage, and practice lead to exceptional outcomes in work and life."
 excerpt: ''
 type: post
 id: 497

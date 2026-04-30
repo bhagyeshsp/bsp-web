@@ -4,6 +4,7 @@ date: '2022-03-15T09:26:32+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Start living your act, not performing it as a mask. Cut the noise to find your temperament and live in harmony with your being."
 excerpt: ''
 type: post
 id: 772

@@ -4,6 +4,7 @@ date: '2022-07-11T10:30:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Every day we realize something won't work out—the moment of realization matters less than what you choose to do next."
 excerpt: ''
 type: post
 id: 1069

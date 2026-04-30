@@ -4,6 +4,7 @@ date: '2024-11-15T10:30:49+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Make Zoom meetings feel real. Hide self-view to stop being a digital Narcissus and connect heart-to-heart with colleagues."
 excerpt: 'I used to detest the "keep your video on" dictum often thrown during Zoom
   meets four years back. It left a bad taste. You may feel my anguish and contempt
   for mass Zoom meetings in WFH: How much worth from home? article that I penned down

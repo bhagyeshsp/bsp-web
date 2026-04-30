@@ -4,6 +4,7 @@ date: '2023-06-30T10:00:00+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "The outline is your secret weapon to finish any project. Get early access to a mini handbook on data system design that actually works."
 excerpt: ''
 type: post
 id: 1786

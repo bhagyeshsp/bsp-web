@@ -2,9 +2,8 @@
 title: "Scaling LLMs at the Edge: A journey through distillation, routers, and embeddings"
 date: "2026-04-01"
 status: publish
-
+description: "Learn how I built an AI-powered facilitation assistant using LLM distillation, embedding-based routing, and Cloudflare Workers—all within a $2 per customer budget."
 author: Bhagyesh Pathak
-excerpt: ""
 type: post
 id:
 category:

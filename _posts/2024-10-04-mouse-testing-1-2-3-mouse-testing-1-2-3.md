@@ -4,6 +4,7 @@ date: '2024-10-04T10:30:31+05:30'
 status: publish
 
 author: Bhagyesh Pathak
+description: "Test your mouse for problems before replacing. Use this free online tool to check double-clicks, scroll, and button issues."
 excerpt: That's what I do almost every year.As a regular user of PC, I use mouse and
   keyboard a lott. And that's why I have to replace my mouse often. (No, not the keyboard,
   I go gentle on the keyboard.) Multiverse model effect :D If you know me, you'd know
