@@ -2,7 +2,7 @@
 
 > A collection of essays and resources on technology, philosophy, and human potential.
 
-Last Updated: 2026-04-04T06:35:21.771Z
+Last Updated: 2026-04-30T12:52:49.871Z
 
 ## Pages
 - [About](https://bhagyeshpathak.com/about/)

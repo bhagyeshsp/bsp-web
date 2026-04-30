@@ -2,7 +2,7 @@
 
 > A collection of essays and resources on technology, philosophy, and human potential.
 
-Last Updated: 2026-04-04T06:35:21.772Z
+Last Updated: 2026-04-30T12:52:49.872Z
 
 ## Pages
 
@@ -1296,7 +1296,7 @@ I have been publishing more than last year. However, long-form essays are taking
 
 URL: https://bhagyeshpathak.com/uncategorized/2026/04/01/scaling-llms-at-the-edge/
 Date: 2026-04-01
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Learn how I built an AI-powered facilitation assistant using LLM distillation, embedding-based routing, and Cloudflare Workers—all within a $2 per customer budget.
 Author: Bhagyesh Pathak
 
 *I have extensively edited this article after an LLM agent combed through my codebase and prepared the initial draft.* *Originally published at [Sisyphus Consulting blog](https://sisyphusconsulting.org/case-studies/2026/04/01/scaling-llms-at-the-edge)*
@@ -1864,7 +1864,7 @@ Originally posted at: https://sisyphusconsulting.org/case-studies/2026/04/01/sca
 
 URL: https://bhagyeshpathak.com/uncategorized/2026/03/30/you-can-just-do-things/
 Date: 2026-03-30
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: In the age of AI, you don’t need permission to start. Here’s why you can—and should—just do things without waiting for approval.
 Author: Bhagyesh Pathak
 
 *A few days into writing this essay, I realized that this essay is for men. So, if you’re a woman, you’re welcome to read, just be mindful that it is based largely on a man’s experience of the world and adapts a specific set of masculine premises on life, world and fulfilment.*
@@ -2031,7 +2031,7 @@ You can just give your gifts.
 
 URL: https://bhagyeshpathak.com/uncategorized/2026/03/27/wu-wei-cards-are-live/
 Date: 2026-03-27
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Wu Wei Cards are finally live—a deck of 50 hand-drawn facilitation cards with free digital companion tools for coaches and therapists.
 Author: Bhagyesh Pathak
 
 Finally, [wuwei.cards](https://wuwei.cards/) is live. I first came across processing cards a few years ago. And their effect hasn’t left me since then, so much so that I’m going over so much trouble to provide the same experience to others. Crazy.
@@ -2070,7 +2070,7 @@ PPS: Pls visit [wuwei.cards](https://wuwei.cards/) and let me know how you liked
 
 URL: https://bhagyeshpathak.com/uncategorized/2026/03/13/barbarians-at-the-gate-book-review/
 Date: 2026-03-13
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: A review of Barbarians at the Gate—the gripping tale of RJR Nabisco’s takeover that reveals Wall Street’s raw power and ambition.
 Author: Bhagyesh Pathak
 
 ![Barbarians at the gate](https://bhagyeshpathak.com/assets/images/uploads/barbarians-at-the-gate.jpg)
@@ -2097,7 +2097,7 @@ I’m now wondering, any of my connections working for PE firms, VCs or Investme
 
 URL: https://bhagyeshpathak.com/uncategorized/2026/01/12/the-pleasure-of-experimenting/
 Date: 2026-01-12
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: The joy of setting up real-world experiments and learning from them beats theoretical guesses. Here’s how I tested Google Calendar’s polling frequency.
 Author: Bhagyesh Pathak
 
 I looove experiments. My childhood was full of hardware experiments and then I switched to software.
@@ -2134,7 +2134,7 @@ The experiment is still on, let’s see how it goes.
 
 URL: https://bhagyeshpathak.com/uncategorized/2025/12/30/following-through/
 Date: 2025-12-30
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Following through isn’t a skill—it’s a quality. Here’s why keeping your word matters more than ambition or talent.
 Author: Bhagyesh Pathak
 
 As we wrap up the outgoing year, we tend to promise to better ourselves next year.
@@ -2197,7 +2197,7 @@ Or probably today?
 
 URL: https://bhagyeshpathak.com/uncategorized/2025/07/14/why-people-hide-AI-usage-at-work/
 Date: 2025-07-14
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Why do employees secretly use AI at work? From shame to job security fears—here are the real reasons behind secret AI adoption.
 Author: Bhagyesh Pathak
 
 ## Essay Outline
@@ -2797,7 +2797,7 @@ FOOTNOTES:
 
 URL: https://bhagyeshpathak.com/newsletter/2024/11/29/part-2-2-increasing-the-surface-area-of-luck/
 Date: 2024-11-29
-Description: I love science.I’m sure you’d have noticed that.So, whether you love science, you have to listen to this incredible thing. Our digestive organ–small intestine is 3-5 meters long, with a diameter of a mere 2-3 cm. That’s like a normal PVC water pipe in our home.That’s not incredible. The incredible part is this:The small intestine’s effective surface area could be as large as several tennis stadiums!Look at this image: Source As we zoom into the fine structures of the small intestine’s wall,…
+Description: Upskilling alone won’t advance your career. Discover how expanding your luck’s surface area through diverse experiences matters more.
 Author: Bhagyesh Pathak
 
 I love science.  
@@ -2980,7 +2980,7 @@ There are many theories about the purpose of death whistles. The most believable
 
 URL: https://bhagyeshpathak.com/newsletter/2024/11/22/part-1-2-why-focusing-on-upskilling-may-be-dangerous-to-your-career/
 Date: 2024-11-22
-Description: Reader, don’t get me wrong.I’m a believer and practitioner of life-long learning.In this two-part letter, I’m talking about “upskilling”—it is far from “learning”. It’s a deceptive term. So, I hope I don’t confuse you by mixing the two. Now that’s out of our way, we can focus on the main subject.If you’re in India and watch YouTube videos, you might have encountered some ads about upskilling. Almost all of them have a poster that looks like this: A beautiful model wearing a worksuite Using a…
+Description: Upskilling is a dangerous trap word. Learn why focusing only on certifications may harm your career instead of advancing it.
 Author: Bhagyesh Pathak
 
 Reader, don’t get me wrong.  
@@ -3112,7 +3112,7 @@ I’m unsure whether the critics would understand it. But then, how would I know
 
 URL: https://bhagyeshpathak.com/newsletter/2024/11/15/better-zoom-meetings-heart-to-heart/
 Date: 2024-11-15
-Description: I used to detest the “keep your video on” dictum often thrown during Zoom meets four years back. It left a bad taste. You may feel my anguish and contempt for mass Zoom meetings in WFH: How much worth from home? article that I penned down two weeks into covid lockdown. Also, do people still keep their mic unmute in large Zoom meets? Thanks to different opportunities, I could make some career adjustments without having to join a Zoom meeting for the sake of it—and not in a mass of 5+…
+Description: Make Zoom meetings feel real. Hide self-view to stop being a digital Narcissus and connect heart-to-heart with colleagues.
 Author: Bhagyesh Pathak
 
 I used to detest the “keep your video on” dictum often thrown during Zoom meets four years back. It left a bad taste. You may feel my anguish and contempt for mass Zoom meetings in [WFH: How much worth from home?](https://bhagyeshpathak.com/blog//wfh-how-much-worth-from-home) article that I penned down two weeks into covid lockdown.
@@ -3202,7 +3202,7 @@ If you’re interested in the TDD debate, this one is my next read, again by Dav
 
 URL: https://bhagyeshpathak.com/newsletter/2024/11/08/rules-to-work-by-manual-first-automatic-later/
 Date: 2024-11-08
-Description: Most things in our lives are now automatic:We don’t go fetch water, it automatically reaches us.We don’t need to generate electricity, it reaches us.We don’t need to assemble blocks to print on paper, the laser printer just prints it.And oh, manual printing reminds me of these fun printing videos made every day by the Sacramento History Museum. For example, in this YouTube shorts, Howard prints a Happy Halloween greeting using the press. But of course, that’s not what we want to discuss…
+Description: Do manual work first before automating. Grassroots understanding builds mastery and reveals what really needs automation.
 Author: Bhagyesh Pathak
 
 Most things in our lives are now automatic:  
@@ -3290,7 +3290,7 @@ David has felt the brunt of these lunatics firsthand and he has rightly deemed t
 
 URL: https://bhagyeshpathak.com/newsletter/2024/11/01/part-2-2-deep-clean-your-pc-bleaching/
 Date: 2024-11-01
-Description: Hi Reader,How’s your Diwali week progressing?I hope you had a good one.Wishing you a happy Diwali week.Today, I won’t take long. Because I’ve got to be somewhere and you’ve got to relax.I hope you began cleaning your PC as per last week’s conversation. It is something that no software can do automatically. Automatic cleaning today We will use an automatic software for today’s micro-cleaning.You just have to select which parts of your PC you want to get cleaned and then press GO.It is like…
+Description: Auto-clean your PC with BleachBit. The open-source tool removes temp files, caches, and junk from browsers effortlessly.
 Author: Bhagyesh Pathak
 
 Hi Reader,  
@@ -3375,7 +3375,7 @@ It can clone anyone and make them act, dress and talk naturally. **There’s a s
 
 URL: https://bhagyeshpathak.com/newsletter/2024/10/25/part-1-2-deep-clean-your-pc-find-out-heavy-files-and-folders/
 Date: 2024-10-25
-Description: Since my childhood, the Diwali season has been the season of cleaning. It’s like the Spring season. Every corner of the home should look new, dusted, and organized. “Rejuvenated”, that’s the word I was looking for. Although the necessity of cleaning has decreased over the years, I can still feel the spirit of this season.So I thought, why not share ideas on digital cleaning our workspace? I’m sure you might not be taking up a broom and cleaning your office space–because the cleaning staff…
+Description: Deep clean your PC for Diwali. Use TreeSize Free to find heavy folders consuming your storage and reclaim disk space.
 Author: Bhagyesh Pathak
 
 Since my childhood, the Diwali season has been the season of cleaning. It’s like the Spring season. Every corner of the home should look new, dusted, and organized. “Rejuvenated”, that’s the word I was looking for.
@@ -3484,7 +3484,7 @@ Enjoy [this 2 minute clip](https://youtu.be/vJG698U2Mvo)and see if you can beat 
 
 URL: https://bhagyeshpathak.com/newsletter/2024/10/18/nonviolent-communication-in-work-and-relationships/
 Date: 2024-10-18
-Description: Some time back, I came across the practice of Nonviolent Communication. Since then, I have constantly thought about it when I hear myself and others communicate violently. Since the practice has stayed with me for a sufficiently long time, I feel comfortable and authentic in sharing with you now.Before we move ahead, let me borrow Marshall Rosenberg’s definition of “violent” communication. The man who conceptualized this practice. If “violent” means acting in ways that result in hurt or harm,…
+Description: Transform workplace communication with Nonviolent Communication. A 4-step framework to express observations, feelings, needs, and requests.
 Author: Bhagyesh Pathak
 
 Some time back, I came across the practice of Nonviolent Communication. Since then, I have constantly thought about it when I hear myself and others communicate violently. Since the practice has stayed with me for a sufficiently long time, I feel comfortable and authentic in sharing with you now.  
@@ -3585,7 +3585,7 @@ You will agree with me that **Eddie Woo** is a phenomenal teacher.
 
 URL: https://bhagyeshpathak.com/newsletter/2024/10/11/the-problem-with-averages-and-dashboards/
 Date: 2024-10-11
-Description: Tell me something, would you step into a river that is on average 4 feet deep?Take a pause. If your mind shouted NO right away, you don’t need to look at this illustration: See? Averages are tricky.Most of the time, they play with our intuition and lead us to bad decisions. STOCK DERIVATIVES RIVER One of my favourite averages is the recent Securities and Exchange Board of India’s (SEBI) research outcome : approximately 93% of equity derivative traders have incurred an average loss of Rs 2…
+Description: Averages in dashboards trick us into bad decisions. See how 93% of derivative traders lost money and why dashboards hide the truth.
 Author: Bhagyesh Pathak
 
 Tell me something, would you step into a river that is on average 4 feet deep?  
@@ -3670,7 +3670,7 @@ I haven’t ridden a Robotaxi yet, so let’s see when I get to experience it an
 
 URL: https://bhagyeshpathak.com/newsletter/2024/10/04/mouse-testing-1-2-3-mouse-testing-1-2-3/
 Date: 2024-10-04
-Description: That’s what I do almost every year.As a regular user of PC, I use mouse and keyboard a lott. And that’s why I have to replace my mouse often. (No, not the keyboard, I go gentle on the keyboard.) Multiverse model effect :D If you know me, you’d know I don’t mind using the same Cell phone for 10 years. So if a mouse lasted 2 years, I wouldn’t replace it in a year. I mean why fix something that is not broken? So, the question is how do I know it is time to replace the mouse? I know when it’s…
+Description: Test your mouse for problems before replacing. Use this free online tool to check double-clicks, scroll, and button issues.
 Author: Bhagyesh Pathak
 
 That’s what I do almost every year.  
@@ -3758,7 +3758,7 @@ And oh, *technically*, Randall is not exactly a comic guy, he is an ex-NASA engi
 
 URL: https://bhagyeshpathak.com/newsletter/2024/09/27/backing-up-work-regularly/
 Date: 2024-09-27
-Description: Reader,You might have experienced the loss of data or a few important edits in a document at least a few times in your work. Everyone experiences that.I don’t know why we tend to forget to either save our work or back up regularly.The gruelling part is the need to do over the whole effort. So, just saying “back up your work” is not helpful advice. Helpful advice might be something that we can see with an example. When is backup necessary? Anytime you begin working on a long-term and important…
+Description: Back up work after major changes, not just occasionally. Combined with 3-2-1 strategy, it protects your crucial files.
 Author: Bhagyesh Pathak
 
 Reader,  
@@ -3839,7 +3839,7 @@ If you’re not much technical person, you may want to skip the first hour and [
 
 URL: https://bhagyeshpathak.com/newsletter/2024/09/20/create-your-personal-intellectual-assistant/
 Date: 2024-09-20
-Description: Who doesn’t like a little help in their work?Traditionally, people hire personal assistants. And we know it is so difficult to hire one: it costs money, they’re inefficient and they don’t get it our style from day one.In short, hiring personal assistants is as tough for us as it was for Miranda Priestly (played by Meryl Streep) in The Devil Wear Prada in this scene. Or as painful as it was for Miranda to see the newly hired personal assistant mess up the work: But if you think about it, most…
+Description: Create a free AI research assistant using Google NotebookLM. Upload PDFs, chat with documents, and generate audio podcasts instantly.
 Author: Bhagyesh Pathak
 
 Who doesn’t like a little help in their work?  
@@ -3943,7 +3943,7 @@ Read on.
 
 URL: https://bhagyeshpathak.com/newsletter/2024/09/13/today-we-create-a-tiny-folder-generator-software-using-notepad-you-can-do-it-trust-me/
 Date: 2024-09-13
-Description: Trust me, it is worth spending 5 minutes of your life.All you need is Notepad on a Windows PC and NO programming knowledge.You may wonder, why we would go to the length of creating our folder-generator when we can create as many as we want using a mouse click.I’d tell you this: 1. Because it is fun2. We can create 1000s of folders in a single click, as many times as we want.But, first, this is how it all started: In 2020, I needed to create multiple folders Not once, but multiple times and…
+Description: Create thousands of folders in seconds using Notepad. No coding needed—just a simple batch file transforms productivity.
 Author: Bhagyesh Pathak
 
 Trust me, it is worth spending 5 minutes of your life.  
@@ -4049,7 +4049,7 @@ The said article tries to defile its sharp edges, but several empirical studies 
 
 URL: https://bhagyeshpathak.com/newsletter/2024/09/06/my-go-to-site-for-symbols/
 Date: 2024-09-06
-Description: Do you remember the late 2000s when mobile phone adoption was on the rise and people had just begun using texting? Forwarding and communicating over sms all the time.Some of my friends used to be pro at texting different smileys. For example, :D for laughter, ;) for winking.Look at this cheat sheet: Nowadays, due to high smartphone adoption and communication beyond texting, we use emojis without using these symbols.But, I don’t want to talk only about these emojis because regular work doesn’t…
+Description: Quickly insert any symbol into documents. My go-to site copychar.cc solves the Microsoft Word symbols nightmare instantly.
 Author: Bhagyesh Pathak
 
 Do you remember the late 2000s when mobile phone adoption was on the rise and people had just begun using texting? Forwarding and communicating over sms all the time.  
@@ -4115,7 +4115,7 @@ By the way, the main reason I came across this essay was another beautiful visio
 
 URL: https://bhagyeshpathak.com/uncategorized/2024/09/02/ai-in-session-planning-2/
 Date: 2024-09-02
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: AI can help educators break from the rut. See how ATL AI Assistant creates hyper-contextual, personalized learning experiences.
 Author: Bhagyesh Pathak
 
 Is AI going to replace all of us? No, I don’t think so.  
@@ -4135,7 +4135,7 @@ What similar challenges come to your mind? A challenge where your hunch says tha
 
 URL: https://bhagyeshpathak.com/newsletter/2024/08/30/principle-of-least-privilege/
 Date: 2024-08-30
-Description: I should have named last week’s letter “Staff or Admin (Part 1/2)”. Because today’s is kind of Part 2/2.Yes, kind of.I could have shared this independently, but sequencing helps us connect the dots better. And this one is directly related to most people’s work. So…So, we talked about four types of access control last week.One of them was the DAC (Discretionary Access Control). The one where we decide whom to allow different levels of access.Remember this screenshot? We will take that…
+Description: Only grant minimum access needed for jobs. The Principle of Least Privilege protects organizations from data leaks and breaches.
 Author: Bhagyesh Pathak
 
 I should have named last week’s letter “Staff or Admin (Part 1/2)”. Because today’s is kind of Part 2/2.  
@@ -4214,7 +4214,7 @@ You might have noticed, the louder a feminist, the uglier and unhealthier they t
 
 URL: https://bhagyeshpathak.com/uncategorized/2024/08/29/ai-in-session-planning-1/
 Date: 2024-08-29
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Building an ATL AI Assistant to help teachers plan better sessions. Using AI to create personalized learning without replacing teachers.
 Author: Bhagyesh Pathak
 
 Shipping work is hard.  
@@ -4251,7 +4251,7 @@ We don’t need to think of (and consequently, fear of) an AI Robo Teacher in ou
 
 URL: https://bhagyeshpathak.com/newsletter/2024/08/23/staff-or-admin/
 Date: 2024-08-23
-Description: Reader, I don’t know what it is. But in the past few months, I have been thinking more about online safety and privacy than before. Maybe it is the news I read or the general state of the world. You would have also noticed it, right?For example, a few months back, I shared two letters on this theme:1. How strong is your password? Check and generate memorable passwords2. Instant use-and-throw email ID using 10minutemailI found this gif that I used at the beginning of the second letter quite…
+Description: Beyond staff and admin roles—explore DAC, MAC, RBAC, and ABAC access controls. Choose right security for your organization.
 Author: Bhagyesh Pathak
 
 Reader, I don’t know what it is. But in the past few months, I have been thinking more about online safety and privacy than before. Maybe it is the news I read or the general state of the world. You would have also noticed it, right?  
@@ -4346,7 +4346,7 @@ It is just that the design and planning of the whole integration need to be well
 
 URL: https://bhagyeshpathak.com/newsletter/2024/08/16/framing-effectively-2/
 Date: 2024-08-16
-Description: Dear Reader,The months of August and September are full of long weekends and holidays in India. I hope you enjoy them and make the most out of them–and I guess you won’t be opening your mailbox this weekend. But if you do, don’t forget to watch this heartwarming book-reading video. Sometimes I feel that some of the most beautiful literature is available in the children’s section. The Rabbit Listened: Book Coverpage Now, let’s get down to business. Most of you who read this letter know how…
+Description: Frame information for impact. Master the three elements—value, emotion, and decision clarity—to get things done effectively.
 Author: Bhagyesh Pathak
 
 Dear Reader,  
@@ -4493,7 +4493,7 @@ The idea of getting money for doing nothing is itself preposterous. But that’s
 
 URL: https://bhagyeshpathak.com/newsletter/2024/08/09/google-google-who-try-perplexity-and-forget-google-like-i-did/
 Date: 2024-08-09
-Description: Remember the old Google Search Result Page? Did you know that the word Google is based on the word “Googol”, a mathematical term for the number one followed by a hundred zeros? Crazy, right? I remembered all this for most of my adult life.But I have forgotten about Google’s existence for the last 1 year. Because now I have been using perplexity.ai I don’t want to beat around the bush.You can go ahead and try perplexity.ai right away! Don’t forget to sign up, it’s free and will let you save…
+Description: Why I abandoned Google for Perplexity AI. A powerful research tool that understands queries, summarizes sources, and rivals ChatGPT.
 Author: Bhagyesh Pathak
 
 Remember the old Google Search Result Page?  
@@ -4558,7 +4558,7 @@ By the way, did you know that this week, a [United States federal court ruled Go
 
 URL: https://bhagyeshpathak.com/uncategorized/2024/08/06/to-ai-or-not-to-ai/
 Date: 2024-08-06
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: The question isn’t whether to use AI—but what, when, where, who, and how much. Navigate AI integration wisely.
 Author: Bhagyesh Pathak
 
 That’s no longer the question now.  
@@ -4621,7 +4621,7 @@ FOOTNOTES:
 
 URL: https://bhagyeshpathak.com/newsletter/2024/08/02/rules-to-work-by-a-little-variation-in-process-leads-to-a-little-variation-in-output/
 Date: 2024-08-02
-Description: Reader, have you ever prepared dosa?I mean dosa batter?If you have prepared it, you know that no two people’s dosa batter comes out the same. Even with the same ingredients! (And let’s not get into the effect of different seasons.) Why?Because of the recipe.The recipe differs, and the result differs.And what exactly is a “recipe”?It’s a set of processes and algorithms.Change a part of the recipe and the result changes. I can go on with the culinary analogies for days. But we are not chefs and…
+Description: Small process changes lead to different results. Like dosa batter—recipe variations change the outcome. Find your work recipe.
 Author: Bhagyesh Pathak
 
 Reader, have you ever prepared dosa?  
@@ -4714,7 +4714,7 @@ But I wanted to share Mansoor’s story because what he is doing is brave and I 
 
 URL: https://bhagyeshpathak.com/newsletter/2024/07/26/write-in-dillinger-export-as-file-and-youve-learned-markdown/
 Date: 2024-07-26
-Description: Last week, you saw my love for Markdown. And this week, I recruit more comrades! 😄If you missed last week’s letter, quickly skim through it so you know what we are discussing in today’s letter.We will talk about a web app called Dillinger. Dillinger helps us write and preview markdown. We can export files in different formats too. We will use Dillinger to save ChatGPT’s responses in various formats. Dillinger: free, no sign-up app I don’t use Dillinger daily, but if you want to learn markdown…
+Description: Write in Dillinger, export as PDF, and learn Markdown naturally. Save ChatGPT responses in proper formatted documents.
 Author: Bhagyesh Pathak
 
 Last week, you saw my love for Markdown. And this week, I recruit more comrades! 😄  
@@ -4789,7 +4789,7 @@ In this refreshing piece, Jason talks about a simple way to look at customer ser
 
 URL: https://bhagyeshpathak.com/newsletter/2024/07/19/theres-something-about-markdown/
 Date: 2024-07-19
-Description: Have you tried ChatGPT?One of the things that I love about it is the way it organizes its responses. The cleanliness it shows.Take this ChatGPT response for example, ignore the content, and look at the info organization: As you can see ChatGPT uses headings, ordered/unordered lists, highlight commands and provides code snippets too! It is so helpful to me and millions of others that I can’t even describe how important these small things are. This formatting in ChatGPT is made possible by a…
+Description: Markdown is portable formatting that works everywhere. Write in any text editor and keep structure intact across platforms.
 Author: Bhagyesh Pathak
 
 Have you tried ChatGPT?  
@@ -4881,7 +4881,7 @@ Find all the pictures [here](https://www.1736nwood.com/) posted by his realtor.
 
 URL: https://bhagyeshpathak.com/newsletter/2024/07/12/maintaining-a-layer-of-separation-spiritual-quest-through-work/
 Date: 2024-07-12
-Description: A few years back, I learnt about Vipassana Meditation. No, I didn’t go for it, and shortly, I will explain why. But some of my friends recommended it, while a few were already practising it. If you don’t know what Vipassana meditation entails, from what I have heard from my friends and read online, the first leg of exercise is a 10-day long silent meditation on their campus. You try to empty your mind. Many people can’t last a day or two and they quit. When people complete the intense 10 days…
+Description: Maintain psychological separation between work and personal traits. Detach from outcomes, dissolve ego, and enjoy professional growth.
 Author: Bhagyesh Pathak
 
 A few years back, I learnt about **Vipassana Meditation**. No, I didn’t go for it, and shortly, I will explain why. But some of my friends recommended it, while a few were already practising it.
@@ -4966,7 +4966,7 @@ Wait, [I found the live quiz here](https://factfulnessquiz.com/).
 
 URL: https://bhagyeshpathak.com/newsletter/2024/07/05/convert-loong-links-into-tiny-personalized-ones/
 Date: 2024-07-05
-Description: A few days back, I received this Experiential Education conference Google Form link in an email:https://docs.google.com/forms/d/e/1FAIpQLScRkN-dnFrE_uIpPyKV410P2Oz5SFYMu3DYG_iAyhMyJMqu7g/viewform It’s a Google Form, like this: Imagine, if I wanted to provide this Google Form link in posters or audio marketing to spread the word, it would be useless. Because, as the charactercounter.com shows, it has 99 characters and you can’t expect anyone to type this link in their browser to check the…
+Description: Turn long links into memorable short URLs using TinyURL. Create personalized links for easy sharing and tracking.
 Author: Bhagyesh Pathak
 
 A few days back, I received this Experiential Education conference Google Form link in an email:  
@@ -5111,7 +5111,7 @@ See this photo of the sky burial ceremony. You can see the flocks of vultures on
 
 URL: https://bhagyeshpathak.com/newsletter/2024/06/28/highlight-your-mouse-pointer-during-presentations-and-video-calls/
 Date: 2024-06-28
-Description: All of us have been there.Standing in front of the audience in a conference hall, moving our mouse vigorously, asking everyone “See this? Here?” “…………ummm..” “Now?” “See the mouse pointer?” It breaks the flow of our conversation and our connection with the audience.The solution is so simple: having a highlighter on the mouse pointer. I finally got it a few months back A few months back, I was preparing for a video call where I was to present a software interface and walk through the…
+Description: Never lose your audience during presentations. Use PenAttention to highlight your mouse pointer for clear screen visibility.
 Author: Bhagyesh Pathak
 
 All of us have been there.  
@@ -5188,7 +5188,7 @@ Sometimes, we can’t say “no” because we feel obliged. A beautiful read on 
 
 URL: https://bhagyeshpathak.com/newsletter/2024/06/21/how-understanding-project-and-organization-debt-helps-us-work-and-hire-better/
 Date: 2024-06-21
-Description: A few days back, I came across this job listing by Gumroad. And it is something important that we need to talk about. It doesn’t matter whether you work in the software industry or not, it is not at all related. But we will start with this easy software example and work through it. So, have a look at this job role: The very first line mentions “technical debt”. One of their main priorities is finding someone who helps them remove “technical debt” from their product. Now, if you don’t know…
+Description: Understand project and organization debt to work smarter and hire better. Learn to manage invisible debt in teams.
 Author: Bhagyesh Pathak
 
 A few days back, I came across [this job listing](https://app.flexile.com/roles/gumroad/software-engineer-bw049ph4cr42y) by Gumroad. And it is something important that we need to talk about. It doesn’t matter whether you work in the software industry or not, it is not at all related. But we will start with this easy software example and work through it.
@@ -5296,7 +5296,7 @@ I think a year back, I shared this beautiful article by Morgan Housel on expecta
 
 URL: https://bhagyeshpathak.com/uncategorized/2024/06/17/can-evms-be-really-hacked/
 Date: 2024-06-17
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Can Indian EVMs really be hacked? A technical analysis of EVM security, access controls, and the VVPAT paper trail.
 Author: Bhagyesh Pathak
 
 I have been tinkering with microcontrollers since childhood and I can see the gap in the communication here. Between Rajeev and Musk.
@@ -5394,7 +5394,7 @@ In summary, the people who jump to resorting to Ballot Box citing the hackabilit
 
 URL: https://bhagyeshpathak.com/newsletter/2024/06/14/the-key-skill-in-getting-things-done-gtd/
 Date: 2024-06-14
-Description: Reader, sometimes you look at your work and wonder why it isn’t moving at a fast pace. Your team and you might be giving your best and still, you can’t get things done.These things could be anything: Data analysis reports Software development Teacher training Student assessments Data collection Project launch Organizing a retreatEven non-knowledge work can also be covered, but we will limit our letter to knowledge work. Before that, sharing a movie clip from my favourite 1994 classic Pulp…
+Description: The key skill in getting things done: identify and address limiting factors. Remove blockers to accelerate work.
 Author: Bhagyesh Pathak
 
 Reader, sometimes you look at your work and wonder why it isn’t moving at a fast pace. Your team and you might be giving your best and **still, you can’t get things done.**​  
@@ -5477,7 +5477,7 @@ I hope you too enjoy this read by Maggie Appleton.
 
 URL: https://bhagyeshpathak.com/uncategorized/2024/06/12/our-app-doesnt-have-ai-is-the-new-differentiator-now/
 Date: 2024-06-12
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Our app doesn’t have AI is becoming the new differentiator. Why privacy-conscious users prefer tools without AI surveillance.
 Author: Bhagyesh Pathak
 
 I love LLMs (Large Language Models) tools aka AI tools, they’ve changed the way I work, what I work and how I envisage my future. If you’ve been using it, you know what I mean.
@@ -5529,7 +5529,7 @@ Foot notes:
 
 URL: https://bhagyeshpathak.com/newsletter/2024/06/07/block-annoying-ads-on-the-web-and-youtube/
 Date: 2024-06-07
-Description: Imagine, you wake up in a 9 square meter room. There are screens all around you. You go to some physical labour work in the morning and come back to your room, which is also your home and spend the rest of the day playing video games and watching TV on the screens around you. The screens are the only source of joy in your life. Sometimes they show advertisements, if you don’t want to watch them, you can pay and skip the ads. BUT, there are ads that you can’t skip. You can’t close your eyes….
+Description: Block annoying ads with Adblock Plus and Adblock for YouTube. Remove 30+ ads per page and protect privacy from trackers.
 Author: Bhagyesh Pathak
 
 Imagine, you wake up in a 9 square meter room. There are screens all around you. You go to some physical labour work in the morning and come back to your room, which is also your home and spend the rest of the day playing video games and watching TV on the screens around you. **The screens are the only source of joy in your life**.
@@ -5619,7 +5619,7 @@ But mainly, the rise of book summarizer services such as Blinkit prompts us to a
 
 URL: https://bhagyeshpathak.com/newsletter/2024/05/31/ask-for-a-written-word-i-mean-save-yourself-from-headache-and-heartache/
 Date: 2024-05-31
-Description: So, I was scrolling through social media and this comic from Marketoonist cracked me a few weeks back. 🤣 It is soo true. If you think about it, most of the work that we get, the amount of clarity varies. Sometimes we get complete clarity about what is expected, but most of the times, it is pure guesswork. Guesswork based on our past experiences with them. So much so, that in most organizations, there is at least one fellow who knows what the boss wants. Not because he knows the details, but…
+Description: Always ask for written confirmation to avoid miscommunication. Get clarity and commitment before starting any work.
 Author: Bhagyesh Pathak
 
 So, I was scrolling through social media and this comic from Marketoonist cracked me a few weeks back.
@@ -5731,7 +5731,7 @@ I had never thought about this. But if you’re in a certain type of work, your 
 
 URL: https://bhagyeshpathak.com/uncategorized/2024/05/31/independent-thinking/
 Date: 2024-05-31
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Independent thinking is being systematically eliminated. Protect your child’s imagination through unschooling and reading for pleasure.
 Author: Bhagyesh Pathak
 
 I woke up to some irritating news today. I felt the urge to rage-write about the death of democracy, the EU’s climate madness, so-and-so forth. But then, what’s the point? Cognitive dissonance is such a powerful mechanism, that nothing can go through zealots.
@@ -5779,7 +5779,7 @@ Reads:
 
 URL: https://bhagyeshpathak.com/newsletter/2024/05/24/instant-use-and-throw-email-id-using-10minutemail/
 Date: 2024-05-24
-Description: Reader, have you felt the uneasiness when you’re shopping and the checkout counter guy asks for your contact number? For some elusive membership benefits? Now, my uneasiness turns into a permanent frown when I’m in a checkout queue. Because I know my contact number is going to change 100s of hands and harass me through tele-spamming (marketing is different, it is not spam). So, the frown signals my lack of interest and mostly the checkout counter guy doesn’t ask me for my contact number. But…
+Description: Protect your inbox from spam. Use 10minutemail for anonymous, throwaway email IDs that expire after 10 minutes.
 Author: Bhagyesh Pathak
 
 Reader, have you felt the uneasiness when you’re shopping and the checkout counter guy asks for your contact number? For some elusive membership benefits?
@@ -5866,7 +5866,7 @@ I just realized, the Reads of the week section seems longer than the main letter
 
 URL: https://bhagyeshpathak.com/newsletter/2024/05/17/how-strong-is-your-password-check-and-generate-memorable-passwords/
 Date: 2024-05-17
-Description: The first time I came across the concept of a real computer password was when I was around 16 years old. That password set by my father, got so popular in our family that we still use some version of that password even for our home WiFi. And that password is good enough for us. But a few years back, I came across an infographic resembling this: It was shocking!No matter how much I might have tried to protect my online passwords, one wrong website and I’d be done for. With most of our…
+Description: Check password strength and generate memorable ones. Some take 5 quintillion years to crack—secure your important accounts.
 Author: Bhagyesh Pathak
 
 The first time I came across the concept of a real computer password was when I was around 16 years old. That password set by my father, got so popular in our family that we still use some version of that password even for our home WiFi. And that password is good enough for us.
@@ -5983,7 +5983,7 @@ I get it when she says this, because the culture, the world is hell-bent on its 
 
 URL: https://bhagyeshpathak.com/uncategorized/2024/05/13/a-year-of-friday-letters/
 Date: 2024-05-13
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Reflecting on a year of sending Friday newsletters—the writer-reader symbiosis and the responsibility of thoughtful communication.
 Author: Bhagyesh Pathak
 
 Last week was the 52nd week of me sending Friday letters to the readers.
@@ -6028,7 +6028,7 @@ Cheers and thanks to everyone to push a lazy bones like me to continue dropping 
 
 URL: https://bhagyeshpathak.com/newsletter/2024/05/10/whats-your-power-distance/
 Date: 2024-05-10
-Description: And..this is the 52nd letter!1 letter/week 52 weeks = 1 year!Can you believe we have been conversing for a year now? Incredible!No matter when you joined this circle, I’m grateful for your support.Thank you so much for reading, replying and sometimes just skimming through the letters. 😇 Also, I’m thinking of including some new features in our letters: Guest Contributions: Collaborate with me on a letter, or submit your own piece. Opportunity Sharing: Job opportunities shared by readers, for…
+Description: Understand power distance to find matching workplaces. High or low—it shapes how you respond to authority at work.
 Author: Bhagyesh Pathak
 
 **And..this is the 52nd letter!  
@@ -6130,7 +6130,7 @@ If I handed over all 52 letters to everyone in the world and asked them to order
 
 URL: https://bhagyeshpathak.com/newsletter/2024/05/03/rename-100-files-for-100-team-members-under-a-second/
 Date: 2024-05-03
-Description: I should have shared this letter last week, immediately after Do you right-click to rename? Seriously!?. But no problem, better late than never. In that letter, we talked about using the F2 function key on your keyboard to rename files in day-to-day work. But sometimes, you might need to carry out bulk renaming. Say 100 files or 10000 files. Even F2 won’t help you do that. So, what to do? Use a software!I use a tiny, free software named Advanced Renamer. It is truly advanced As the name…
+Description: Rename 100 files in 1 second using Advanced Renamer. Bulk rename with CSV—perfect for HR performance reviews.
 Author: Bhagyesh Pathak
 
 I should have shared this letter last week, immediately after [Do you right-click to rename? Seriously!?](https://bhagyeshpathak.com/blog/%f0%9f%aa%9cdo-you-right-click-to-rename-seriously/). But no problem, better late than never.
@@ -6244,7 +6244,7 @@ Did you know that: it takes 22.5 hours for a radio wave to reach Voyager-1 from 
 
 URL: https://bhagyeshpathak.com/newsletter/2024/04/26/applying-dry-principle-in-your-work/
 Date: 2024-04-26
-Description: I have always been fascinated by programming languages. There are so many of them: python, C, C++, Java, SQL, VBA, etc. Don’t worry, I’m not going to bore you to death talking about programming. But what I want to talk about is the DRY (Don’t Repeat Yourself) principle used in programming. Any good programmer is supposed to follow it. So, what’s the DRY principle? Many programming languages are designed with the philosophy that programmers should avoid repetition wherever possible. And those…
+Description: Learn the DRY principle from programming applied to daily work: templates, SOPs, and documentation save time and reduce errors.
 Author: Bhagyesh Pathak
 
 I have always been fascinated by programming languages.
@@ -6412,7 +6412,7 @@ For the full context, you can also read the article below:
 
 URL: https://bhagyeshpathak.com/uncategorized/2024/04/23/dashboard-managers/
 Date: 2024-04-23
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Critique of ‘dashboard managers’ who stare at screens instead of understanding real work. Data-guided decisions need context.
 Author: Bhagyesh Pathak
 
 Have you noticed there is a birth of a whole new job role?
@@ -6453,7 +6453,7 @@ Check them out → https://get.bhagyeshpathak.com/posts/5-mistakes-i-avoid-while
 
 URL: https://bhagyeshpathak.com/newsletter/2024/04/19/do-you-right-click-to-rename-seriously/
 Date: 2024-04-19
-Description: No, I’m not judging. But I’m curious. When you rename a file in your PC (assuming it’s a Windows machine), do you point at the file icon using the mouse, then right-click (or double-click) to “rename” the file or folder? Isn’t that, too much effort? I mean think about it. You have to use one hand to right-click/double-click on the interested file, and hit “rename”. Then shift the hands on the keyboard to rename the file. What if you have to rename 10 files? That will have 10 slow-motion…
+Description: Stop right-clicking to rename files. Press F2—your keyboard’s secret weapon for instant file renaming in Windows.
 Author: Bhagyesh Pathak
 
 No, I’m not judging.
@@ -6504,7 +6504,7 @@ Adopt whichever you like.
 
 URL: https://bhagyeshpathak.com/newsletter/2024/04/12/5-mistakes-i-avoid-while-designing-my-dashboards/
 Date: 2024-04-12
-Description: Reader, If you tell me you haven’t seen a dashboard in your career so far, I won’t believe you. You wouldn’t believe yourself. The ease with which data visualization tools are available, it is impossible to believe that you would be spared from a dashboard. Mostly, this is how the tragedy of dashboards looks like: If I’m calling it a tragedy, I may not be holding a favourable view of most dashboard practices. And I would like to share a few of them before we move ahead. Problems with most…
+Description: Avoid these 5 dashboard mistakes: decimal precision, ignoring tables, too much detail, objectifying subjective data.
 Author: Bhagyesh Pathak
 
 Reader, If you tell me you haven’t seen a dashboard in your career so far, I won’t believe you. You wouldn’t believe yourself.
@@ -6589,7 +6589,7 @@ But we have been organizing society in a manner where it is increasingly insinua
 
 URL: https://bhagyeshpathak.com/newsletter/2024/04/05/adventure-wave-facilitate-unforgettable-workshops/
 Date: 2024-04-05
-Description: “Let’s begin with an icebreaker activity!” If you’ve been to work-related “team building” meetings, you’d have heard this a zillion times. I’m that guy who makes the gloomiest face possible upon hearing those words. (OR I used to be. Now, I run away at the first indication of such activity.) And there’s a reason why no regular ice-breaker activity breaks the ice. That’s what I want to talk about today. If you’re going to conduct a workshop, you will be able to deliver effective ones. So, very…
+Description: Design unforgettable workshops using the Adventure Wave. Guide participants through highs and lows for transformative experiences.
 Author: Bhagyesh Pathak
 
 *“Let’s begin with an icebreaker activity!”*
@@ -6682,7 +6682,7 @@ Before its current DEI-filth avatar, Disney produced some of the best marvels of
 
 URL: https://bhagyeshpathak.com/newsletter/2024/03/29/six-monthly-reading-roundup-13-out-of-47/
 Date: 2024-03-29
-Description: So, I got the idea of sharing a reading roundup in August when I was traveling and trying to write a letter. And couldn’t write anything. That’s when I came up with My Swades movie moment and reading roundup So, it has been approximately 6 months, and here we go again. Between the reading roundup in August and last week’s letter, I have been able to share 47 hand-picked articles with you. If you’re new or curious about the past issues, you may want to go to the archive. In any case, sharing…
+Description: Six-month reading roundup: 13 hand-picked articles from 47 shared. Best reads on persuasion, management, and AI.
 Author: Bhagyesh Pathak
 
 So, I got the idea of sharing a reading roundup in August when I was traveling and trying to write a letter. And couldn’t write anything. That’s when I came up with [My Swades movie moment and reading roundup](https://bhagyeshpathak.com/blog/tfn14-%f0%9f%93%9a-my-swades-movie-moment-and-reading-roundup/)​
@@ -6755,7 +6755,7 @@ Do you have any favorites?
 
 URL: https://bhagyeshpathak.com/uncategorized/2024/03/27/our-organization-is-flat/
 Date: 2024-03-27
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Debunking the flat organization myth. Real hierarchy exists in decision-making—pretending otherwise causes dysfunction.
 Author: Bhagyesh Pathak
 
 The gimmick of “we are a flat organization” got perpetuated when Facebook in 2015 began its operations with probably the largest open office floor plan in the world. Many of the tech-giants followed the suite.
@@ -6792,7 +6792,7 @@ Have you been at a receiving end of this gimmick? Did it feel empowering or help
 
 URL: https://bhagyeshpathak.com/newsletter/2024/03/22/one-ring-to-rule-them-all-one-tab-to-manage-them-all/
 Date: 2024-03-22
-Description: Reader, I want to ask you something. Does your browser window look like this: If it does, don’t worry, mine used to look the same until a few years ago. We are all addicted to a secret disease called “tabbed browsing”. Mozilla introduced this feature of “tabbed browsing” somewhere around 2003. And the users loved it. So much so, that most people can’t fathom the fact that initial years of personal computing allowed only opening in “new window”. No concept of tabs. But every new solution gives…
+Description: Tame browser tab chaos with OneTab extension. Consolidate tabs, save memory, and organize your browsing efficiently.
 Author: Bhagyesh Pathak
 
 Reader, I want to ask you something.
@@ -6899,7 +6899,7 @@ In this candid article, David confesses how cringe he feels when he looks back a
 
 URL: https://bhagyeshpathak.com/newsletter/2024/03/15/dont-despair-find-text-inside-files-like-a-pro-seekfast/
 Date: 2024-03-15
-Description: Reader, sometimes, we come across software applications that we didn’t know we needed. A few weeks back I sent you a letter titled: Instantly search your whole PC using Everything Search It focused on finding files and folders with matching names. But today, we will go a step deeper and talk about a free tool that has made my life easy for the past several years. It helps me find words in text files: MS Word, PDF, you name it! It’s called SeekFast And yes, it is available for MacOS if you…
+Description: Search text inside any file—Word, PDF, and more. Use SeekFast to find words across your entire computer.
 Author: Bhagyesh Pathak
 
 Reader, sometimes, we come across software applications that we didn’t know we needed.
@@ -6960,7 +6960,7 @@ I hope you enjoy reading this one as much as I did.
 
 URL: https://bhagyeshpathak.com/uncategorized/2024/03/09/the-tyranny-of-ideology/
 Date: 2024-03-09
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Ideology infiltrates organizations like Google. Check if your workplace serves people or pushes ideology. Self-diagnose now.
 Author: Bhagyesh Pathak
 
 What they say, even the atheists also believe in something. And they make that a religion. Because it is in the human nature to believe in something. We simply can’t help it. Belief maketh bread.
@@ -7005,7 +7005,7 @@ Your organization, your product: are you really in charge?
 
 URL: https://bhagyeshpathak.com/newsletter/2024/03/08/how-to-use-eustress-to-delight-people-at-work/
 Date: 2024-03-08
-Description: Recently, I published my idea of facilitation on LinkedIn: We are all facilitators. Many readers and friends found it relatable. That got me thinking. What is a running theme of the people I enjoyed working with? What exactly is it that I cherish about some of the people I worked with over the years? Why do people want to work with those people? In short, what is so special about their facilitation? I don’t know. I couldn’t come up with any answer right away. But with enough thinking, I…
+Description: Use eustress (positive stress) to help colleagues grow. Push people respectfully into their growth zone for fulfillment.
 Author: Bhagyesh Pathak
 
 Recently, I published my idea of facilitation on LinkedIn: [We are all facilitators](https://www.linkedin.com/posts/bhagyeshpathak_we-are-all-facilitators-i-dont-know-when-activity-7170751369690267649-qfbG?utm_source=share&utm_medium=member_desktop). Many readers and friends found it relatable. That got me thinking.
@@ -7128,7 +7128,7 @@ Unless there is leadership and wide-scale cleaning inside Google.
 
 URL: https://bhagyeshpathak.com/newsletter/2024/03/01/skill-cards-how-to-truly-assess-your-skills-and-plan-career-path/
 Date: 2024-03-01
-Description: Every time, in my resume, when I had to choose what to write about my strengths, I used to feel claustrophobic. I felt as if I had just a handful of words that I knew, and beyond that…there was a dead end. Now imagine, what would happen when managers and their team members might be meeting once a year to discuss where they need improvement? I guess a complete disaster! Because it is so difficult to name the skills that apply to a knowledge worker. And in a conversation such as appraisal, if…
+Description: Use 100+ skill cards for honest self-assessment. Plan your career path by identifying skills to improve and focus on.
 Author: Bhagyesh Pathak
 
 Every time, in my resume, when I had to choose what to write about my strengths, I used to feel claustrophobic. I felt as if I had just a handful of words that I knew, and beyond that…there was a dead end.
@@ -7197,7 +7197,7 @@ So, when I learned about Arc Institute and its administrative setup, I couldn’
 
 URL: https://bhagyeshpathak.com/newsletter/2024/02/23/the-easiest-way-to-explain-visually-murder-maps/
 Date: 2024-02-23
-Description: If you’re a fan of suspense thriller movies like me, you’d have seen one of these murder maps in some scenes. (I didn’t know it is called that until now) What I love about those boards is, how easy it is for a viewer to understand what is going on. No matter how complicated the movie storyline. Right? This leads to one of my favorite things: explaining things. I mean I just can’t let go of that instinct. And over the years, I have mostly used pen and paper. In recent years, I have tried…
+Description: Explain complex ideas visually using murder map style. Try Excalidraw to create relatable, clear visual explanations.
 Author: Bhagyesh Pathak
 
 If you’re a fan of suspense thriller movies like me, you’d have seen one of these [murder maps](https://en.wikipedia.org/wiki/Evidence_board) in some scenes. (I didn’t know it is called that until now)
@@ -7254,7 +7254,7 @@ Visit the website and explore all comics: ​
 
 URL: https://bhagyeshpathak.com/newsletter/2024/02/16/how-to-find-out-and-paint-your-docs-ppts-with-your-brand-colours/
 Date: 2024-02-16
-Description: Reader, if you’ve been on the internet for the past 10 years, you’d recognize TEDTalk and Conferences from a mile away. Most of the time, you would just “know” that a video, photo, or website is from TED! Brand identity” your mind would tell you. You’re right. It is a matter of expert designers and I’m not one. Buuuuut, I want to walk you through the process of shipping impactful work. What’s wrong with pasting the Logo on every slide? Remember when we talked about how every one of us can be…
+Description: Extract brand colors from logos using Adobe Color. Paint your documents and presentations with consistent brand colors.
 Author: Bhagyesh Pathak
 
 Reader, if you’ve been on the internet for the past 10 years, you’d recognize TEDTalk and Conferences from a mile away.
@@ -7337,7 +7337,7 @@ India follows suit soon after the US. And the trend is easily palpable, catalyze
 
 URL: https://bhagyeshpathak.com/newsletter/2024/02/09/there-are-more-comfort-zones-than-you-think-use-them-effectively/
 Date: 2024-02-09
-Description: He is a bright guy, but seems like he is in his comfort zone.” She is great, but as soon as you ask her to step out and talk to the customer, she loses her shine.” Reader, haven’t all of us either overheard or participated in similar conversations? In fact, for many of us, it is a part of work. As in, we have to know what makes people tick. And if it is a bad fit, we have to give up on people. One of the keys to facilitating team members is understanding what makes them tick and exposing them…
+Description: Beyond comfort zone: four zones (Comfort, Groan, Growth, Panic). Help people progress gradually to avoid burnout.
 Author: Bhagyesh Pathak
 
 *“He is a bright guy, but seems like he is in his comfort zone.”*
@@ -7432,7 +7432,7 @@ Thanks to GitHub ex-CEO Nat Friedman, his Vesuvius Challenge has begun revealing
 
 URL: https://bhagyeshpathak.com/newsletter/2024/02/02/the-secret-sauce-of-delighting-people-clients-investors-or-customers/
 Date: 2024-02-02
-Description: In 2016, one of my friends introduced me to a Hair Salon chain named Green Trends. This is when I was residing in Hyderabad. Green Trends set a benchmark of what it means to delight someone. There were many things that they were doing right, but I will give you just one example. A tangible one. Usage of a neck ruffle roll. As you can see in the image below, it is a special “tissue paper” like material, slightly elastic. To be wrapped around the neck before beginning the haircut. The neck…
+Description: Delight clients by under-promising and over-delivering. Like Green Trends salon—the secret is exceeding expectations.
 Author: Bhagyesh Pathak
 
 In 2016, one of my friends introduced me to a Hair Salon chain named [Green Trends](https://www.mygreentrends.in/our-salons/). This is when I was residing in Hyderabad.
@@ -7548,7 +7548,7 @@ Milei is a great orator, but I don’t understand Spanish. So, when the AI dubs 
 
 URL: https://bhagyeshpathak.com/newsletter/2024/01/26/instantly-search-your-whole-pc-using-everything-search/
 Date: 2024-01-26
-Description: Okay, so today’s letter is specifically for Windows users. Because anyone using a Mac, has been blessed with an in-built instant search. So, if you want to be as blessed as an average Mac user, read on. The day I stopped using the Windows Search box I don’t remember that day. But it was many years back. But I remember feeling utterly frustrated over many years. Until that day when I just stopped searching for files using the default Search Box. I’m sure you’d have also given up on it like me….
+Description: Instant file search for Windows. Everything Search indexes your PC in seconds—find any file instantly.
 Author: Bhagyesh Pathak
 
 Okay, so today’s letter is specifically for Windows users. Because anyone using a Mac, has been blessed with an in-built instant search.
@@ -7633,7 +7633,7 @@ All this reminds me of this quote from beloved **Ayn Rand**:
 
 URL: https://bhagyeshpathak.com/newsletter/2024/01/19/five-styles-of-responding-to-conflicts-which-one-is-yours/
 Date: 2024-01-19
-Description: If you tell me you never had any conflict with anyone in your work, I won’t believe you. It is just impossible. By conflict, I don’t mean punching people in the face. Street-fighter style. Not that. But conflict means subtle disagreement in the team or a fiery debate on what should be the deadline. That sort of thing. The essence of life is in navigating through conflicts. Painting: The Storm on the Sea of Galilee​ Workspace is the best self-actualization laboratory (probably after…
+Description: Five conflict response styles: Lion, Owl, Fox, Tortoise, Bear. Know your style to navigate workplace conflicts better.
 Author: Bhagyesh Pathak
 
 If you tell me you never had any conflict with anyone in your work, I won’t believe you.
@@ -7726,7 +7726,7 @@ Whenever I come across this type of exchange, I realize that we need to pay some
 
 URL: https://bhagyeshpathak.com/newsletter/2024/01/12/i-missed-sharing-this-with-you-last-week-the-paper-calendar/
 Date: 2024-01-12
-Description: Reader, Tell me something. Have you ever sent a WhatsApp message and…felt an instant regret? In our case, I felt this regret a few days after sharing last week’s letter: Finally! A free, clean, online PDF editor + password-lock. Nothing was wrong with it. But I realized it would have been fun to begin this year’s letter by sharing what I had learned from “operational folks”: paper calendars. I realized it when I was setting up my wall calendar for the next two months — January and February…
+Description: Why paper calendars beat digital ones for important dates. Make your schedule visible and never miss a deadline.
 Author: Bhagyesh Pathak
 
 Reader,
@@ -7845,7 +7845,7 @@ After reading his article, I have changed my mind about going hard mode “Walde
 
 URL: https://bhagyeshpathak.com/newsletter/2024/01/05/finally-a-free-clean-online-pdf-editor-password-lock/
 Date: 2024-01-05
-Description: Yes, that’s what we are going to talk about today: PDF editor. But before that, I hope you kicked off your new year with renewed zeal. As for me, I have already explained my absurd reason why I have stopped making New Year resolutions. But one thing is sure, I wanted the first letter of 2024 to be as brief as possible. There are more than 360 days to write at length. This is where my favorite website comes in handy. You know sometimes you have to remove a few pages from the pdf, or add some,…
+Description: Free, clean PDF editor without watermarks. Edit, add shapes, and password-protect PDFs online with pdfescape.
 Author: Bhagyesh Pathak
 
 Yes, that’s what we are going to talk about today: PDF editor.
@@ -7931,7 +7931,7 @@ Ben is a seasoned developer, and he is using free AI tools such as ChatGPT for d
 
 URL: https://bhagyeshpathak.com/newsletter/2023/12/29/the-absurd-reason-why-i-stopped-making-new-year-resolutions/
 Date: 2023-12-29
-Description: Before I dive into explanations, wishing you a blockbuster New Year! I hope you get to fulfill your promises and resolutions by the end of 2024. And that allows me to share my reason ― which you will find absurd. My reason behind ditching the whole New Year resolution thing. If you’re making resolutions, by all means, please continue doing so. Didn’t I just tag my reason as absurd? A year is a convenient way to know that our Earth has completed one revolution around the Sun. 1 revolution = 1…
+Description: The absurd reason I stopped New Year resolutions: Earth travels 100,000 km/hr through space. Any goal feels meaningless!
 Author: Bhagyesh Pathak
 
 Before I dive into explanations, wishing you a blockbuster **New Year!**
@@ -7964,7 +7964,7 @@ See you next year.
 
 URL: https://bhagyeshpathak.com/newsletter/2023/12/22/the-triangle-of-conflict-and-how-to-break-it/
 Date: 2023-12-22
-Description: If you remember, in my letter From Conditioning to Consciousness: Why People Do What They Do, we discussed the circle of conditioning. Few of the readers expressed the usefulness of that discussion. So, thanks for the feedback. In that letter, this was the key image for our understanding of why people do what they do: The image makes the abstract tangible. Cuts through complex words. Using images is the most straightforward way we know to inculcate interpersonal qualities such as a sense of…
+Description: Understand conflict using the triangle model—opinions, emotions, stakes. Break any side to resolve disputes effectively.
 Author: Bhagyesh Pathak
 
 If you remember, in my letter [From Conditioning to Consciousness: Why People Do What They Do](https://bhagyeshpathak.com/blog/%f0%9f%aa%9c-from-conditioning-to-conduct-why-people-do-what-they-do/), we discussed the circle of conditioning. Few of the readers expressed the usefulness of that discussion. So, thanks for the feedback.
@@ -8087,7 +8087,7 @@ The author of this website, Bartosz has also created other such explanations of 
 
 URL: https://bhagyeshpathak.com/newsletter/2023/12/15/a-tiny-extension-to-supercharge-copy-paste-command/
 Date: 2023-12-15
-Description: Tell me Reader, do you know anyone who doesn’t use the Copy-Paste command? I can’t think of anyone who uses a computer and doesn’t use it. Copy-Paste command is: Ctrl+C, followed by Ctrl+V In case of Mac OS, it is Cmd+C, Cmd+V So, it is quite ubiquitous as we know. Whether you’re a beginner or a pro at using a computer, almost everyone uses these commands in the same manner. Same sequence. And many times, hit the same problems. I want to share an extension with you. Which will forever change…
+Description: Never lose copied content again. Clipboard History Pro saves every item you copy—so you can access past clips anytime.
 Author: Bhagyesh Pathak
 
 Tell me Reader, do you know anyone who doesn’t use the Copy-Paste command?
@@ -8192,7 +8192,7 @@ In any case, I liked this piece by Lawrence Reed, I hope you too find it enjoyab
 
 URL: https://bhagyeshpathak.com/newsletter/2023/12/08/how-to-create-a-user-persona-template-inside/
 Date: 2023-12-08
-Description: The other day, my friend told me about the latest online scam tactic. In this tactic, the scammer poses as a police/CBI/Narcotics official and grills their victim for hours. Eventually, their victim pays some heavy amount of money and gets scammed. But this one never gets old: That’s one of the famous versions of the Nigerian Prince Scam. If you’re anything like me, and read all the versions of the Nigerian Prince Scam, you will laugh until your cheeks hurt. I mean why would people believe in…
+Description: Create powerful user personas with this free template. Understand your audience deeply and never target the wrong people again.
 Author: Bhagyesh Pathak
 
 The other day, my friend told me about the latest online scam tactic. In this tactic, the scammer poses as a police/CBI/Narcotics official and grills their victim for hours. Eventually, their victim pays some heavy amount of money and gets scammed.
@@ -8303,7 +8303,7 @@ What a script! What a performance! This man and the writers were TikTok before T
 
 URL: https://bhagyeshpathak.com/newsletter/2023/12/01/simple-3-2-1-data-backup-strategy/
 Date: 2023-12-01
-Description: Have you watched the 2012 superhit movie OMG — Oh My God? If you have, you’ll certainly remember this scene: Kanji is flaunting his Godrej Locker key in the aftermath of the earthquake. Because the locker had his insurance papers in it. There wouldn’t be any movie if he hadn’t kept his papers in a safe vault. Imagine what if there had been fire instead of an earthquake? He better have a few backup copies. In a way, most of us are Kanji. Except, he was struck by an act of God. We — the…
+Description: Never lose data again. Learn the simple 3-2-1 backup strategy: 3 copies, 2 media types, 1 offsite location for total protection.
 Author: Bhagyesh Pathak
 
 Have you watched the 2012 superhit movie OMG — Oh My God? If you have, you’ll certainly remember this scene:
@@ -8412,7 +8412,7 @@ How do you do that? How much do you share? How do you decide? That’s what Chri
 
 URL: https://bhagyeshpathak.com/newsletter/2023/11/24/why-im-convinced-we-can-change-our-brain-tissues/
 Date: 2023-11-24
-Description: So Reader, this really happened to me. And I’m not making it up. In 2016, I purchased a book named The Prophet. Mostly because I had heard a lot about the author Kahlil Gibran. In fact, during my schooling, we had a Gujarati-translated prose from this book. So, I thought to myself alright, now I’m fluent in English, let’s read the original. When Flipkart delivered the copy to me, I opened it. Andd, I just couldn’t understand what the author was saying.😖 It was one of those moments where the…
+Description: Neuroplasticity in action! Discover how your brain physically changes through practice, proven by the backwards bicycle experiment.
 Author: Bhagyesh Pathak
 
 So Reader, this really happened to me. And I’m not making it up.
@@ -8530,7 +8530,7 @@ Nowadays, most of the articles provide “TW” (Trigger Warning). I’m no exce
 
 URL: https://bhagyeshpathak.com/newsletter/2023/11/17/help-people-remember-your-event-by-generating-add-to-calendar-links/
 Date: 2023-11-17
-Description: Reader, How many times have you heard “send me the calendar invite”? It is such a liberating feeling to invite other people and receive their acceptance. It is comforting and reassuring to know that they’re most likely to show up. But sometimes you would not be able to send an invite to your meeting/event. This happens when: Your event/meeting is public and anyone can join it You don’t know the email ID of your attendees (imagine some community event) Your invitees are outside your…
+Description: Help attendees remember your event. Generate ‘Add to Calendar’ links for Google Calendar, Outlook, Yahoo, and Office 365.
 Author: Bhagyesh Pathak
 
 Reader,
@@ -8631,7 +8631,7 @@ I have been vocal about the DEI scam for some time now. Especially, the non-prof
 
 URL: https://bhagyeshpathak.com/newsletter/2023/11/10/your-diwali-homework/
 Date: 2023-11-10
-Description: Reader, I don’t know about you, but I used to hate Diwali homework during my school life. Whoever invented it, must have a natural talent to suck joy out of leisure. My Diwali homework assignments used to carry things like “write the answers to the selected questions twice” or/and “prepare some list of mathematical formulas on a chart paper”. Constant anxiety-laden time. I hope they’re not torturing kids that way any longer. So, I thought to share a selected list of readings for the holiday…
+Description: Your Diwali homework: Selected readings for the holiday season. Wishing you a happy, fulfilling Diwali filled with light.
 Author: Bhagyesh Pathak
 
 Reader, I don’t know about you, but I used to hate Diwali homework during my school life. Whoever invented it, must have a natural talent to suck joy out of leisure.
@@ -8668,7 +8668,7 @@ Bhagyesh
 
 URL: https://bhagyeshpathak.com/newsletter/2023/11/03/from-conditioning-to-conduct-why-people-do-what-they-do/
 Date: 2023-11-03
-Description: Interesting question, isn’t it? Especially in the workplace, we ask this a lottt. Why is he like that?” What does she think of herself?” Why does he chicken out at the last minute!!” Mostly, the answers are generic: entitled” “power hungry” “rude” blah blah… A better answer lies in this circle: Before we get to the answer, a little bit of context. Many organizations run background checks before making a decision to hire someone. It is the usual routine of identity, work history, police…
+Description: Discover how your conditioning shapes behavior and why micro background checks can transform workplace understanding and empathy.
 Author: Bhagyesh Pathak
 
 Interesting question, isn’t it?
@@ -8792,7 +8792,7 @@ If TIME is publishing this story, that means the stage is set for Zelensky’s o
 
 URL: https://bhagyeshpathak.com/newsletter/2023/10/27/how-i-use-wireframe-cc-for-quick-ideation/
 Date: 2023-10-27
-Description: Reader, Have you been in a situation where you want to quickly draw a couple of things on the computer and share them with your colleague or team? To give some idea of what the output should look like? Output such as: where to place elements in a poster, how to arrange a report dashboard, the seating arrangement for the event, or anything that requires some scribbling of shapes. But do you know what most people do? They get on a 30-minute-long group meeting trying to explain what they mean….
+Description: Sketch ideas instantly with wireframe.cc—a free, minimal tool for creating wireframes without complex design software.
 Author: Bhagyesh Pathak
 
 Reader,
@@ -8918,7 +8918,7 @@ In every workplace, we encounter people who are too stubborn, too smart, and too
 
 URL: https://bhagyeshpathak.com/newsletter/2023/10/20/mastering-form-follows-function/
 Date: 2023-10-20
-Description: Reader, if it was a matter of life and death to win a Formula-1 race, which car would you choose? Okay, what about choosing a gift for King Charles III if you were to pay him a visit? Both of us know each other’s choices. And the choices are the same. But why? Why would we end up selecting a regular F1 car for the race and this gorgeous faucet for a gift? Because we know the functions F1 car to win the race. Faucet to show our artistic taste to his highness. We know that the artistic-looking…
+Description: Master form follows function—the design principle that shape should match purpose. Apply it to documents, emails, and meetings.
 Author: Bhagyesh Pathak
 
 Reader, if it was a matter of life and death to win a Formula-1 race, which car would you choose?
@@ -9047,7 +9047,7 @@ Imagine. In the early 70s, schools recruited staff to keep a watch on high schoo
 
 URL: https://bhagyeshpathak.com/newsletter/2023/10/13/google-docs-ms-words-simplicity-the-most-ignored-feature/
 Date: 2023-10-13
-Description: Reader, If I start counting how many documents I have come across that have hand-made Table of Contents, it will take me a couple of days to finish counting. But it is not their fault. Because there is something inherently soo simple about text editors such as Microsoft Word or Google Docs that people take them for granted and use them for nothing but typing and styling the fonts. But it doesn’t have to be this way. Why it matters to me Anything that helps save time and effort is a…
+Description: Unlock Google Docs’ hidden power. Use text styles to auto-generate tables of contents and keep documents perfectly organized.
 Author: Bhagyesh Pathak
 
 Reader, If I start counting how many documents I have come across that have hand-made Table of Contents, it will take me a couple of days to finish counting.
@@ -9126,7 +9126,7 @@ In this conversation, Peter Boghossian and Dorian discuss the MIT fiasco, the pr
 
 URL: https://bhagyeshpathak.com/newsletter/2023/10/06/getting-insights-what-so-what-now-what/
 Date: 2023-10-06
-Description: Reader, did you know that you can derive pretty good insights from any data using just three questions: What? So what? Now what? Data can be anything. A fact. A conversation. An incident. A story Or A database! Data doesn’t have to always look something like this: Data means information. Whenever…
+Description: Turn any data into powerful insights with just three questions: What, So What, Now What? A simple framework used by expert analysts.
 Author: Bhagyesh Pathak
 
 Reader, did you know that you can derive pretty good insights from any data using just **three questions**:
@@ -9249,7 +9249,7 @@ Especially, if you have **kids** or **students**, ask them to use them.
 
 URL: https://bhagyeshpathak.com/newsletter/2023/09/29/how-to-safely-share-confidential-info-like-passwords-using-1time/
 Date: 2023-09-29
-Description: I don’t know Reader, whether you got a chance to go through the Golden Ratio newsletter last week, but I want to share something that I always love sharing: a tool! A tool for sharing confidential information with one or more people. No, it’s not WhatsApp. Let me share with you a little backstory…
+Description: Share passwords and sensitive data safely using 1time.app. Links self-destruct after viewing—no traces left behind anywhere.
 Author: Bhagyesh Pathak
 
 I don’t know Reader, whether you got a chance to go through the **Golden Ratio** newsletter last week, but I want to share something that I always love sharing: a tool!
@@ -9340,7 +9340,7 @@ So, how do they communicate in their organization? Fascinating read.
 
 URL: https://bhagyeshpathak.com/newsletter/2023/09/22/how-to-beautify-your-work-using-golden-ratio/
 Date: 2023-09-22
-Description: Tell me something Reader, Do you believe that beauty lies in the eyes of the beholder? I believe sometimes it is true, sometimes not. There are some natural laws that apply to everyone, across the globe. Since the beginning of the time. Laws of what we find beautiful and what not. I want to share…
+Description: Use the golden ratio (1.618) to instantly beautify any design. A timeless mathematical principle for compelling visual work.
 Author: Bhagyesh Pathak
 
 Tell me something Reader,
@@ -9479,7 +9479,7 @@ So, would you reconsider?
 
 URL: https://bhagyeshpathak.com/newsletter/2023/09/15/when-you-talk-to-someone-there-are-always-two-tokens-lying-on-the-table/
 Date: 2023-09-15
-Description: Hi Reader, Festival season has already begun in India. So, I’m sure you won’t be able to read each of my weekly emails, but that’s fine. They’re already in your inbox, take your time and relish. One of the best things about the festive season is shopping and holidays. And that reminds me of…
+Description: In every conversation, two tokens sit on the table. Master choosing your token wisely to transform difficult interactions.
 Author: Bhagyesh Pathak
 
 Hi Reader,
@@ -9586,7 +9586,7 @@ What occurred to me after listening to him is you can’t claim that you get dis
 
 URL: https://bhagyeshpathak.com/newsletter/2023/09/08/watch-and-learn-fast-easily-change-video-speed/
 Date: 2023-09-08
-Description: Did you know YouTube releases a Culture and Trends report every year? I didn’t know. I recently read its 2023 report. Fascinating! Almost everyone who has an internet connection consumes some or the other type of video content. I learned that there are four major formats of videos: Long-form,…
+Description: Watch and learn faster! Video Speed Controller lets you adjust YouTube, Coursera video speeds instantly with keyboard shortcuts.
 Author: Bhagyesh Pathak
 
 Did you know YouTube releases a Culture and Trends report every year?
@@ -9695,7 +9695,7 @@ I think I need to begin writing on such topics in a dedicated newsletter publica
 
 URL: https://bhagyeshpathak.com/newsletter/2023/09/01/tfn16-f09faa9c-negative-space-white-spacewhat-is-it/
 Date: 2023-09-01
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Negative space is your secret weapon for powerful documents. Learn how white space engages audiences and makes your message impossible to ignore.
 Author: Bhagyesh Pathak
 
 Hi dear reader,
@@ -9746,7 +9746,7 @@ Check out these two versions of the above section:
 
 URL: https://bhagyeshpathak.com/newsletter/2023/08/25/tfn15-f09faa9c-thinking-of-writing-online-a-quick-comparison-of-platforms/
 Date: 2023-08-25
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Thinking of writing online? Compare the best platforms side-by-side. Find the perfect home for your words and audience.
 Author: Bhagyesh Pathak
 
 What a great time last few days have been!
@@ -9790,7 +9790,7 @@ Now, that agenda is no longer hidden.
 
 URL: https://bhagyeshpathak.com/newsletter/2023/08/18/tfn14-f09f939a-my-swades-movie-moment-and-reading-roundup/
 Date: 2023-08-18
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: A personal Swades movie moment on a crowded bus. Plus my curated reading roundup from around the web this week.
 Author: Bhagyesh Pathak
 
 August 18, 2023 | 1 minutes to read
@@ -9827,7 +9827,7 @@ Reminded me of Swades moment.
 
 URL: https://bhagyeshpathak.com/newsletter/2023/08/11/tfn13-f09f9fa9-challenge-by-choice-inviting-people-to-set-their-own-mark/
 Date: 2023-08-11
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Learn the ‘challenge by choice’ method from Dead Poets Society. Discover how letting people set their own marks transforms motivation.
 Author: Bhagyesh Pathak
 
 August 11, 2023 | 1 minutes to read
@@ -9852,7 +9852,7 @@ Anyways, have you heard about this beautiful 1989 movie named Dead Poets Society
 
 URL: https://bhagyeshpathak.com/newsletter/2023/08/04/tfn12-f09f9fa6-5-things-photoshops-firefly-update-tells-us-even-if-we-dont-use-it/
 Date: 2023-08-04
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Photoshop’s Firefly AI reveals 5 crucial lessons: skill alone won’t matter—imagination and real-world understanding matter more.
 Author: Bhagyesh Pathak
 
 **Dear reader, can you carry out some “Find & Replace” in your head?**
@@ -9981,7 +9981,7 @@ Liked this? Stay tuned with The Friday Newsletter:
 
 URL: https://bhagyeshpathak.com/newsletter/2023/07/28/tfn11-highlight-and-take-notes-from-any-website-like-a-proe29aa1/
 Date: 2023-07-28
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Take notes and highlight from any website like a pro. Discover the powerful Chrome extension that organizes all your online research.
 Author: Bhagyesh Pathak
 
 Dear reader, for years, I have struggled to organize whatever I read online. There is no single app/software that can solve all of my reading material in one place.
@@ -10028,7 +10028,7 @@ Similar to any Google Chrome extension, it runs in the background.
 
 URL: https://bhagyeshpathak.com/newsletter/2023/07/21/tfn10-change-your-mind-about-this-and-f09f92aaf09f8fbb10x-your-judgment/
 Date: 2023-07-21
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: The 10th edition explores how changing your mind can 10x your judgment. Drawing insights from Atlas Shrugged to level up decisions.
 Author: Bhagyesh Pathak
 
 Dear reader, thank you so much for sticking around and reading this letter week after week. This is the 10th edition of this letter. When I started, I didn’t know I will continue for even 10 days! But thanks to your support, looks like this will go on for a while.
@@ -10055,7 +10055,7 @@ A few weeks back I finished reading a masterpiece named [Atlas Shrugged](https:/
 
 URL: https://bhagyeshpathak.com/newsletter/2023/07/14/tfn9-do-you-look-at-the-keyboard-while-typing/
 Date: 2023-07-14
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Do you stare at your keyboard while typing? Discover why touch typing matters and how keyboard bumps guide your fingers to speed.
 Author: Bhagyesh Pathak
 
 July 14, 2023 | 1 minutes to read
@@ -10082,7 +10082,7 @@ In fact, film director Basu Chatterji had designed interesting opening credits f
 
 URL: https://bhagyeshpathak.com/newsletter/2023/07/07/tfn8-the-7-sins-we-commit-during-thrashing-paul-grahams-essay-that-i-loved/
 Date: 2023-07-07
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Discover the 7 deadly sins that ruin brainstorming sessions. From time constraints to idea hitchhikers, learn what kills team creativity.
 Author: Bhagyesh Pathak
 
 \[Dear reader\], have you been in a situation where you have to brainstorm with 4-5 other people? Even worse, a room full of people? It may have been related to anything. From organizing a workshop to designing a project.
@@ -10167,7 +10167,7 @@ Found this helpful? Sign-up for The Friday Newsletter by clicking this button:
 
 URL: https://bhagyeshpathak.com/newsletter/2023/06/30/tfn7-the-power-of-outline-early-access-to-my-mini-handbook/
 Date: 2023-06-30
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: The outline is your secret weapon to finish any project. Get early access to a mini handbook on data system design that actually works.
 Author: Bhagyesh Pathak
 
 Finally dear reader, I finished working on a handbook that’s ~50 pages long. And now it is ready for download! So, I thought to cover the main technique of outline in today’s letter. This technique helps me complete all the projects that I take on hand.
@@ -10192,7 +10192,7 @@ Click on the following image to download it, read it, and share it.
 
 URL: https://bhagyeshpathak.com/newsletter/2023/06/23/the-surprising-power-of-touch-point-maps-my-fav-retreat-video/
 Date: 2023-06-23
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Unlock touchpoint mapping—a simple technique used by top design firms to map every customer interaction and create better user experiences.
 Author: Bhagyesh Pathak
 
 So dear reader, I received voting from most of the readers on the Reads of the Week last week. Thank you so much for voting to keep the long-read suggestions on. I will keep sharing the long articles in that section. Thank you so much for voicing your opinion.
@@ -10227,7 +10227,7 @@ Look at this basic framework.
 
 URL: https://bhagyeshpathak.com/newsletter/2023/06/16/like-most-people-do-you-also-think-youre-not-a-designer/
 Date: 2023-06-16
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Think you’re not a designer? Everyone designs every day. Discover why design thinking is for everyone, not just creatives.
 Author: Bhagyesh Pathak
 
 June 16, 2023 | 1 minutes to read
@@ -10256,7 +10256,7 @@ He would hand us some version of this:
 
 URL: https://bhagyeshpathak.com/newsletter/2023/06/09/reading-on-social-media-is-full-of-pain-inoreader/
 Date: 2023-06-09
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Social media is noisy with short content lifespan. Inoreader provides calm, distraction-free reading at your own pace.
 Author: Bhagyesh Pathak
 
 Reader, do you also feel that social media — whether it is LinkedIn, Facebook, or Twitter — is hard to follow? I used to feel that. As I increased my engagement with social media. It is so difficult to keep up with a few of the gems that I like to read once in a while.
@@ -10283,7 +10283,7 @@ In fact, different platforms have different content half-life, i.e. the amount o
 
 URL: https://bhagyeshpathak.com/guide/2023/06/08/life-changing-method-to-improve-decision-making/
 Date: 2023-06-08
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Transform your decisions with the Decision Diary method. Track choices, review outcomes, and continuously improve your judgment.
 Author: Bhagyesh Pathak
 
 ### Decision Frameworks Overload
@@ -10330,7 +10330,7 @@ This method will work, if you work.
 
 URL: https://bhagyeshpathak.com/newsletter/2023/06/02/using-questions-as-tools/
 Date: 2023-06-02
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Questions are tools for solving problems, not poems. Learn to use questions effectively to gain deeper understanding.
 Author: Bhagyesh Pathak
 
 ##### “Nooo..no..no..first, you answer me this!!”
@@ -10381,7 +10381,7 @@ All this questioning is similar to solving a maze.
 
 URL: https://bhagyeshpathak.com/newsletter/2023/05/26/nobody-likes-to-eat-ugly-food-or-ugly-fonts/
 Date: 2023-05-26
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Think fonts don’t matter? Think again. Discover how typography shapes perception and why ugly fonts drive audiences away.
 Author: Bhagyesh Pathak
 
 **So, Reader**, in the **[last edition](https://bhagyeshpathak.com/a-knowledge-workers-secret-weapon-hemingway-app)** of The Friday Newsletter, we talked about how to use Hemingway App to write better. In this edition, I want to stress on the impact of right Font Type on your audience.
@@ -10416,7 +10416,7 @@ Look at the following cards. And in a split second, decide which one you would c
 
 URL: https://bhagyeshpathak.com/guide/2023/05/19/powerful-lean-mean-writing-system/
 Date: 2023-05-19
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Face a blank screen without fear. A lean writing system to help anyone write consistently without the paralysis of the blinking cursor.
 Author: Bhagyesh Pathak
 
 ### Imagine. There’s a gun on your head.
@@ -10576,7 +10576,7 @@ Get on the list for The Friday Newsletter below.
 
 URL: https://bhagyeshpathak.com/newsletter/2023/05/19/a-knowledge-workers-secret-weapon-hemingway-app/
 Date: 2023-05-19
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Hemingway App makes writing clear and bold. Check readability scores, eliminate passive voice, and simplify complex sentences.
 Author: Bhagyesh Pathak
 
 Earlier this week, I published a [Powerful lean-mean writing system for anyone](http://bhagyeshpathak.com/guides). Based on my readers’ overwhelming response, expanding more on the free Hemingway Tool I had covered under step-3 of the guide.
@@ -10653,7 +10653,7 @@ Found this helpful? Sign-up for The Friday Newsletter by clicking this button:
 
 URL: https://bhagyeshpathak.com/uncategorized/2023/03/01/peel-those-peas/
 Date: 2023-03-01
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: The dollar value of time mindset is robbing you of joy. Discover why peeling your own peas matters—and how to find balance.
 Author: Bhagyesh Pathak
 
 “The dollar value of my time.” I don’t remember exactly when I came across this thinking pattern. And somewhere I adopted it.
@@ -10692,7 +10692,7 @@ Also, [here is Naval Ravikant talking about time’s value](https://youtube.com/
 
 URL: https://bhagyeshpathak.com/uncategorized/2023/01/31/the-death-of-uncertainty/
 Date: 2023-01-31
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Our obsession with certainty is killing creativity and joy. Discover why embracing uncertainty leads to breakthrough ideas.
 Author: Bhagyesh Pathak
 
 It is funny how certain we feel when we promote a product on Facebook, Instagram, or Google. We think “hmmm, I have checked all the boxes and now the technology will do the work.” And indeed, technology does its work. Our expectation is met. Our love for certainty increases with each such experience. We hit “send” on WhatsApp and we know whether the message is delivered. The blue tick has done more harm than good.
@@ -10715,7 +10715,7 @@ While we work on creating perfect experiences for our tribe, it is a disservice 
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/11/21/why-i-dont-resort-to-euphemisms/
 Date: 2022-11-21
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Euphemisms create trust gaps and suppress truth, letting people shrug off responsibility. See why direct language builds stronger relationships.
 Author: Bhagyesh Pathak
 
 A year back, I wasn’t aware of this tendency of mine. But as we learn new terms, they give us ideas. So what’s a euphemism? It is a mild or pleasant word or phrase that we use instead of one that is unpleasant or offensive. Kind of a sugar-coated thing.
@@ -10744,7 +10744,7 @@ The point is, euphemisms let people shrug off responsibility, suppress the truth
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/10/05/if-you-didnt-process-it-it-doesnt-count/
 Date: 2022-10-05
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: If you didn’t process it, it doesn’t count. Structured reflection is essential for effective outcomes—experiences are incomplete without processing.
 Author: Bhagyesh Pathak
 
 How many times do we feel our efforts were not effective enough?
@@ -10805,7 +10805,7 @@ The bottom line is this: if you didn’t process it, it doesn’t count.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/09/22/not-just-another-conversation/
 Date: 2022-09-22
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: A good diagnostic conversation uncovers problems before designing solutions. Hold bias-free conversations—focus on the process.
 Author: Bhagyesh Pathak
 
 In my previous piece, I talked about why I stopped presenting and started conversing.
@@ -10850,7 +10850,7 @@ Conversations are here to stay. They’re in there for a long haul. And that Pow
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/09/16/why-i-stopped-presenting-and-started-conversing/
 Date: 2022-09-16
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Presentations boost ego and render us opaque to feedback. Replace the big reveal with conversation to forge understanding.
 Author: Bhagyesh Pathak
 
 Not because I got bored of presenting or because it was time-consuming.
@@ -10907,7 +10907,7 @@ More on conversations later.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/08/03/the-monster-inside-us/
 Date: 2022-08-03
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: The resistance monster feels cute but is dangerous—it flatters when you switch from consumption to creation. Your creative biggest obstacle.
 Author: Bhagyesh Pathak
 
 “I know that I’m a bad person. I lie, cheat, and hurt people. I’m an absolute monster!”
@@ -10956,7 +10956,7 @@ My monster emphasizes being perfect. And your monster? What is his favourite tac
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/07/15/developing-an-ear/
 Date: 2022-07-15
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Communication platforms gave us easy voice but we gave up listening. Developing a listening attitude is essential for managers and facilitators.
 Author: Bhagyesh Pathak
 
 No, we’re not talking about artificial ear creation from stem cells. But a metaphorical one.
@@ -10977,7 +10977,7 @@ If you want to improve your offering, listening to the customer is the single mo
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/07/14/a-thousand-dollar-yes/
 Date: 2022-07-14
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: A thousand-dollar YES costs your client significantly. Saying NO to every whim is a disservice—choose conflict over heavy cost.
 Author: Bhagyesh Pathak
 
 It is a disservice to the client to say YES. For their every whim and wants.
@@ -11000,7 +11000,7 @@ A little bit of conflict is better than heavy cost.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/07/13/you-will-disappoint-people/
 Date: 2022-07-13
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: You’ll disappoint people either because you changed or didn’t change. Choose which group to disappoint—it’s your choice.
 Author: Bhagyesh Pathak
 
 July 13, 2022 | 1 minutes to read
@@ -11023,7 +11023,7 @@ Which group to disappoint is up to us.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/07/12/a-powerful-trick-to-improve-decision-making-skills/
 Date: 2022-07-12
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: A decision journal records your decision story to avoid cognitive biases and improve choices. Track your reasoning over time.
 Author: Bhagyesh Pathak
 
 Did you know that every time we narrate an experience, it changes a little bit? Over the years, the story changes completely.
@@ -11066,7 +11066,7 @@ In essence, this tool helps you improve your decision-making skills.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/07/11/the-moment-you-realize-it-wont-work-out/
 Date: 2022-07-11
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Every day we realize something won’t work out—the moment of realization matters less than what you choose to do next.
 Author: Bhagyesh Pathak
 
 That’s the moment all of us come across. Every day. No matter what kind of knowledge work we might be engaged in.
@@ -11089,7 +11089,7 @@ Do you take any action?
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/07/10/is-it-worthy-of-gossip/
 Date: 2022-07-10
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Gossip is an intimate act for survival—whatever idea, product or business is worthy of gossip spreads organically. Ask: is it worth talking about?
 Author: Bhagyesh Pathak
 
 When in 2011, Yuval Noah Harari published his bestseller ‘The Sapiens’, along with many concepts, it reintroduced the importance of gossip in the human social circle. Its primary purpose: survival.
@@ -11112,7 +11112,7 @@ Then, it will be called ‘word of mouth’.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/07/09/leave-the-books-incomplete/
 Date: 2022-07-09
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: If you force yourself to complete every book, you’ll give up reading. Leave books incomplete to discover what truly resonates.
 Author: Bhagyesh Pathak
 
 July 09, 2022 | 1 minutes to read
@@ -11131,7 +11131,7 @@ That’s also true for work.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/07/08/a-strange-paradox-saying-no-to-say-yes/
 Date: 2022-07-08
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Saying NO to say YES paradox—build capacity to refuse commands and propose better ROI. Great organizations reward those who can say NO.
 Author: Bhagyesh Pathak
 
 Every one of us needs to build the capacity to say NO. Not for ourselves. But to serve better.
@@ -11166,7 +11166,7 @@ So, what actions are you taking to develop your capacity to say NO?
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/07/07/is-paper-disruptive-technology/
 Date: 2022-07-07
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Paper was disruptive 3000 years ago, not anymore. The goal isn’t disruption—focus on providing 5-10X better solutions, disruption follows.
 Author: Bhagyesh Pathak
 
 When startup/tech enthusiasts use the term ‘disruptive’, what they mean is a 10X better solution. Refined over a period of a few years.
@@ -11185,7 +11185,7 @@ The goal is not to disrupt, it is to provide a 5X-10X better solution. Disruptio
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/07/06/what-does-it-make-them-feelefbfbc/
 Date: 2022-07-06
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: What does it make them feel—hopeful, empowered, creative? Design with empathy for bookworms, patients, parents, and children.
 Author: Bhagyesh Pathak
 
 July 06, 2022 | 1 minutes to read
@@ -11214,7 +11214,7 @@ If not, you know which levers to shift.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/07/05/what-is-more-accurate-a-table-or-a-ruler/
 Date: 2022-07-05
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: No rulers are equal or accurate—interviewers may know less than their experience suggests. Don’t let compliments define your worth.
 Author: Bhagyesh Pathak
 
 And still, we think the table is of the wrong size.
@@ -11235,7 +11235,7 @@ So, the next time someone provides you with a compliment or a criticism, don’t
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/07/04/were-all-facilitators/
 Date: 2022-07-04
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: We’re all facilitators—job titles are just hierarchy codes. True leaders seek to serve, see the big picture, and look for collaborators.
 Author: Bhagyesh Pathak
 
 When did we decide we are not?
@@ -11270,7 +11270,7 @@ I don’t see any reason why we can’t lead a content life with seven billion f
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/07/03/your-village-and-villagers/
 Date: 2022-07-03
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: It takes a village to raise a child—and success depends on choosing your village and villagers wisely in business.
 Author: Bhagyesh Pathak
 
 It takes a village to raise a child.
@@ -11293,7 +11293,7 @@ Needless to say, so do your friends and mental consumption. Mental villagers.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/07/02/see-that-empty-space-lets-fill-it/
 Date: 2022-07-02
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Technology liberates time and mind space to fill with entertainment or meaning. The choice is ours—what will you fill?
 Author: Bhagyesh Pathak
 
 Technology is not here to replace us. (Read Rule no.3 in my New World Rules [here](https://bhagyeshpathak.com/new-world-rules/))
@@ -11342,7 +11342,7 @@ Every time.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/07/01/our-inherent-need-to-be-connected/
 Date: 2022-07-01
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: We have an inherent need to be connected with the right beings—thrive in live cohort-based classes where tribes form.
 Author: Bhagyesh Pathak
 
 Whether we identify ourselves as an introvert or an extrovert, we have this inherent need to be connected with other beings. Not all beings, just the right ones.
@@ -11359,7 +11359,7 @@ So why is this important? It is important if you’re managing an organization o
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/30/dusting-off-the-glass/
 Date: 2022-06-30
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Clarity is crystal clear glass—people see through noise and appreciate commitment. Keep your vision dust-free.
 Author: Bhagyesh Pathak
 
 Last night, I attended Y Combinator’s session on Boom Supersonic jet startup. (Boom is building a commercial Supersonic jet that will travel two times faster than today’s commercial jets. You can read more about it [here](https://en.wikipedia.org/wiki/Boom_Technology).)
@@ -11389,7 +11389,7 @@ But, many times an inconsequential life turns out to be an unhelpful life. Which
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/29/will-a-single-step-count/
 Date: 2022-06-29
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: We praise walking the extra mile but dismiss a single step. Every gesture matters equally—low standards bar trust-building.
 Author: Bhagyesh Pathak
 
 I know you have walked the extra mile for someone and so has someone for you. That extra mile would have strengthened your relationship, developed trust and set your intentions in order.
@@ -11410,7 +11410,7 @@ What is your standard?
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/28/believing-is-being/
 Date: 2022-06-28
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Believing is being—we can’t wait for existence to manifest before believing. Visionaries paint the future so clearly people can see it.
 Author: Bhagyesh Pathak
 
 Most of us tend to believe what we see. For us, being is believing.
@@ -11433,7 +11433,7 @@ A future that people anticipate.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/27/creating-hurdles-to-provide-value/
 Date: 2022-06-27
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Gatekeeping as business is an illusion—commerce is value exchange. Roadblocking is blackmail—true value sustains.
 Author: Bhagyesh Pathak
 
 That’s an illusion. You may succeed in making a fortune in the short-term by gatekeeping, but not in the long term.
@@ -11452,7 +11452,7 @@ In the short term, we may think we’re gaming the machine, but any business wit
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/26/reconnecting-with-your-original-why/
 Date: 2022-06-26
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Feeling lost? Your WHY changes with time. Keep a decision journal to reconnect with your original purpose.
 Author: Bhagyesh Pathak
 
 All of us feel lost at some point in our lives and career.
@@ -11477,7 +11477,7 @@ And yes, I keep a decision journal too! Once you see the power of this practice,
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/25/how-to-suffer-less-in-life-work-or-marketing/
 Date: 2022-06-25
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: See reality as it is, not as you expected. Gap between expectation and reality IS suffering. Embrace what is.
 Author: Bhagyesh Pathak
 
 June 25, 2022 | 1 minutes to read
@@ -11504,7 +11504,7 @@ This acceptance decreases the distance between your expectation and reality = re
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/24/going-slow-to-go-fast/
 Date: 2022-06-24
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Going slow to go fast—thoughtful action always outperforms expedited ones. Mistakes increase with diluted attention.
 Author: Bhagyesh Pathak
 
 No matter what story you tell yourself about your work, it is always an almost a good idea to go slow. Deliberately.
@@ -11525,7 +11525,7 @@ Going slow requires planning, intellectual investment and long-term vision.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/23/the-hubble-moment/
 Date: 2022-06-23
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Launch projects repeatedly. One will become the Hubble of your industry. Small bets increase chances of monumental impact.
 Author: Bhagyesh Pathak
 
 I’m eagerly waiting for the first full-colour images from JWST (James Webb Space Telescope) scheduled to be publicized on July 12th. If you’re unaware of it, read the Wiki article [here](https://en.wikipedia.org/wiki/James_Webb_Space_Telescope).
@@ -11554,7 +11554,7 @@ Which of your project bets is going to be the next Hubble moment?
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/22/perception-is-everything/
 Date: 2022-06-22
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Perception gets your cold call answered, wins jobs, and begets votes. Our brains use mental shortcuts—master them or be manipulated.
 Author: Bhagyesh Pathak
 
 Of course, not EVERYTHING. But important enough to talk about.
@@ -11589,7 +11589,7 @@ Not only perception about you, but your product, competence, brand, quality and 
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/21/no-you-didnt-have-a-design-problem/
 Date: 2022-06-21
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: No, you didn’t have a design problem—it was probably an accounting problem. Look closely at what you missed.
 Author: Bhagyesh Pathak
 
 It was probably an accounting problem.
@@ -11610,7 +11610,7 @@ Look closely, what did you miss accounting for?
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/20/waiting-to-pass-out-or-to-be-dead/
 Date: 2022-06-20
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Waiting for the right threshold is a delusion. Thresholds expand—waiting makes us old and weak. Replace waiting with urgent action.
 Author: Bhagyesh Pathak
 
 Threshold is not a good measure. Probably not the right one too.
@@ -11639,7 +11639,7 @@ Something that keeps us away from wishful thinking.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/19/how-not-to-blindside-your-audience/
 Date: 2022-06-19
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Stamp your logo everywhere and become invisible. Effective marketing presents itself with permission, not interruption.
 Author: Bhagyesh Pathak
 
 June 19, 2022 | 1 minutes to read
@@ -11660,7 +11660,7 @@ Effective marketing does the opposite of what the ineffective one does: it opens
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/18/the-volatility-of-our-patience/
 Date: 2022-06-18
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Our patience is decreasing and volatile—US stock holding period dropped from 7 years in 1950s to 5-7 months. See the trend.
 Author: Bhagyesh Pathak
 
 A year back, I had written about the volatility of our decisions.
@@ -11685,7 +11685,7 @@ In any case, the overall trend showcases the state of our hive mindset.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/17/mind-before-software/
 Date: 2022-06-17
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Solve the problem in your mind first, then use software. Software automates—the approach must be figured out beforehand.
 Author: Bhagyesh Pathak
 
 I love using software products. They make life so easy.
@@ -11716,7 +11716,7 @@ The next time your organization is deciding to run some sort of new software tra
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/16/what-will-a-true-edtech-look-like/
 Date: 2022-06-16
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: True EdTech goes beyond digital blackboards. Brain-computer interfaces, VR, and Metaverse will finally augment learning, not replace classrooms.
 Author: Bhagyesh Pathak
 
 The best Edtech we had for a hundred years was a blackboard and chalk.
@@ -11745,7 +11745,7 @@ At a medium level of sophistication, these technologies will provide the student
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/15/no-longer-a-grocery-store/
 Date: 2022-06-15
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Physical proximity gave direct customer sense. Now data proxies replace senses—use WHY questions to deepen understanding.
 Author: Bhagyesh Pathak
 
 If you’re selling fruits and vegetables in a thriving city market, you will hear and see your customers directly.
@@ -11802,7 +11802,7 @@ We have to set systems that act as supernatural senses. Senses that are attuned 
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/14/jargon-guys-my-personal-algorithm/
 Date: 2022-06-14
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Spot real experts from jargon-spewing pseudo-experts using this 3-step heuristic. Ask why, then ask for experience.
 Author: Bhagyesh Pathak
 
 This is my favourite bunch. Poetic, confident, incisive.
@@ -11833,7 +11833,7 @@ If it’s a jargon guy, enjoy the poems.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/13/team-building-activities-by-steve-jobs/
 Date: 2022-06-13
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Steve Jobs never ran team-building exercises. He offered a vision worth pursuing for years. The rest is corporate theater.
 Author: Bhagyesh Pathak
 
 You’re set for a disappointment if you seriously thought Steve Jobs conducted any team-building activity.
@@ -11862,7 +11862,7 @@ If I can’t measure, I can’t hold you accountable.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/12/stauts-quo-irrationality-and-economics/
 Date: 2022-06-12
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Organizations aren’t children—they can’t grow infinitely. Journalists pushing YoY growth expectations create cheating cultures.
 Author: Bhagyesh Pathak
 
 How tall can your child grow?
@@ -11887,7 +11887,7 @@ The gate-keepers of the status quo need to be identified, educated and ignored t
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/11/ideas-that-we-own/
 Date: 2022-06-11
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Can you abandon an idea if it fails? Separating original ideas from borrowed ones keeps you objective and ready to pivot.
 Author: Bhagyesh Pathak
 
 And the ideas that we don’t own.
@@ -11913,7 +11913,7 @@ Start tracing back and you will be shocked at how little original we are.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/10/the-worst-robbery-we-carry-out/
 Date: 2022-06-10
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: We rob students, children, and mentees of learning experiences when we give ready-made answers. Even with good intentions.
 Author: Bhagyesh Pathak
 
 It is strange to think of ourselves as robbers. I mean most of my readers are intelligent, hardworking folks. Not robbers.
@@ -11940,7 +11940,7 @@ Whether it is your student, a child or a friend, they should feel confident to g
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/09/the-race-against-time/
 Date: 2022-06-09
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: We have limited time according to Deathclock. Live as if there is a tomorrow needing your legacy and gift.
 Author: Bhagyesh Pathak
 
 June 09, 2022 | 1 minutes to read
@@ -11971,7 +11971,7 @@ Your gift.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/08/physicians-that-hoard-x-ray-reports/
 Date: 2022-06-08
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Physicians analyze and prescribe from data. Organizations hoard data—then wonder why decisions fail. Data shared is data multiplied.
 Author: Bhagyesh Pathak
 
 Have you heard of such a physician? Me neither. Because the physician knows the importance of analyzing the X-ray report and prescribing medicine.
@@ -11993,7 +11993,7 @@ It is natural to get attached to something that may give us pride or a sense of 
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/07/unintentional-social-engineering-projects/
 Date: 2022-06-07
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Every engineering project reshapes society: ATMs taught unsupervised queues. Intentional design beats accidental impact.
 Author: Bhagyesh Pathak
 
 Probably the ATM machines taught people the possibility of an unsupervised queue.
@@ -12022,7 +12022,7 @@ Imagine what we can accomplish if we undertake all engineering projects with an 
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/06/body-of-work/
 Date: 2022-06-06
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Think portfolio, not resume—produce a body of work so compelling you can’t be ignored. You’ll never need to pause.
 Author: Bhagyesh Pathak
 
 Did Pandit Ravishankar have a resume? What about Richard Branson or Carl Sagan or Steven Spielberg?
@@ -12044,7 +12044,7 @@ If you do, you will not need a resume. Also, you would not require to resume as 
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/05/data-is-not-important-but-experience-is/
 Date: 2022-06-05
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Statistics don’t change behavior—experiences do. A smoker knows the numbers but needs an emotional experience to quit. Data first fails.
 Author: Bhagyesh Pathak
 
 Can I convince you to give up smoking by telling you every year eight million deaths are related to smoking-related diseases?
@@ -12067,7 +12067,7 @@ The only thing that has the power to change our decisions in the long run, is ou
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/05/here-we-enter-the-18th-year-of-the-great-deception/
 Date: 2022-06-05
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: BP popularized carbon footprint in 2004 to shift blame to individuals. 92% of emissions come from corporations. Shift focus where action lacks.
 Author: Bhagyesh Pathak
 
 While some of us torment ourselves on the eve of world environment day, a little bit of fact-check is in order.
@@ -12098,7 +12098,7 @@ I hope you find some time to read [this article](https://in.mashable.com/science
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/04/jobs-that-need-euthanasia/
 Date: 2022-06-04
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Some jobs trap youth with false hope. 10-minute delivery agents need mercy killing. We must create meaningful replacement jobs.
 Author: Bhagyesh Pathak
 
 Yes, mercy killing. We should think about many jobs that need euthanasia.
@@ -12125,7 +12125,7 @@ As a society, we need replacement jobs that provide meaning and better wages.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/03/buying-air/
 Date: 2022-06-03
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Education is like buying air—intangible and invisible. Evaluate what intangibles schools offer: healthy competition or winning at all costs?
 Author: Bhagyesh Pathak
 
 I came across the term ‘useful education’.
@@ -12156,7 +12156,7 @@ Educational investment is more like buying air. It is invisible. Breathe pollute
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/02/our-definitions-may-not-match/
 Date: 2022-06-02
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Visit any handicrafts market and you’ll see art undersold. But we can all be artists by gifting work that makes recipients feel hopeful.
 Author: Bhagyesh Pathak
 
 Recently, I visited a handicrafts market. Classic jute items, ceramics, soaps, embroidery. You get the idea.
@@ -12177,7 +12177,7 @@ Our definition of art may not match, but hey, the outcome matches!
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/06/01/the-case-of-hit-and-run-stars/
 Date: 2022-06-01
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Serial entrepreneurs who start many projects but finish none are hit-and-run stars. Filter them out—they’re good starters, not finishers.
 Author: Bhagyesh Pathak
 
 Whenever there is a hit and run case, our blood boils. That is the right thing to feel. But I’m not talking about the hit and run drivers.
@@ -12196,7 +12196,7 @@ It is a compatibility issue, nothing more.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/05/31/wanted-a-captain-that-goes-down-with-the-ship/
 Date: 2022-05-31
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Organizations need captains who go down with the ship. Focus on hiring the right personalities and making people feel valued.
 Author: Bhagyesh Pathak
 
 And that’s a maritime tradition. What about the ships in the form of organizations? It is a huge risk to board a ship. Especially, without knowing the ship’s health, the crew’s culture or the ship’s direction.
@@ -12225,7 +12225,7 @@ They were, in any case, not destined to be your ship’s captain.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/05/30/how-much-money-is-a-lot-of-money/
 Date: 2022-05-30
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Bob Marley said ‘how much money is a lot of money?’ We need to ask instead: how much hard work is enough?
 Author: Bhagyesh Pathak
 
 That was the [response](https://www.youtube.com/watch?v=-GkyZr9VzPY) from Bob Marley. The interviewer had asked him “have you made a lot of money?”
@@ -12246,7 +12246,7 @@ And probably, just probably, people may enjoy their lives the way they’re supp
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/05/09/opposite-of-post-mortem-pre-mortem/
 Date: 2022-05-09
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Ask ‘what can go wrong?’ BEFORE failure strikes. Pre-mortem analysis helps course-correct projects, unlike post-mortems.
 Author: Bhagyesh Pathak
 
 This is the most discouraging question I ask at the end of every project planning session.
@@ -12267,7 +12267,7 @@ Whether you work in a startup, a government agency, or a non-profit, all of us c
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/04/21/appraisal-of-appraisals/
 Date: 2022-04-21
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Appraisal systems are optimized for masses, not individuals. Self-evaluate realistically—detach from third-party validation.
 Author: Bhagyesh Pathak
 
 Appraisal season is here. The best time to publish this article was a year back. The second-best time is today. (I would rate myself 0 on a scale of 0-10 about the timeliness of this article. Poor time management.)
@@ -12301,7 +12301,7 @@ The best time to self-evaluate was a year back, the second-best time is today.
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/04/15/intentional-hassle/
 Date: 2022-04-15
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: We trade time, attention, and relationships for convenience. Which hassles are worth retaining?
 Author: Bhagyesh Pathak
 
 The economic machine thrives upon consumption. The more we consume, the more we push the piston.
@@ -12326,7 +12326,7 @@ Regardless, it is important to weigh which hassles are worth retaining in our li
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/03/28/how-powerful-or-powerless-people-are-you-looking-for/
 Date: 2022-03-28
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Are you hiring followers or challenge-ers? Understanding power distance helps match jobs with candidates who thrive.
 Author: Bhagyesh Pathak
 
 Of course, the question in the title is absurd. A more appropriate question will seek to answer a combination of inquiries: are you looking for someone who will follow your instructions? Are you looking for someone who will correct you when you’re mistaken? Are you looking for someone who will speak up when they know the ship is on a collision course with an iceberg? Are you looking for someone who will risk offending you at the moment for a better outcome?
@@ -12349,7 +12349,7 @@ No matter how advanced our civilization becomes, the hierarchy of power will rem
 
 URL: https://bhagyeshpathak.com/uncategorized/2022/03/15/when-should-you-start-your-act/
 Date: 2022-03-15
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Start living your act, not performing it as a mask. Cut the noise to find your temperament and live in harmony with your being.
 Author: Bhagyesh Pathak
 
 When you get on a stage? Or while walking on the road on a random Sunday afternoon?
@@ -12372,7 +12372,7 @@ Does it mean understanding your own temperament is a distant dream? I don’t th
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/12/22/trust-is-getting-scarce-but-old-principles-are-here-to-stay/
 Date: 2021-12-22
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Trust between brands and people is scarce. Word of mouth still works. Will people recommend you to friends?
 Author: Bhagyesh Pathak
 
 Not among people. But between the interaction of people and organizations. I’m not talking about the employer-employee relationship here. That’s secondary. The trust between a brand and people.
@@ -12395,7 +12395,7 @@ We have to ask ourselves, will this person recommend me or my business to his/he
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/12/20/whats-common-between-a-dog-bite-and-a-cold-call/
 Date: 2021-12-20
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Facing physical fears builds capacity for psychological fears. Determination transfers across all areas of life.
 Author: Bhagyesh Pathak
 
 Most of us fear both. And these are not the only fears that we harbor.
@@ -12421,7 +12421,7 @@ Until we learn to face our physical fears willingly, we can’t learn to face ou
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/12/18/changing-the-defaults-in-everything-you-do/
 Date: 2021-12-18
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Don’t accept defaults in work engagements. Negotiate modifications. Your commitment is changeable, not set in stone.
 Author: Bhagyesh Pathak
 
 I dislike pre-installed applications on smartphones or computers. You can’t even remove some of them. The majority of them are ineffective at what they do. The fact that some of the third-party apps come pre-installed as a part of the deal is a signal that there are not many takers.
@@ -12440,7 +12440,7 @@ Every project and human interaction comes with many default settings. It is up t
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/12/14/a-simple-filter-test-to-make-your-surveys-meaningful/
 Date: 2021-12-14
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Filter test for surveys: Would respondents answer these questions in person? Simple but requires thinking.
 Author: Bhagyesh Pathak
 
 At any stage of your work, do you design surveys? The ones with endless questions and options? Then we’re the same type. Or almost the same type.
@@ -12471,7 +12471,7 @@ Let’s filter our surveys and make the world a brighter place.
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/12/13/the-seductive-urge-to-manage-people/
 Date: 2021-12-13
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Rethinking managerial roles in knowledge work. Learn from Apple and Basecamp about self-organization and trust.
 Author: Bhagyesh Pathak
 
 Recently, some realization dawned upon me and here I am.
@@ -12506,7 +12506,7 @@ If given a choice, most people would choose an autonomous culture over a manager
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/08/03/the-fastest-way-to-lose-at-a-pitch-work-relationships/
 Date: 2021-08-03
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Operating from fear loses trust fastest. Transparent pricing builds relationships; hiding costs destroys them.
 Author: Bhagyesh Pathak
 
 Yes, there is more than one. But there is a specific one, which is not only the fastest, but it also ensures the loss of the audience’s trust.
@@ -12533,7 +12533,7 @@ Operating from fear is probably the fastest route to lose clients, relationships
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/08/02/the-need-to-be-forgotten-or-becoming-invisible/
 Date: 2021-08-02
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Why being invisible during facilitation empowers learners. The art of Wu Wei in product design and customer experience.
 Author: Bhagyesh Pathak
 
 All we want to do is to be remembered, to leave a legacy. If not in the form of a celebrity, then in the form of a celebrated family member or in a social circle. The attraction for being remembered is real and humane.
@@ -12556,7 +12556,7 @@ But, the goal is to change people from within, it doesn’t matter what field yo
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/07/30/it-has-always-been-like-this/
 Date: 2021-07-30
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Breaking free from ‘it’s always been done this way’ thinking. When new recruits hear this, imagination gets limited.
 Author: Bhagyesh Pathak
 
 Well, it might have. But the fact is, it has been like that since the time I have been around. I can’t say the same for the people who have been in my place before me. When we place too much reliability on our experience alone, we give rise to a disconnect. A disconnect between what could have been possible and what has been achieved.
@@ -12573,7 +12573,7 @@ With all said and done, we have to cultivate the understanding that not all thin
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/07/29/no-you-cant-convince-them/
 Date: 2021-07-29
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Understand others’ problems before convincing them. Genuine offers create partnerships, not narrow goal-focused pitches.
 Author: Bhagyesh Pathak
 
 Especially, if you’re narrowly focused on meeting your end goal. The customer, the user the donor sense it. They see through you.
@@ -12593,7 +12593,7 @@ You may get an enrollment, a partner in growth.
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/07/28/looming-bubbles-booms-the-volatility-of-our-decisions/
 Date: 2021-07-28
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Exploring how emotional volatility in decisions impacts our culture, from GameStop to Zomato IPOs. Time for conscious choices.
 Author: Bhagyesh Pathak
 
 When Albert Camu had said “Life is the sum of all our choices”, his proclamation was more right than wrong.
@@ -12627,7 +12627,7 @@ It is time for us to make our decision.
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/07/27/stand-here-for-dance-party/
 Date: 2021-07-27
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Discover how to craft invitations that spark curiosity and enrollment, rather than forcing engagement. Learn the art of facilitation.
 Author: Bhagyesh Pathak
 
 This week, I came across a remarkable 4-minute long YouTube video, perhaps one of the best entertaining short videos that have provided food for thought.
@@ -12650,7 +12650,7 @@ The question that we need to ponder upon every time we want to organize a confer
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/07/26/monotheism-in-business/
 Date: 2021-07-26
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Business has multiple stakeholders, not one god. Why ‘customer is king’ thinking fails and sustainable alternatives exist.
 Author: Bhagyesh Pathak
 
 “Customer is the god.”  
@@ -12680,7 +12680,7 @@ Eventually, someone has to pay the price.
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/07/22/the-doer-in-the-arena/
 Date: 2021-07-22
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Value the doers in the arena, not the critics. Leadership cannot be assigned a value; it must be cultivated.
 Author: Bhagyesh Pathak
 
 Any organization stands on its own with the help of a visible or invisible hierarchy. It matters little if someone accepts the existence of hierarchy or rejects it because its existence is versatile.
@@ -12707,7 +12707,7 @@ The alternative is to cultivate a genuine interest in the function of every indi
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/07/21/so-what/
 Date: 2021-07-21
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Use ‘So what?’ as a powerful noise filter for ideas and proposals. It motivates deeper thinking and clarity.
 Author: Bhagyesh Pathak
 
 We need to ask that question every time we come across a new idea, a product pitch, or just about anything that is creating some sort of wave among our peers.
@@ -12728,7 +12728,7 @@ It is possible to fear that our “so what?” attitude may keep us away from a 
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/07/20/the-medium-matters/
 Date: 2021-07-20
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Why choosing the right communication medium matters. Email vs instant messaging and respecting attention boundaries.
 Author: Bhagyesh Pathak
 
 The world has changed due to several technological advances, especially the communication technologies.
@@ -12751,7 +12751,7 @@ We have a responsibility to be conscious about how our choice of medium makes pe
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/07/19/dream-of-a-million-steps-perhaps/
 Date: 2021-07-19
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Walking extra miles creates culture change. Small steps leave lasting impressions. Extra effort transforms expectations.
 Author: Bhagyesh Pathak
 
 There are several projects in the world aiming to spread a million or a billion smiles. Not metaphorical smiles, but real ones. The exact number of smiles is not important but the spirit is.
@@ -12774,7 +12774,7 @@ And what about the smiles? Well, aren’t the extra steps going to create satisf
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/07/17/which-side-of-the-table/
 Date: 2021-07-17
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: The power of sitting on the same side of the table in marketing and relationships. Choose your side wisely.
 Author: Bhagyesh Pathak
 
 We make this choice every day, every moment.
@@ -12803,7 +12803,7 @@ Let’s choose the more effective side of the table. Because if we’re going to
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/06/05/a-spark-an-absolute-pre-requisite/
 Date: 2021-06-05
-Description: A spark is an absolute prerequisite for an engine to start, but this post is not about a car engine. We’re talking about engines that drive our life, work and culture. When we sign up for a course, a degree, a discussion, or an uncomfortable routine, we inherently hope to learn something. Any badge, any piece of certificate is just a symbol. A symbol, a shred of evidence. But they do not guarantee that learning has happened.
+Description: A spark initiates learning, not certificates or prerequisites. The emotional urge to see something happen matters.
 Author: Bhagyesh Pathak
 
 A spark is an absolute prerequisite for an engine to start, but this post is not about a car engine.
@@ -12830,7 +12830,7 @@ It never ends.
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/06/04/the-replication-problem/
 Date: 2021-06-04
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Why one-size-fits-all solutions fail. The trap of replication and the need for personalization in everything.
 Author: Bhagyesh Pathak
 
 It is a trap.
@@ -12867,7 +12867,7 @@ We need to break free from the rut of replication and start thinking about perso
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/06/03/a-rewarding-way-of-using-frameworks-or-at-least-the-one-that-is-effective/
 Date: 2021-06-03
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Stop starting with frameworks on paper. Learn to imbibe mental models deeply for effective problem-solving and decision-making.
 Author: Bhagyesh Pathak
 
 “Let’s put this into a framework, it may work”, and the meaning is lost.
@@ -12896,7 +12896,7 @@ And that takes perseverance, effort, willingness and time.
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/06/01/what-are-our-one-foot-leverage-points/
 Date: 2021-06-01
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Find small changes with big impact. One-foot leverage points: minor adjustments for significant outcome improvements.
 Author: Bhagyesh Pathak
 
 Organizations want to make an impact over a period of time. It is achieved by implementing different models. Experimenting with different parts of the entire change-making process: from ideation, recruitment, training, execution to feedback.
@@ -12927,7 +12927,7 @@ While formulating the next product or service expansion strategy, or marketing s
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/05/31/no-excuses-remarkable/
 Date: 2021-05-31
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: No excuses means remarkable. How commitment, courage, and practice lead to exceptional outcomes in work and life.
 Author: Bhagyesh Pathak
 
 And that’s remarkable.
@@ -12960,7 +12960,7 @@ In essence, being remarkable takes courage. It is worth aiming for.
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/02/25/begin-with-a-pencil-sketch/
 Date: 2021-02-25
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Start with pencil and paper before digital tools. No app replaces human spirit, priorities, and genuine connection.
 Author: Bhagyesh Pathak
 
 But we want to begin with digital sketch on a high-end iPad Pro device, and call it a day.
@@ -12987,7 +12987,7 @@ There is no alternative to human spirit. Let’s begin with a pencil and a paper
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/02/24/how-does-it-sound/
 Date: 2021-02-24
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Use ‘Undo send’ wisely. Ask ‘How does it sound?’ before hitting send. Empathy starts with rephrasing.
 Author: Bhagyesh Pathak
 
 Gmail offers upto thirty seconds of ‘Undo send’ and WhatsApp offers upto one hour to ‘Delete for everyone’.
@@ -13014,7 +13014,7 @@ Practice it enough that you can make do without that feature for the rest of you
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/02/22/the-invisible-dance-during-virtual-meets/
 Date: 2021-02-22
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Discover hidden dynamics in virtual meetings that reveal team connections. Learn to read subtle cues for better design.
 Author: Bhagyesh Pathak
 
 Most of the virtual meets are boring.
@@ -13043,7 +13043,7 @@ The goal is not to make everyone dance, it is to make the dance vibrant.
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/02/20/capacity-to-give-up-on-people/
 Date: 2021-02-20
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Explore why managers must balance persistence with the capacity to let go. Learn when giving up fosters both success and fulfillment.
 Author: Bhagyesh Pathak
 
 This is important.
@@ -13070,7 +13070,7 @@ And what about the ill-suited individuals?: they do not self-sabotage and find s
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/02/19/circumstances-if-they-cant-find-them-make-them/
 Date: 2021-02-19
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Learn how one delivery agent turned routine drops into a networking opportunity. Discover how to create your own circumstances.
 Author: Bhagyesh Pathak
 
 > I don’t believe in circumstances. The people who get on in this world are the people who get up and look for the circumstances they want, and, if they can’t find them, make them.
@@ -13095,7 +13095,7 @@ The world is full of people who push the boundaries to create the circumstances 
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/02/18/how-to-steal-a-wallet/
 Date: 2021-02-18
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Unlock the art of gaining attention, trust, and commitment through skilled facilitation. Learn to engage people without resistance.
 Author: Bhagyesh Pathak
 
 We are all trying to do it. More often than not, we fail at it. Repeatedly. We throw our hands in air, concluding not everyone has a talent of sleight of hand.
@@ -13116,7 +13116,7 @@ It works. Every time.
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/02/17/being-part-of-the-wave-not-the-wave-itself/
 Date: 2021-02-17
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Discover why chasing KPIs traps organizations in mediocrity. Learn why commitment to mission, not metrics, drives genuine results.
 Author: Bhagyesh Pathak
 
 Organizations like to know where they stand.
@@ -13150,7 +13150,7 @@ The dark area is where the nuances lie. The ones where *we should focus* on.
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/02/17/the-many-shades-of-upskilling/
 Date: 2021-02-17
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Discover why generic upskilling programs fail most employees. Learn to match learning styles with content for real growth.
 Author: Bhagyesh Pathak
 
 More and more organizations are rushing towards upskilling their employees.
@@ -13181,7 +13181,7 @@ The point is to do more of the work that matters, for the people who care.
 
 URL: https://bhagyeshpathak.com/uncategorized/2021/02/16/show-dont-tell/
 Date: 2021-02-16
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Move beyond empty words to inspire real vulnerability and engagement. Learn why actions speak louder than statements.
 Author: Bhagyesh Pathak
 
 “Please treat this space as a safe space, you can be vulnerable here”, said the facilitator of the online workshop. Though well-intentioned, it doesn’t inspire action. Despite knowing it doesn’t work that way, we resort to it. We repeatedly say it and make it uninspiring.
@@ -13200,7 +13200,7 @@ It’s not easy, but worth the effort.
 
 URL: https://bhagyeshpathak.com/uncategorized/2020/05/21/in-for-collateral-damage-anyone/
 Date: 2020-05-21
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: During COVID-19, we are all collateral damage. But we can choose our response. Understand the war and find your part.
 Author: Bhagyesh Pathak
 
 ***Trigger Warning****:\*\* Mental health first. If you are feeling slightest of mental health related turbulence due to extended lockdown such as: anxiety, phobia, anger, melancholy or OCD, please do not proceed further. It is likely that it will aggravate your emotions and prove to be counter-productive. You can always come back to the article later. For those who choose to proceed further, please keep in mind, I do not have a crystal ball and like any other medium, I use the written word to communicate my concerns and opinions.*
@@ -13229,7 +13229,7 @@ What most of the countries have tried to do is: flatten the curve. We have seen 
 
 URL: https://bhagyeshpathak.com/uncategorized/2020/03/31/wfh-how-much-worth-from-home/
 Date: 2020-03-31
-Description: A collection of essays and resources on technology, philosophy, and human potential.
+Description: Two weeks of WFH revealed hidden productivity truths. Learn to measure real value, prioritize tasks, and decline worthless meetings.
 Author: Bhagyesh Pathak
 
 Let’ get this clear: this is not one of those articles targeted to ride on the coronavirus outbreak wave.
