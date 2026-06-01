@@ -2,7 +2,7 @@
 
 > A collection of essays and resources on technology, philosophy, and human potential.
 
-Last Updated: 2026-04-30T12:52:49.872Z
+Last Updated: 2026-06-01T04:43:31.742Z
 
 ## Pages
 
@@ -1231,6 +1231,41 @@ URL: https://bhagyeshpathak.com/now/
 Description: A snapshot of my current activities: projects, reading, and writing. Updated regularly.
 
 *(This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)*
+
+Updated on June 1st, 2026 from my desk
+
+## Where and weather
+
+Same as last time. Ahmedabad and hot.
+
+## Watching, reading…
+
+-   Watching: It is not happening as much as I wished. But I’ve found new cinema landscape to relish: Malayalam cinema. I didn’t know this side of world existed. Malayalam cinema is my new Korean and Japanese counterparts. Once you watch Hollywood movies, you realize that most Bollywood movies suck. Once you watch Korean and Japanese movies, you realize Hollywood movies suck. And once you’ve watched Malayalam movies, you realize: well, that’s that. Korean, Japanese and Malayalam are the new trio.
+-   Reading: AI agent responses and documentation. That’s what I’ve been reading.
+
+## Working
+
+-   A few weeks back, we opened waitlist for [Feedhammer](https://feedhammer.com/)! If you use Basecamp or know someone who does, please suggest them to check out Feedhammer. They may find it helpful. In essence, Feedhammer aggregates a collection of Basecamp projects, cleans them up, filters them as per your choice and gives you one feed URL that you can add to Google Calendar or share with a client. They don’t have to keep checking Basecamp for any upcoming Meetings, Todos or Cards. Feedhammer is our answer to a very specific problem that most Basecamp users, especially Freelancers and Agency owners are feeling. We will be launching in a few weeks time.
+-   New Product in line: While I am gearing up for Feedhammer launch, preparing Wu Wei Cards for onlie shopping…there’s a new product under development. I will share about it once I have created the prototype and tested it well. It is going to be an interesting take in the field of Development Practice and Social Impact. Idea for this product was brewing for quite some time but I wasn’t sure about its shape and focus. Last week, I was talking to one of my ex-colleagues and something clicked in my mind. And yes, the product is going to have AI built in it. It is going to be fun.
+-   As for Wu Wei Cards, we have our first partner store displaying our product: [InStore](https://wuwei.cards/shop). It is a beautiful store. If you’re in Ahmedabad, I recommend visiting it. Not to purchase our product, but just to experience their store. Great taste.
+-   We are looking for more partners to display Wu Wei Cards. If you happen to know a place that would be a good fit, please let me know.
+
+## Travel plan…
+
+Mostly, I will be traveling to Pune in July.
+
+## Writing
+
+I don’t know if these essays will see the light of day, but here are their working titles:
+
+-   “Things we can learn from AI agents”
+-   “How to lose track of time”
+-   “Art as a positive force”
+-   “What is so special about cooking”
+
+* * *
+
+## Then
 
 Updated on March 27th, 2026 from my desk
 
