@@ -6,6 +6,20 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bhagyeshpathak.com" # the base hostname & protocol for your site, e.g. http://example.com
 google_site_verification: ""
+
+# Author & Social (for JSON-LD structured data)
+author:
+  name: Bhagyesh Pathak
+  github: bhagyeshsp
+  linkedin: bhagyeshpathak
+  email: bhagyeshspathak@gmail.com
+
+social:
+  name: Bhagyesh Pathak
+  links:
+    - https://github.com/bhagyeshsp
+    - https://www.linkedin.com/in/bhagyeshpathak
+
 # Build settings
 markdown: kramdown
 permalink: pretty
