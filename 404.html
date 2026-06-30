@@ -3,6 +3,13 @@ layout: default
 title: Page Not Found
 permalink: /404.html
 ---
+<script>
+  window.goatcounter = {
+    path: function () {
+      return "/404?url=" + encodeURIComponent(location.pathname);
+    }
+  };
+</script>
 
 <div class="not-found">
   <h1>404</h1>
