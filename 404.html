@@ -78,7 +78,15 @@
 
 
       <main>
-        <div class="not-found">
+        <script>
+  window.goatcounter = {
+    path: function () {
+      return "/404?url=" + encodeURIComponent(location.pathname);
+    }
+  };
+</script>
+
+<div class="not-found">
   <h1>404</h1>
   <p>The page you're looking for doesn't exist.</p>
   <p><a href="/">Return to home</a></p>
