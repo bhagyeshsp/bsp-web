@@ -2,7 +2,7 @@
 
 > A collection of essays and resources on technology, philosophy, and human potential.
 
-Last Updated: 2026-06-30T03:51:21.782Z
+Last Updated: 2026-07-03T07:19:02.502Z
 
 ## Pages
 
@@ -1231,6 +1231,34 @@ URL: https://bhagyeshpathak.com/now/
 Description: A snapshot of my current activities: projects, reading, and writing. Updated regularly.
 
 *(This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)*
+
+Updated on July 3rd, 2026 from my desk
+
+## Where and weather
+
+Ahmedabad waiting for rains. So, humid and cooler than the previous 4 months.
+
+## Watching, reading…
+
+-   Watching: [JCS Criminal Psychology](https://www.youtube.com/@JCS) videos on YouTube. JCS videos are almost over and now I’m getting into a similar channel called [Matt Orchard’s Crime and Society](https://www.youtube.com/@MattOrchardCrimeandSociety). Not the quality of JCS but it is fun. Takes tremendous effort to produce these videos. I have my utmost respect for people who create video content.
+-   Reading: currently on my nth read of War of Art by Steven Pressfield. This book is like nutrition for soul. The working soul specifically.
+
+## Working
+
+-   At the beginning of this week, we opened [Feedhammer](https://feedhammer.com/) for public use. Contrary to what people believe, launching a product and then working to get customers is a full-time work. I’m currently in that phase–and I don’t think this work is going to get over anytime soon. Know anyone who’d benefit from Basecamp calendar management tool? Ask them to check out Feedhammer.
+-   Oh yes, Feedhammer got listed as one of the [Basecamp’s official integrations](https://basecamp.com/integrations)! This is a huge milestone for us. It is one thing to create a third-party tool and completely a different feat to be added as one of the official integrations.
+
+## Travel plan…
+
+Hopeful about sparing some time to travel.
+
+## Writing
+
+“Art as a positive force” is almost complete.
+
+* * *
+
+## Then
 
 Updated on June 1st, 2026 from my desk
 
