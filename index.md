@@ -7,7 +7,7 @@ title: Home
     <div class="home-text">
         <p>Hi, let's make this easy.</p>
         <p>My name is Bhagyesh Pathak.</p>
-        <p>If we were strangers riding an elevator and you asked me what I do, I'd answer "I provide tech and design solutions to businesses through my firm named <a href="https://sisyphusconsulting.org?ref=bhagyeshpathak.com">Sisyphus Consulting</a>. We focus only a select few things and do them right."</p>
+        <p>If we were strangers riding an elevator and you asked me what I do, I'd answer "I provide tech solutions to businesses through my firm named <a href="https://sisyphusconsulting.org?ref=bhagyeshpathak.com">Sisyphus Consulting</a>. We focus only a select few things and do them right."</p>
         <p>Then I'll ask you a question, you'll answer the question. Back-and-forth, back-and-forth.
         And what if we hit it off?</p>
         <p>Then eventually you'd learn the things I have listed on my <a href="{{'/about/' | relative_url }}">About Page</a>. I need to update it, but still take a look.</p>
