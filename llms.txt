@@ -2,7 +2,7 @@
 
 > A collection of essays and resources on technology, philosophy, and human potential.
 
-Last Updated: 2026-07-03T07:19:02.501Z
+Last Updated: 2026-09-01T11:49:03.640Z
 
 ## Pages
 - [About](https://bhagyeshpathak.com/about/)
@@ -15,6 +15,7 @@ Last Updated: 2026-07-03T07:19:02.501Z
 - [What I’m upto?](https://bhagyeshpathak.com/now/)
 
 ## Posts
+- [What will happen to Razorpay?](https://bhagyeshpathak.com/uncategorized/2026/09/01/what-will-happen-to-razorpay/)
 - [Scaling LLMs at the Edge: A journey through distillation, routers, and embeddings](https://bhagyeshpathak.com/uncategorized/2026/04/01/scaling-llms-at-the-edge/)
 - [You can just do things](https://bhagyeshpathak.com/uncategorized/2026/03/30/you-can-just-do-things/)
 - [Wu Wei cards are live!](https://bhagyeshpathak.com/uncategorized/2026/03/27/wu-wei-cards-are-live/)
