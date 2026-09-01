@@ -4,6 +4,7 @@ gem "jekyll", "~> 3.10" # Installed version is 3.10.0
 gem "jekyll-sass-converter", "~> 1.5" # Installed version is 1.5.2
 gem "webrick", "~> 1.9" # Installed version is 1.9.1
 gem "kramdown-parser-gfm" # Required for GitHub Flavored Markdown
+gem 'jekyll-feed', '>= 0.17.0' # For RSS Atom feed of the blog
 
 group :jekyll_plugins do
   # gem "github-pages", "~> 232" # Installed version is 232

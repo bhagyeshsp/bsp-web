@@ -50,6 +50,7 @@ defaults:
 plugins:
   - jekyll-sitemap    # Helps with SEO and site indexing
   - jekyll-seo-tag
+  - jekyll-feed
 
 # Exclude from processing
 exclude:
