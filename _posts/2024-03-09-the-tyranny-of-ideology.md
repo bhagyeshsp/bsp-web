@@ -12,6 +12,8 @@ category:
 - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/the-tyranny-of-ideology
 ---
 
 What they say, even the atheists also believe in something. And they make that a religion. Because it is in the human nature to believe in something. We simply can’t help it. Belief maketh bread.

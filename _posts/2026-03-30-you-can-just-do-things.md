@@ -10,6 +10,8 @@ category:
   - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/you-can-just-do-things
 ---
 
 _A few days into writing this essay, I realized that this essay is for men. So, if you're a woman, you're welcome to read, just be mindful that it is based largely on a man's experience of the world and adapts a specific set of masculine premises on life, world and fulfilment._

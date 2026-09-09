@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/one-ring-to-rule-them-all-one-tab-to-manage-them-all
 ---
 
 Reader, I want to ask you something.

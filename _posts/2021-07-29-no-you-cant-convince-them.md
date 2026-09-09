@@ -20,6 +20,8 @@ tag:
 - strategy
 - vc
 layout: post
+redirect_from:
+  - /blog/no-you-cant-convince-them
 ---
 
 Especially, if you’re narrowly focused on meeting your end goal. The customer, the user the donor sense it. They see through you.

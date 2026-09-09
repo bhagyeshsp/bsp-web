@@ -13,6 +13,8 @@ category:
 tag:
 - newsletter
 layout: post
+redirect_from:
+  - /blog/tfn9-do-you-look-at-the-keyboard-while-typing
 ---
 
 Do you remember — the speed of your nod would reveal your age 😀— when there used to be courses on ‘typing’? Type classes, as they were known.

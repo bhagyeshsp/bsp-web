@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/framing-effectively-2
 ---
 
 Dear Reader,  

@@ -13,6 +13,8 @@ category:
 tag:
 - newsletter
 layout: post
+redirect_from:
+  - /blog/reading-on-social-media-is-full-of-pain-inoreader
 ---
 
 Reader, do you also feel that social media — whether it is LinkedIn, Facebook, or Twitter — is hard to follow? I used to feel that. As I increased my engagement with social media. It is so difficult to keep up with a few of the gems that I like to read once in a while.

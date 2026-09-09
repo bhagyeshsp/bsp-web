@@ -13,6 +13,8 @@ category:
 tag:
 - newsletter
 layout: post
+redirect_from:
+  - /blog/tfn7-the-power-of-outline-early-access-to-my-mini-handbook
 ---
 
 Finally dear reader, I finished working on a handbook that’s ~50 pages long. And now it is ready for download! So, I thought to cover the main technique of outline in today’s letter. This technique helps me complete all the projects that I take on hand.

@@ -21,6 +21,8 @@ tag:
 - People Management
 - retain employees
 layout: post
+redirect_from:
+  - /blog/wanted-a-captain-that-goes-down-with-the-ship
 ---
 
 And that’s a maritime tradition. What about the ships in the form of organizations? It is a huge risk to board a ship. Especially, without knowing the ship’s health, the crew’s culture or the ship’s direction.

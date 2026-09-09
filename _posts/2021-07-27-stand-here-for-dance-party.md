@@ -22,6 +22,8 @@ tag:
 - Organization development
 - People Management
 layout: post
+redirect_from:
+  - /blog/stand-here-for-dance-party
 ---
 
 This week, I came across a remarkable 4-minute long YouTube video, perhaps one of the best entertaining short videos that have provided food for thought.

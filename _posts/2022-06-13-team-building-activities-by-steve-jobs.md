@@ -23,6 +23,8 @@ tag:
 - steve jobs
 - team building
 layout: post
+redirect_from:
+  - /blog/team-building-activities-by-steve-jobs
 ---
 
 You’re set for a disappointment if you seriously thought Steve Jobs conducted any team-building activity.

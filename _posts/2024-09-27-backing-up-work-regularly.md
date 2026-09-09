@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/backing-up-work-regularly
 ---
 
 Reader,  

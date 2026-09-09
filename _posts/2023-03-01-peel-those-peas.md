@@ -18,6 +18,8 @@ tag:
 - time management
 - work
 layout: post
+redirect_from:
+  - /blog/peel-those-peas
 ---
 
 “The dollar value of my time.” I don’t remember exactly when I came across this thinking pattern. And somewhere I adopted it.

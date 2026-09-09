@@ -16,6 +16,8 @@ tag:
 - tools
 - writing
 layout: post
+redirect_from:
+  - /blog/a-knowledge-workers-secret-weapon-hemingway-app
 ---
 
 Earlier this week, I published a [Powerful lean-mean writing system for anyone](http://bhagyeshpathak.com/guides). Based on my readers’ overwhelming response, expanding more on the free Hemingway Tool I had covered under step-3 of the guide.

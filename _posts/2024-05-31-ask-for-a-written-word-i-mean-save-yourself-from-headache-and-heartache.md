@@ -19,6 +19,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/ask-for-a-written-word-i-mean-save-yourself-from-headache-and-heartache
 ---
 
 So, I was scrolling through social media and this comic from Marketoonist cracked me a few weeks back.

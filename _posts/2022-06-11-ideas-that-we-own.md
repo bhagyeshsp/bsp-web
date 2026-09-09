@@ -19,6 +19,8 @@ tag:
 - originals
 - work
 layout: post
+redirect_from:
+  - /blog/ideas-that-we-own
 ---
 
 And the ideas that we don’t own.

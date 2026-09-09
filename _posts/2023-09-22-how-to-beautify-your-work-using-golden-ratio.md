@@ -15,6 +15,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/how-to-beautify-your-work-using-golden-ratio
 ---
 
 Tell me something Reader,

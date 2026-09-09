@@ -18,6 +18,8 @@ tag:
 - social media
 - strategy
 layout: post
+redirect_from:
+  - /blog/is-it-worthy-of-gossip
 ---
 
 When in 2011, Yuval Noah Harari published his bestseller ‘The Sapiens’, along with many concepts, it reintroduced the importance of gossip in the human social circle. Its primary purpose: survival.

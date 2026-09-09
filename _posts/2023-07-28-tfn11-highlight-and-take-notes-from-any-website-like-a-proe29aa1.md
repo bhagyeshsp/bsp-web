@@ -13,6 +13,8 @@ category:
 tag:
 - newsletter
 layout: post
+redirect_from:
+  - /blog/tfn11-highlight-and-take-notes-from-any-website-like-a-proe29aa1
 ---
 
 Dear reader, for years, I have struggled to organize whatever I read online. There is no single app/software that can solve all of my reading material in one place.

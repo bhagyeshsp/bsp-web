@@ -18,6 +18,8 @@ tag:
 - smiles
 - steps
 layout: post
+redirect_from:
+  - /blog/dream-of-a-million-steps-perhaps
 ---
 
 There are several projects in the world aiming to spread a million or a billion smiles. Not metaphorical smiles, but real ones. The exact number of smiles is not important but the spirit is.

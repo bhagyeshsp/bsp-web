@@ -26,6 +26,8 @@ tag:
 - zomato
 - zomato bubble
 layout: post
+redirect_from:
+  - /blog/looming-bubbles-booms-the-volatility-of-our-decisions
 ---
 
 When Albert Camu had said “Life is the sum of all our choices”, his proclamation was more right than wrong.

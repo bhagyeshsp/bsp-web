@@ -10,6 +10,8 @@ category:
   - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/barbarians-at-the-gate-book-review
 ---
 
 ![Barbarians at the gate]({{ '/assets/images/uploads/barbarians-at-the-gate.jpg' | relative_url }}){: width="300px" }

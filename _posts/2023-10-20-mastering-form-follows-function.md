@@ -17,6 +17,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/mastering-form-follows-function
 ---
 
 Reader, if it was a matter of life and death to win a Formula-1 race, which car would you choose?

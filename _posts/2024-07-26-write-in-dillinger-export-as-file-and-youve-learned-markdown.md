@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/write-in-dillinger-export-as-file-and-youve-learned-markdown
 ---
 
 Last week, you saw my love for Markdown. And this week, I recruit more comrades! 😄  

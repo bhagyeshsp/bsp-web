@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/instant-use-and-throw-email-id-using-10minutemail
 ---
 
 Reader, have you felt the uneasiness when you’re shopping and the checkout counter guy asks for your contact number? For some elusive membership benefits?

@@ -17,6 +17,8 @@ tag:
 - mercy killing
 - work
 layout: post
+redirect_from:
+  - /blog/jobs-that-need-euthanasia
 ---
 
 Yes, mercy killing. We should think about many jobs that need euthanasia.

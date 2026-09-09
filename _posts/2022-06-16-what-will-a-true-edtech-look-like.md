@@ -20,6 +20,8 @@ tag:
 - neuralink
 - true edtech
 layout: post
+redirect_from:
+  - /blog/what-will-a-true-edtech-look-like
 ---
 
 The best Edtech we had for a hundred years was a blackboard and chalk.

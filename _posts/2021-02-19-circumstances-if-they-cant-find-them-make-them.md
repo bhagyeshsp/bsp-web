@@ -14,6 +14,8 @@ tag:
 - marketing
 - word of mouth
 layout: post
+redirect_from:
+  - /blog/circumstances-if-they-cant-find-them-make-them
 ---
 
 > I don’t believe in circumstances. The people who get on in this world are the people who get up and look for the circumstances they want, and, if they can’t find them, make them.

@@ -17,6 +17,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/simple-3-2-1-data-backup-strategy
 ---
 
 Have you watched the 2012 superhit movie OMG — Oh My God? If you have, you’ll certainly remember this scene:

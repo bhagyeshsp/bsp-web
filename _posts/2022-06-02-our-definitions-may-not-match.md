@@ -20,6 +20,8 @@ tag:
 - self-help
 - work
 layout: post
+redirect_from:
+  - /blog/our-definitions-may-not-match
 ---
 
 Recently, I visited a handicrafts market. Classic jute items, ceramics, soaps, embroidery. You get the idea.

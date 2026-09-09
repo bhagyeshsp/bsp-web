@@ -12,6 +12,8 @@ category:
 - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/a-year-of-friday-letters
 ---
 
 Last week was the 52nd week of me sending Friday letters to the readers.

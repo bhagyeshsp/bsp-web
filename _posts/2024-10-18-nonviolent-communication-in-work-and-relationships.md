@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/nonviolent-communication-in-work-and-relationships
 ---
 
 Some time back, I came across the practice of Nonviolent Communication. Since then, I have constantly thought about it when I hear myself and others communicate violently. Since the practice has stayed with me for a sufficiently long time, I feel comfortable and authentic in sharing with you now.  

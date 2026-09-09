@@ -16,6 +16,8 @@ tag:
 - online learning
 - upskilling
 layout: post
+redirect_from:
+  - /blog/the-many-shades-of-upskilling
 ---
 
 More and more organizations are rushing towards upskilling their employees.

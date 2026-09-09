@@ -25,6 +25,8 @@ tag:
 - why presentations suck
 - work
 layout: post
+redirect_from:
+  - /blog/why-i-stopped-presenting-and-started-conversing
 ---
 
 Not because I got bored of presenting or because it was time-consuming.

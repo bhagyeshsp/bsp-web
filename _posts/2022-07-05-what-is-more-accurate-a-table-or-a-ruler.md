@@ -20,6 +20,8 @@ tag:
 - table ruler
 - work
 layout: post
+redirect_from:
+  - /blog/what-is-more-accurate-a-table-or-a-ruler
 ---
 
 And still, we think the table is of the wrong size.

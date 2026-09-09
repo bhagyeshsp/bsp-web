@@ -13,6 +13,8 @@ category:
 tag:
 - newsletter
 layout: post
+redirect_from:
+  - /blog/tfn10-change-your-mind-about-this-and-f09f92aaf09f8fbb10x-your-judgment
 ---
 
 Dear reader, thank you so much for sticking around and reading this letter week after week. This is the 10th edition of this letter. When I started, I didn’t know I will continue for even 10 days! But thanks to your support, looks like this will go on for a while.

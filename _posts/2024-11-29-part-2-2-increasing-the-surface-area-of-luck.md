@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/part-2-2-increasing-the-surface-area-of-luck
 ---
 
 I love science.  

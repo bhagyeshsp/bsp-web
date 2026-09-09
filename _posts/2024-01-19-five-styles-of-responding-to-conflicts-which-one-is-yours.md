@@ -17,6 +17,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/five-styles-of-responding-to-conflicts-which-one-is-yours
 ---
 
 If you tell me you never had any conflict with anyone in your work, I won’t believe you.

@@ -17,6 +17,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/rules-to-work-by-manual-first-automatic-later
 ---
 
 Most things in our lives are now automatic:  

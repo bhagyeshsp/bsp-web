@@ -49,6 +49,8 @@ tag:
 - why effective communication is important in the workplace
 - work
 layout: post
+redirect_from:
+  - /blog/not-just-another-conversation
 ---
 
 In my previous piece, I talked about why I stopped presenting and started conversing.

@@ -27,6 +27,8 @@ tag:
 - what is effective listening
 - what is intentional listening
 layout: post
+redirect_from:
+  - /blog/developing-an-ear
 ---
 
 No, we’re not talking about artificial ear creation from stem cells. But a metaphorical one.

@@ -15,6 +15,8 @@ tag:
 - Organization development
 - team-building
 layout: post
+redirect_from:
+  - /blog/how-to-steal-a-wallet
 ---
 
 We are all trying to do it. More often than not, we fail at it. Repeatedly. We throw our hands in air, concluding not everyone has a talent of sleight of hand.

@@ -21,6 +21,8 @@ tag:
 - self-help
 - work
 layout: post
+redirect_from:
+  - /blog/a-strange-paradox-saying-no-to-say-yes
 ---
 
 Every one of us needs to build the capacity to say NO. Not for ourselves. But to serve better.

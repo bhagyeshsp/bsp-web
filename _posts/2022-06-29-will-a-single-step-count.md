@@ -19,6 +19,8 @@ tag:
 - relationships
 - trust
 layout: post
+redirect_from:
+  - /blog/will-a-single-step-count
 ---
 
 I know you have walked the extra mile for someone and so has someone for you. That extra mile would have strengthened your relationship, developed trust and set your intentions in order.

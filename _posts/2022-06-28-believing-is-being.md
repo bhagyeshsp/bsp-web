@@ -21,6 +21,8 @@ tag:
 - visionary
 - work
 layout: post
+redirect_from:
+  - /blog/believing-is-being
 ---
 
 Most of us tend to believe what we see. For us, being is believing.

@@ -23,6 +23,8 @@ tag:
 - People Management
 - rework book
 layout: post
+redirect_from:
+  - /blog/the-seductive-urge-to-manage-people
 ---
 
 Recently, some realization dawned upon me and here I am.

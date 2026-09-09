@@ -12,6 +12,8 @@ category:
 - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/dashboard-managers
 ---
 
 Have you noticed there is a birth of a whole new job role?

@@ -24,6 +24,8 @@ tag:
 - table
 - tough
 layout: post
+redirect_from:
+  - /blog/which-side-of-the-table
 ---
 
 We make this choice every day, every moment.

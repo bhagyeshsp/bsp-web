@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/the-problem-with-averages-and-dashboards
 ---
 
 Tell me something, would you step into a river that is on average 4 feet deep?  

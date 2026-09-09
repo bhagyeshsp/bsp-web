@@ -18,6 +18,8 @@ tag:
 - self-development
 - work
 layout: post
+redirect_from:
+  - /blog/reconnecting-with-your-original-why
 ---
 
 All of us feel lost at some point in our lives and career.

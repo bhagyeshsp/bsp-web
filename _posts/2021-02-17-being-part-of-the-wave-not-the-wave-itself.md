@@ -16,6 +16,8 @@ tag:
 - Organization development
 - People Management
 layout: post
+redirect_from:
+  - /blog/being-part-of-the-wave-not-the-wave-itself
 ---
 
 Organizations like to know where they stand.

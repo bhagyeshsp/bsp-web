@@ -21,6 +21,8 @@ tag:
 - People Management
 - work
 layout: post
+redirect_from:
+  - /blog/why-i-dont-resort-to-euphemisms
 ---
 
 A year back, I wasn’t aware of this tendency of mine. But as we learn new terms, they give us ideas. So what’s a euphemism? It is a mild or pleasant word or phrase that we use instead of one that is unpleasant or offensive. Kind of a sugar-coated thing.

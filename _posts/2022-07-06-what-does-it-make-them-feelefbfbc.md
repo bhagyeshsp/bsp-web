@@ -20,6 +20,8 @@ tag:
 - marketing
 - UI
 layout: post
+redirect_from:
+  - /blog/what-does-it-make-them-feelefbfbc
 ---
 
 When a bookworm walks into your small book cafe.

@@ -21,6 +21,8 @@ tag:
 - pms
 - selfappraisal
 layout: post
+redirect_from:
+  - /blog/appraisal-of-appraisals
 ---
 
 Appraisal season is here. The best time to publish this article was a year back. The second-best time is today. (I would rate myself 0 on a scale of 0-10 about the timeliness of this article. Poor time management.)

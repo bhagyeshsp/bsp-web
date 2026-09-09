@@ -12,6 +12,8 @@ category:
 - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/ai-in-session-planning-2
 ---
 
 Is AI going to replace all of us? No, I don’t think so.  

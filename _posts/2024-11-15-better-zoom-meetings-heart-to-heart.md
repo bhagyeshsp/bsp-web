@@ -17,6 +17,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/better-zoom-meetings-heart-to-heart
 ---
 
 I used to detest the “keep your video on” dictum often thrown during Zoom meets four years back. It left a bad taste. You may feel my anguish and contempt for mass Zoom meetings in [WFH: How much worth from home?](https://bhagyeshpathak.com/blog//wfh-how-much-worth-from-home) article that I penned down two weeks into covid lockdown.

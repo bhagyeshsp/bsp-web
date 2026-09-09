@@ -21,6 +21,8 @@ tag:
 - UX
 - wu wei
 layout: post
+redirect_from:
+  - /blog/the-need-to-be-forgotten-or-becoming-invisible
 ---
 
 All we want to do is to be remembered, to leave a legacy. If not in the form of a celebrity, then in the form of a celebrated family member or in a social circle. The attraction for being remembered is real and humane.

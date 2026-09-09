@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/help-people-remember-your-event-by-generating-add-to-calendar-links
 ---
 
 Reader,

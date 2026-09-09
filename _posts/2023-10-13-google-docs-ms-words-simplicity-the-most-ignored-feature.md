@@ -17,6 +17,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/google-docs-ms-words-simplicity-the-most-ignored-feature
 ---
 
 Reader, If I start counting how many documents I have come across that have hand-made Table of Contents, it will take me a couple of days to finish counting.

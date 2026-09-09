@@ -16,6 +16,8 @@ tag:
 - Organization development
 - training
 layout: post
+redirect_from:
+  - /blog/mind-before-software
 ---
 
 I love using software products. They make life so easy.

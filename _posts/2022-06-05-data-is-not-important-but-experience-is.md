@@ -21,6 +21,8 @@ tag:
 - Organization development
 - People Management
 layout: post
+redirect_from:
+  - /blog/data-is-not-important-but-experience-is
 ---
 
 Can I convince you to give up smoking by telling you every year eight million deaths are related to smoking-related diseases?

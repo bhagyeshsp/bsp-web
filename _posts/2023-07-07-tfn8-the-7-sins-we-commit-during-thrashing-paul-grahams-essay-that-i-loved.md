@@ -14,6 +14,8 @@ category:
 tag:
 - newsletter
 layout: post
+redirect_from:
+  - /blog/tfn8-the-7-sins-we-commit-during-thrashing-paul-grahams-essay-that-i-loved
 ---
 
 \[Dear reader\], have you been in a situation where you have to brainstorm with 4-5 other people? Even worse, a room full of people? It may have been related to anything. From organizing a workshop to designing a project.

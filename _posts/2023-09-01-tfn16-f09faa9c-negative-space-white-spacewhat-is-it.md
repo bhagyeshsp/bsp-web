@@ -13,6 +13,8 @@ category:
 tag:
 - newsletter
 layout: post
+redirect_from:
+  - /blog/tfn16-f09faa9c-negative-space-white-spacewhat-is-it
 ---
 
 Hi dear reader,

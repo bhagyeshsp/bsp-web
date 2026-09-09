@@ -15,6 +15,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/watch-and-learn-fast-easily-change-video-speed
 ---
 
 Did you know YouTube releases a Culture and Trends report every year?

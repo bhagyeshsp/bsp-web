@@ -21,6 +21,8 @@ tag:
 - Organization development
 - status quo
 layout: post
+redirect_from:
+  - /blog/stauts-quo-irrationality-and-economics
 ---
 
 How tall can your child grow?

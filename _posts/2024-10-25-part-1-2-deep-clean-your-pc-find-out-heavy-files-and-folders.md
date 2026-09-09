@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/part-1-2-deep-clean-your-pc-find-out-heavy-files-and-folders
 ---
 
 Since my childhood, the Diwali season has been the season of cleaning. It’s like the Spring season. Every corner of the home should look new, dusted, and organized. “Rejuvenated”, that’s the word I was looking for.

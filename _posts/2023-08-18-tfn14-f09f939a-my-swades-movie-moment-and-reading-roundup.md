@@ -13,6 +13,8 @@ category:
 tag:
 - newsletter
 layout: post
+redirect_from:
+  - /blog/tfn14-f09f939a-my-swades-movie-moment-and-reading-roundup
 ---
 
 I won’t lie, dear reader. 5 days back, I had thought I will write this week’s newsletter on the go. While traveling. I tried typing the first draft in a crowded local bus on my way to a project I recently undertook.

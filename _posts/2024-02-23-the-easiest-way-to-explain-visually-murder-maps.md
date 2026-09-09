@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/the-easiest-way-to-explain-visually-murder-maps
 ---
 
 If you’re a fan of suspense thriller movies like me, you’d have seen one of these [murder maps](https://en.wikipedia.org/wiki/Evidence_board) in some scenes. (I didn’t know it is called that until now)

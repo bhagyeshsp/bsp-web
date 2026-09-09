@@ -18,6 +18,8 @@ tag:
 - uncomfortable
 - work
 layout: post
+redirect_from:
+  - /blog/the-death-of-uncertainty
 ---
 
 It is funny how certain we feel when we promote a product on Facebook, Instagram, or Google. We think “hmmm, I have checked all the boxes and now the technology will do the work.” And indeed, technology does its work. Our expectation is met. Our love for certainty increases with each such experience. We hit “send” on WhatsApp and we know whether the message is delivered. The blue tick has done more harm than good.

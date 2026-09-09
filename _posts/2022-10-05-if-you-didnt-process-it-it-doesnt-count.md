@@ -33,6 +33,8 @@ tag:
 - what is processing experience
 - why are organizations moving towards the use of experiential approaches to learning
 layout: post
+redirect_from:
+  - /blog/if-you-didnt-process-it-it-doesnt-count
 ---
 
 How many times do we feel our efforts were not effective enough?

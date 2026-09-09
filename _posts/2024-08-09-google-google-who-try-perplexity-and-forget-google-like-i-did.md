@@ -19,6 +19,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/google-google-who-try-perplexity-and-forget-google-like-i-did
 ---
 
 Remember the old Google Search Result Page?  

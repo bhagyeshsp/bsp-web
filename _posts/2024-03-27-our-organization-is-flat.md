@@ -12,6 +12,8 @@ category:
 - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/our-organization-is-flat
 ---
 
 The gimmick of “we are a flat organization” got perpetuated when Facebook in 2015 began its operations with probably the largest open office floor plan in the world. Many of the tech-giants followed the suite.

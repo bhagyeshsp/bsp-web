@@ -22,6 +22,8 @@ tag:
 - whatsapp
 - work-life
 layout: post
+redirect_from:
+  - /blog/the-medium-matters
 ---
 
 The world has changed due to several technological advances, especially the communication technologies.

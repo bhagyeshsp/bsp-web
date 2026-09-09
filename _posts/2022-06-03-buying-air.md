@@ -19,6 +19,8 @@ tag:
 - transformation
 - values
 layout: post
+redirect_from:
+  - /blog/buying-air
 ---
 
 I came across the term ‘useful education’.

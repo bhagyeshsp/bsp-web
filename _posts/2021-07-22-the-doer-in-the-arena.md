@@ -22,6 +22,8 @@ tag:
 - personal development
 - values
 layout: post
+redirect_from:
+  - /blog/the-doer-in-the-arena
 ---
 
 Any organization stands on its own with the help of a visible or invisible hierarchy. It matters little if someone accepts the existence of hierarchy or rejects it because its existence is versatile.

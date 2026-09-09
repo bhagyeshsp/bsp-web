@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/adventure-wave-facilitate-unforgettable-workshops
 ---
 
 *“Let’s begin with an icebreaker activity!”*

@@ -17,6 +17,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/part-2-2-deep-clean-your-pc-bleaching
 ---
 
 Hi Reader,  

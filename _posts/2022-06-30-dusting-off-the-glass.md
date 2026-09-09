@@ -22,6 +22,8 @@ tag:
 - Y Combinator
 - YC
 layout: post
+redirect_from:
+  - /blog/dusting-off-the-glass
 ---
 
 Last night, I attended Y Combinator’s session on Boom Supersonic jet startup. (Boom is building a commercial Supersonic jet that will travel two times faster than today’s commercial jets. You can read more about it [here](https://en.wikipedia.org/wiki/Boom_Technology).)

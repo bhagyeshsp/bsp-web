@@ -23,6 +23,8 @@ tag:
 - senses
 - survey design
 layout: post
+redirect_from:
+  - /blog/no-longer-a-grocery-store
 ---
 
 If you’re selling fruits and vegetables in a thriving city market, you will hear and see your customers directly.

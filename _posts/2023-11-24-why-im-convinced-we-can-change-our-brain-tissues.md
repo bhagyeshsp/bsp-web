@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/why-im-convinced-we-can-change-our-brain-tissues
 ---
 
 So Reader, this really happened to me. And I’m not making it up.

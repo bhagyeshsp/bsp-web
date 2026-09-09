@@ -29,6 +29,8 @@ tag:
 - why to disappoint people
 - work
 layout: post
+redirect_from:
+  - /blog/you-will-disappoint-people
 ---
 
 But these people will have different reasons.

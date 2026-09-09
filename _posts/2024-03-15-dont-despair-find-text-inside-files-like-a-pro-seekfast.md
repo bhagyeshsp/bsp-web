@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/dont-despair-find-text-inside-files-like-a-pro-seekfast
 ---
 
 Reader, sometimes, we come across software applications that we didn’t know we needed.

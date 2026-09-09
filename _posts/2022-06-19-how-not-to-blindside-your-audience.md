@@ -17,6 +17,8 @@ tag:
 - how-to
 - marketing
 layout: post
+redirect_from:
+  - /blog/how-not-to-blindside-your-audience
 ---
 
 If you stamp your logo everywhere, you’re setting yourself to become invisible.

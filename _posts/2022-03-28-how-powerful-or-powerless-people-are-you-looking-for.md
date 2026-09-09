@@ -22,6 +22,8 @@ tag:
 - power distance
 - recruitment
 layout: post
+redirect_from:
+  - /blog/how-powerful-or-powerless-people-are-you-looking-for
 ---
 
 Of course, the question in the title is absurd. A more appropriate question will seek to answer a combination of inquiries: are you looking for someone who will follow your instructions? Are you looking for someone who will correct you when you’re mistaken? Are you looking for someone who will speak up when they know the ship is on a collision course with an iceberg? Are you looking for someone who will risk offending you at the moment for a better outcome?

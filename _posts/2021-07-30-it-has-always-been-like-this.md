@@ -12,6 +12,8 @@ category:
 - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/it-has-always-been-like-this
 ---
 
 Well, it might have. But the fact is, it has been like that since the time I have been around. I can’t say the same for the people who have been in my place before me. When we place too much reliability on our experience alone, we give rise to a disconnect. A disconnect between what could have been possible and what has been achieved.

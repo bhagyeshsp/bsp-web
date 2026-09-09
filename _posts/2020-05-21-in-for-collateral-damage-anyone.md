@@ -12,6 +12,8 @@ category:
 - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/in-for-collateral-damage-anyone
 ---
 
 ***Trigger Warning****:** Mental health first. If you are feeling slightest of mental health related turbulence due to extended lockdown such as: anxiety, phobia, anger, melancholy or OCD, please do not proceed further. It is likely that it will aggravate your emotions and prove to be counter-productive. You can always come back to the article later. For those who choose to proceed further, please keep in mind, I do not have a crystal ball and like any other medium, I use the written word to communicate my concerns and opinions.*

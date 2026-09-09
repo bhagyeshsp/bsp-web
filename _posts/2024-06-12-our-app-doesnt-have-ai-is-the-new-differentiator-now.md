@@ -12,6 +12,8 @@ category:
 - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/our-app-doesnt-have-ai-is-the-new-differentiator-now
 ---
 
 I love LLMs (Large Language Models) tools aka AI tools, they’ve changed the way I work, what I work and how I envisage my future. If you’ve been using it, you know what I mean.

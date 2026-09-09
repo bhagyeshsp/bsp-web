@@ -13,6 +13,8 @@ category:
 tag:
 - newsletter
 layout: post
+redirect_from:
+  - /blog/nobody-likes-to-eat-ugly-food-or-ugly-fonts
 ---
 
 **So, Reader**, in the **[last edition](https://bhagyeshpathak.com/a-knowledge-workers-secret-weapon-hemingway-app)** of The Friday Newsletter, we talked about how to use Hemingway App to write better. In this edition, I want to stress on the impact of right Font Type on your audience.

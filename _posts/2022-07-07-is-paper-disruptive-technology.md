@@ -21,6 +21,8 @@ tag:
 - technology
 - Y Combinator
 layout: post
+redirect_from:
+  - /blog/is-paper-disruptive-technology
 ---
 
 When startup/tech enthusiasts use the term ‘disruptive’, what they mean is a 10X better solution. Refined over a period of a few years.

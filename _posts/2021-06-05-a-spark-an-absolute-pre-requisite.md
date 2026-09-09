@@ -22,6 +22,8 @@ tag:
 - organizational development
 - spark
 layout: post
+redirect_from:
+  - /blog/a-spark-an-absolute-pre-requisite
 ---
 
 A spark is an absolute prerequisite for an engine to start, but this post is not about a car engine.

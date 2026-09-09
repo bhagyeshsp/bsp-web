@@ -20,6 +20,8 @@ tag:
 - small bets
 - work
 layout: post
+redirect_from:
+  - /blog/the-hubble-moment
 ---
 
 I’m eagerly waiting for the first full-colour images from JWST (James Webb Space Telescope) scheduled to be publicized on July 12th. If you’re unaware of it, read the Wiki article [here](https://en.wikipedia.org/wiki/James_Webb_Space_Telescope).

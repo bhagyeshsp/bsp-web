@@ -23,6 +23,8 @@ tag:
 - People Management
 - profit
 layout: post
+redirect_from:
+  - /blog/monotheism-in-business
 ---
 
 “Customer is the god.”  

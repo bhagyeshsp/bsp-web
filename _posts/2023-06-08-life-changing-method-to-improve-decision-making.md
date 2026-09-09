@@ -14,6 +14,8 @@ tag:
 - decision journal
 - decision making
 layout: post
+redirect_from:
+  - /blog/life-changing-method-to-improve-decision-making
 ---
 
 ### Decision Frameworks Overload

@@ -12,6 +12,8 @@ category:
 - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/a-rewarding-way-of-using-frameworks-or-at-least-the-one-that-is-effective
 ---
 
 “Let’s put this into a framework, it may work”, and the meaning is lost.

@@ -13,6 +13,8 @@ category:
 tag:
 - newsletter
 layout: post
+redirect_from:
+  - /blog/tfn13-f09f9fa9-challenge-by-choice-inviting-people-to-set-their-own-mark
 ---
 
 So dear reader, the last few days have been quite testing for me. I guess this is the season of flu and other diseases across the globe. I hope you and the people around you are well.

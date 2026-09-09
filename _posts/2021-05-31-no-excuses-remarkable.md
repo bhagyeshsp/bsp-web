@@ -19,6 +19,8 @@ tag:
 - marketing
 - remarkable
 layout: post
+redirect_from:
+  - /blog/no-excuses-remarkable
 ---
 
 And that’s remarkable.

@@ -13,6 +13,8 @@ category:
 tag:
 - newsletter
 layout: post
+redirect_from:
+  - /blog/the-surprising-power-of-touch-point-maps-my-fav-retreat-video
 ---
 
 So dear reader, I received voting from most of the readers on the Reads of the Week last week. Thank you so much for voting to keep the long-read suggestions on. I will keep sharing the long articles in that section. Thank you so much for voicing your opinion.

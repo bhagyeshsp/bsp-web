@@ -15,6 +15,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/getting-insights-what-so-what-now-what
 ---
 
 Reader, did you know that you can derive pretty good insights from any data using just **three questions**:

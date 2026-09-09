@@ -17,6 +17,8 @@ tag:
 - manager
 - People Management
 layout: post
+redirect_from:
+  - /blog/capacity-to-give-up-on-people
 ---
 
 This is important.

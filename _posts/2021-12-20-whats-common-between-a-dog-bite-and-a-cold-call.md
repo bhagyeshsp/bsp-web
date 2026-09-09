@@ -23,6 +23,8 @@ tag:
 - self-development
 - self-help
 layout: post
+redirect_from:
+  - /blog/whats-common-between-a-dog-bite-and-a-cold-call
 ---
 
 Most of us fear both. And these are not the only fears that we harbor.

@@ -18,6 +18,8 @@ tag:
 - Organization development
 - Undo send
 layout: post
+redirect_from:
+  - /blog/how-does-it-sound
 ---
 
 Gmail offers upto thirty seconds of ‘Undo send’ and WhatsApp offers upto one hour to ‘Delete for everyone’.

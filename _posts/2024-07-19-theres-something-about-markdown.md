@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/theres-something-about-markdown
 ---
 
 Have you tried ChatGPT?  

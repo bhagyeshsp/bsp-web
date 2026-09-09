@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/your-diwali-homework
 ---
 
 Reader, I don’t know about you, but I used to hate Diwali homework during my school life. Whoever invented it, must have a natural talent to suck joy out of leisure.

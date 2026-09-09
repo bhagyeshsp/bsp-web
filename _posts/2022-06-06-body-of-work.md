@@ -20,6 +20,8 @@ tag:
 - resume
 - work
 layout: post
+redirect_from:
+  - /blog/body-of-work
 ---
 
 Did Pandit Ravishankar have a resume? What about Richard Branson or Carl Sagan or Steven Spielberg?

@@ -20,6 +20,8 @@ tag:
 - People Management
 - trust
 layout: post
+redirect_from:
+  - /blog/trust-is-getting-scarce-but-old-principles-are-here-to-stay
 ---
 
 Not among people. But between the interaction of people and organizations. I’m not talking about the employer-employee relationship here. That’s secondary. The trust between a brand and people.

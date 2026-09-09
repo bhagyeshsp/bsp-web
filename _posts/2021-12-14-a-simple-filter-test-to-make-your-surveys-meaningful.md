@@ -20,6 +20,8 @@ tag:
 - survey monkey
 - survey tools
 layout: post
+redirect_from:
+  - /blog/a-simple-filter-test-to-make-your-surveys-meaningful
 ---
 
 At any stage of your work, do you design surveys? The ones with endless questions and options? Then we’re the same type. Or almost the same type.

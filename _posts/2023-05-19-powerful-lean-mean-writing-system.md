@@ -15,6 +15,8 @@ tag:
 - setup
 - writing
 layout: post
+redirect_from:
+  - /blog/powerful-lean-mean-writing-system
 ---
 
 ### Imagine. There’s a gun on your head.

@@ -51,6 +51,7 @@ plugins:
   - jekyll-sitemap    # Helps with SEO and site indexing
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude from processing
 exclude:

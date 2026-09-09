@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/create-your-personal-intellectual-assistant
 ---
 
 Who doesn’t like a little help in their work?  

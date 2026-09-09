@@ -17,6 +17,8 @@ tag:
 - soft voices
 - zoom dance
 layout: post
+redirect_from:
+  - /blog/the-invisible-dance-during-virtual-meets
 ---
 
 Most of the virtual meets are boring.

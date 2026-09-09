@@ -16,6 +16,8 @@ tag:
 - the opportunity
 - waiting
 layout: post
+redirect_from:
+  - /blog/waiting-to-pass-out-or-to-be-dead
 ---
 
 Threshold is not a good measure. Probably not the right one too.

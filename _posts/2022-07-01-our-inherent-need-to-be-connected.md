@@ -21,6 +21,8 @@ tag:
 - People Management
 - tribe
 layout: post
+redirect_from:
+  - /blog/our-inherent-need-to-be-connected
 ---
 
 Whether we identify ourselves as an introvert or an extrovert, we have this inherent need to be connected with other beings. Not all beings, just the right ones.

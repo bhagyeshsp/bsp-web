@@ -17,6 +17,8 @@ tag:
 - social engineering
 - technology
 layout: post
+redirect_from:
+  - /blog/unintentional-social-engineering-projects
 ---
 
 Probably the ATM machines taught people the possibility of an unsupervised queue.

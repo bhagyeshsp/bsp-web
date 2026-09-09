@@ -25,6 +25,8 @@ tag:
 - when to say no
 - work
 layout: post
+redirect_from:
+  - /blog/the-moment-you-realize-it-wont-work-out
 ---
 
 That’s the moment all of us come across. Every day. No matter what kind of knowledge work we might be engaged in.

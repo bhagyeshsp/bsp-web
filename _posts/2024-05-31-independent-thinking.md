@@ -12,6 +12,8 @@ category:
 - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/independent-thinking
 ---
 
 I woke up to some irritating news today. I felt the urge to rage-write about the death of democracy, the EU’s climate madness, so-and-so forth. But then, what’s the point? Cognitive dissonance is such a powerful mechanism, that nothing can go through zealots.

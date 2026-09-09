@@ -12,6 +12,8 @@ category:
 - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/ai-in-session-planning-1
 ---
 
 Shipping work is hard.  

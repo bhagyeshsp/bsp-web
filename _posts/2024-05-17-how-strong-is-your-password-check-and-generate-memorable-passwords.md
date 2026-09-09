@@ -19,6 +19,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/how-strong-is-your-password-check-and-generate-memorable-passwords
 ---
 
 The first time I came across the concept of a real computer password was when I was around 16 years old. That password set by my father, got so popular in our family that we still use some version of that password even for our home WiFi. And that password is good enough for us.

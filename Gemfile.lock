@@ -33,6 +33,8 @@ GEM
       webrick (>= 1.0)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-redirect-from (0.16.0)
+      jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.8.0)
@@ -74,6 +76,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.10)
   jekyll-feed (>= 0.17.0)
+  jekyll-redirect-from
   jekyll-sass-converter (~> 1.5)
   jekyll-seo-tag (~> 2.8)
   jekyll-sitemap (~> 1.4)

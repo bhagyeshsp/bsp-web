@@ -13,6 +13,8 @@ category:
 tag:
 - newsletter
 layout: post
+redirect_from:
+  - /blog/tfn15-f09faa9c-thinking-of-writing-online-a-quick-comparison-of-platforms
 ---
 
 What a great time last few days have been!

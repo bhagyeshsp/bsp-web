@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/staff-or-admin
 ---
 
 Reader, I don’t know what it is. But in the past few months, I have been thinking more about online safety and privacy than before. Maybe it is the news I read or the general state of the world. You would have also noticed it, right?  

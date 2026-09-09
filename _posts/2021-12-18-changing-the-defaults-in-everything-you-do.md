@@ -20,6 +20,8 @@ tag:
 - self-confidence
 - startups
 layout: post
+redirect_from:
+  - /blog/changing-the-defaults-in-everything-you-do
 ---
 
 I dislike pre-installed applications on smartphones or computers. You can’t even remove some of them. The majority of them are ineffective at what they do. The fact that some of the third-party apps come pre-installed as a part of the deal is a signal that there are not many takers.

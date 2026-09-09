@@ -57,6 +57,8 @@ tag:
 - why decision making is important in management
 - why decision making process is required
 layout: post
+redirect_from:
+  - /blog/a-powerful-trick-to-improve-decision-making-skills
 ---
 
 Did you know that every time we narrate an experience, it changes a little bit? Over the years, the story changes completely.

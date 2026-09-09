@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/my-go-to-site-for-symbols
 ---
 
 Do you remember the late 2000s when mobile phone adoption was on the rise and people had just begun using texting? Forwarding and communicating over sms all the time.  

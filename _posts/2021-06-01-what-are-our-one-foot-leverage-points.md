@@ -17,6 +17,8 @@ tag:
 - one foot leverage
 - project management
 layout: post
+redirect_from:
+  - /blog/what-are-our-one-foot-leverage-points
 ---
 
 Organizations want to make an impact over a period of time. It is achieved by implementing different models. Experimenting with different parts of the entire change-making process: from ideation, recruitment, training, execution to feedback.

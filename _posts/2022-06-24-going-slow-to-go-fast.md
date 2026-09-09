@@ -17,6 +17,8 @@ tag:
 - productivity
 - work
 layout: post
+redirect_from:
+  - /blog/going-slow-to-go-fast
 ---
 
 No matter what story you tell yourself about your work, it is always an almost a good idea to go slow. Deliberately.

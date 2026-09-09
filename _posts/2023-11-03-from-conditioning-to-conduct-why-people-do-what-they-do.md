@@ -17,6 +17,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/from-conditioning-to-conduct-why-people-do-what-they-do
 ---
 
 Interesting question, isn’t it?

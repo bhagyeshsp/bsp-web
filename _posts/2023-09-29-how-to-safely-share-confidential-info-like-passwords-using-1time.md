@@ -16,6 +16,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/how-to-safely-share-confidential-info-like-passwords-using-1time
 ---
 
 I don’t know Reader, whether you got a chance to go through the **Golden Ratio** newsletter last week, but I want to share something that I always love sharing: a tool!

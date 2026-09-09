@@ -10,6 +10,8 @@ category:
   - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/what-will-happen-to-razorpay
 ---
 
 I had noted this experience in mid-January this year.

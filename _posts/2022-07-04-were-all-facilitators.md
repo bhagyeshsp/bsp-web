@@ -19,6 +19,8 @@ tag:
 - People Management
 - work
 layout: post
+redirect_from:
+  - /blog/were-all-facilitators
 ---
 
 When did we decide we are not?

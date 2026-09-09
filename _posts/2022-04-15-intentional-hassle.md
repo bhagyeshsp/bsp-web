@@ -22,6 +22,8 @@ tag:
 - technolgoy
 - video calls
 layout: post
+redirect_from:
+  - /blog/intentional-hassle
 ---
 
 The economic machine thrives upon consumption. The more we consume, the more we push the piston.

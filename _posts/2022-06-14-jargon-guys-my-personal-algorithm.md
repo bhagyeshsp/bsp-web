@@ -21,6 +21,8 @@ tag:
 - Organization development
 - pseudo experts
 layout: post
+redirect_from:
+  - /blog/jargon-guys-my-personal-algorithm
 ---
 
 This is my favourite bunch. Poetic, confident, incisive.

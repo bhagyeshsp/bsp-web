@@ -10,6 +10,8 @@ category:
   - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/scaling-llms-at-the-edge
 ---
 
 _I have extensively edited this article after an LLM agent combed through my codebase and prepared the initial draft._

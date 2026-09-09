@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/i-missed-sharing-this-with-you-last-week-the-paper-calendar
 ---
 
 Reader,

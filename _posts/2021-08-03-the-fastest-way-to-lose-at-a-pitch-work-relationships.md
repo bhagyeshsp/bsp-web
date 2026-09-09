@@ -23,6 +23,8 @@ tag:
 - relationships
 - work
 layout: post
+redirect_from:
+  - /blog/the-fastest-way-to-lose-at-a-pitch-work-relationships
 ---
 
 Yes, there is more than one. But there is a specific one, which is not only the fastest, but it also ensures the loss of the audience’s trust.

@@ -10,6 +10,8 @@ category:
   - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/how-to-make-ai-conversations-effective
 ---
 
 For most of us now, some of the most important conversations happen inside ChatGPT, Claude, Gemini or Grok websites. (I wanted to talk about the privacy and everything, but some other day.)

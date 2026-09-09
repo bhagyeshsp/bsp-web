@@ -18,6 +18,8 @@ tag:
 - problem solving
 - work
 layout: post
+redirect_from:
+  - /blog/no-you-didnt-have-a-design-problem
 ---
 
 It was probably an accounting problem.

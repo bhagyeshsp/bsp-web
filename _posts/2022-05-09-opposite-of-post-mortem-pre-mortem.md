@@ -24,6 +24,8 @@ tag:
 - spotify
 - venture capitalist
 layout: post
+redirect_from:
+  - /blog/opposite-of-post-mortem-pre-mortem
 ---
 
 This is the most discouraging question I ask at the end of every project planning session.

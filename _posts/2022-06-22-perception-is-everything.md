@@ -18,6 +18,8 @@ tag:
 - perception
 - positioning
 layout: post
+redirect_from:
+  - /blog/perception-is-everything
 ---
 
 Of course, not EVERYTHING. But important enough to talk about.

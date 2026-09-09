@@ -12,6 +12,8 @@ category:
 - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/can-evms-be-really-hacked
 ---
 
 I have been tinkering with microcontrollers since childhood and I can see the gap in the communication here. Between Rajeev and Musk.

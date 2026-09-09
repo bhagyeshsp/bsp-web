@@ -10,6 +10,8 @@ category:
 - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/why-people-hide-AI-usage-at-work
 ---
 
 <h2> Essay Outline </h2>

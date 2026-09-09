@@ -19,6 +19,8 @@ tag:
 - People Management
 - UI
 layout: post
+redirect_from:
+  - /blog/the-worst-robbery-we-carry-out
 ---
 
 It is strange to think of ourselves as robbers. I mean most of my readers are intelligent, hardworking folks. Not robbers.

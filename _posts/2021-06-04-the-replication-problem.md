@@ -22,6 +22,8 @@ tag:
 - system thinking
 - zoom meeting
 layout: post
+redirect_from:
+  - /blog/the-replication-problem
 ---
 
 It is a trap.

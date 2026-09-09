@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/how-i-use-wireframe-cc-for-quick-ideation
 ---
 
 Reader,

@@ -17,6 +17,8 @@ tag:
 - technology
 - work life
 layout: post
+redirect_from:
+  - /blog/see-that-empty-space-lets-fill-it
 ---
 
 Technology is not here to replace us. (Read Rule no.3 in my New World Rules [here](https://bhagyeshpathak.com/new-world-rules/))

@@ -10,6 +10,8 @@ category:
   - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/wu-wei-cards-are-live-
 ---
 
 Finally, [wuwei.cards](https://wuwei.cards) is live.

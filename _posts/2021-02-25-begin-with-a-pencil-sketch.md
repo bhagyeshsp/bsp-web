@@ -18,6 +18,8 @@ tag:
 - time management
 - traditional tools
 layout: post
+redirect_from:
+  - /blog/begin-with-a-pencil-sketch
 ---
 
 But we want to begin with digital sketch on a high-end iPad Pro device, and call it a day.

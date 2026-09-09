@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/finally-a-free-clean-online-pdf-editor-password-lock
 ---
 
 Yes, that’s what we are going to talk about today: PDF editor.

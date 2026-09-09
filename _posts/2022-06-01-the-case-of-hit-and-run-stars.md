@@ -21,6 +21,8 @@ tag:
 - special projects
 - star employee
 layout: post
+redirect_from:
+  - /blog/the-case-of-hit-and-run-stars
 ---
 
 Whenever there is a hit and run case, our blood boils. That is the right thing to feel. But I’m not talking about the hit and run drivers.

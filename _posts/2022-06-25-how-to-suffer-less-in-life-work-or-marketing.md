@@ -19,6 +19,8 @@ tag:
 - suffering
 - work
 layout: post
+redirect_from:
+  - /blog/how-to-suffer-less-in-life-work-or-marketing
 ---
 
 The idea is simple: learn to see reality as it is.

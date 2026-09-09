@@ -18,6 +18,8 @@ tag:
 - prolific
 - work
 layout: post
+redirect_from:
+  - /blog/leave-the-books-incomplete
 ---
 
 If you force yourself to complete every book, two things will happen:

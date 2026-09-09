@@ -14,6 +14,8 @@ category:
 tag:
 - newsletter
 layout: post
+redirect_from:
+  - /blog/tfn12-f09f9fa6-5-things-photoshops-firefly-update-tells-us-even-if-we-dont-use-it
 ---
 
 **Dear reader, can you carry out some “Find & Replace” in your head?**

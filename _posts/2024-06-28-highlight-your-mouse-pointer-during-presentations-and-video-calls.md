@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/highlight-your-mouse-pointer-during-presentations-and-video-calls
 ---
 
 All of us have been there.  

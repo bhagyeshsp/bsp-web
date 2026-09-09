@@ -13,6 +13,8 @@ category:
 tag:
 - newsletter
 layout: post
+redirect_from:
+  - /blog/using-questions-as-tools
 ---
 
 ##### “Nooo..no..no..first, you answer me this!!”

@@ -10,6 +10,8 @@ category:
   - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/the-pleasure-of-experimenting
 ---
 
 I looove experiments. My childhood was full of hardware experiments and then I switched to software.

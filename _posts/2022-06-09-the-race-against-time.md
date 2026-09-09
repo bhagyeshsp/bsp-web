@@ -17,6 +17,8 @@ tag:
 - urgency
 - work
 layout: post
+redirect_from:
+  - /blog/the-race-against-time
 ---
 
 According to [www.deathclock.com](http://www.deathclock.com), I have 60 more years to live.

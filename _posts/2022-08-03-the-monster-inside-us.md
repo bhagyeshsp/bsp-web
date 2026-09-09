@@ -31,6 +31,8 @@ tag:
 - which resistance monster steven pressfileld talks about
 - why writers block happen
 layout: post
+redirect_from:
+  - /blog/the-monster-inside-us
 ---
 
 “I know that I’m a bad person. I lie, cheat, and hurt people. I’m an absolute monster!”

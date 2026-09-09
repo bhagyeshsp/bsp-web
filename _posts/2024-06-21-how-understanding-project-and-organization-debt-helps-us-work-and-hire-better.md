@@ -19,6 +19,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/how-understanding-project-and-organization-debt-helps-us-work-and-hire-better
 ---
 
 A few days back, I came across [this job listing](https://app.flexile.com/roles/gumroad/software-engineer-bw049ph4cr42y) by Gumroad. And it is something important that we need to talk about. It doesn’t matter whether you work in the software industry or not, it is not at all related. But we will start with this easy software example and work through it.

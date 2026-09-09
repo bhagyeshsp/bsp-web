@@ -20,6 +20,8 @@ tag:
 - magician
 - Organization development
 layout: post
+redirect_from:
+  - /blog/when-should-you-start-your-act
 ---
 
 When you get on a stage? Or while walking on the road on a random Sunday afternoon?

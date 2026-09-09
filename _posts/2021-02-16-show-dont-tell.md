@@ -15,6 +15,8 @@ tag:
 - facilitation
 - vulnerability
 layout: post
+redirect_from:
+  - /blog/show-dont-tell
 ---
 
 “Please treat this space as a safe space, you can be vulnerable here”, said the facilitator of the online workshop. Though well-intentioned, it doesn’t inspire action. Despite knowing it doesn’t work that way, we resort to it. We repeatedly say it and make it uninspiring.

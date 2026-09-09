@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/the-triangle-of-conflict-and-how-to-break-it
 ---
 
 If you remember, in my letter [From Conditioning to Consciousness: Why People Do What They Do](https://bhagyeshpathak.com/blog/%f0%9f%aa%9c-from-conditioning-to-conduct-why-people-do-what-they-do/), we discussed the circle of conditioning. Few of the readers expressed the usefulness of that discussion. So, thanks for the feedback.

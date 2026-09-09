@@ -16,6 +16,8 @@ tag:
 - startup
 - sustainability
 layout: post
+redirect_from:
+  - /blog/your-village-and-villagers
 ---
 
 It takes a village to raise a child.

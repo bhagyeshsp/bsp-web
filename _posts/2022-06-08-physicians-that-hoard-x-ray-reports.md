@@ -17,6 +17,8 @@ tag:
 - decision making
 - monitoring and evaluation
 layout: post
+redirect_from:
+  - /blog/physicians-that-hoard-x-ray-reports
 ---
 
 Have you heard of such a physician? Me neither. Because the physician knows the importance of analyzing the X-ray report and prescribing medicine.

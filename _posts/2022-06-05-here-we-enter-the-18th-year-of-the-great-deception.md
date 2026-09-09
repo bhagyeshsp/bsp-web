@@ -16,6 +16,8 @@ tag:
 - deception
 - world environment day
 layout: post
+redirect_from:
+  - /blog/here-we-enter-the-18th-year-of-the-great-deception
 ---
 
 While some of us torment ourselves on the eve of world environment day, a little bit of fact-check is in order.

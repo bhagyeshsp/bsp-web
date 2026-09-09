@@ -12,6 +12,8 @@ category:
 - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/wfh-how-much-worth-from-home
 ---
 
 Let’ get this clear: this is not one of those articles targeted to ride on the coronavirus outbreak wave.

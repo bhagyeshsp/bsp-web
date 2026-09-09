@@ -30,6 +30,8 @@ tag:
 - what to say no to
 - when to say no
 layout: post
+redirect_from:
+  - /blog/a-thousand-dollar-yes
 ---
 
 It is a disservice to the client to say YES. For their every whim and wants.

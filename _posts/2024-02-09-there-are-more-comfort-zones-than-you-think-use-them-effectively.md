@@ -18,6 +18,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/there-are-more-comfort-zones-than-you-think-use-them-effectively
 ---
 
 *“He is a bright guy, but seems like he is in his comfort zone.”*

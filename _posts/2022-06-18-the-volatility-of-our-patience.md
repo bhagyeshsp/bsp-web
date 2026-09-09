@@ -17,6 +17,8 @@ tag:
 - reuters
 - stocks
 layout: post
+redirect_from:
+  - /blog/the-volatility-of-our-patience
 ---
 
 A year back, I had written about the volatility of our decisions.

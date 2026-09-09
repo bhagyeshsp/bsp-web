@@ -20,6 +20,8 @@ tag:
 - smart work
 - work
 layout: post
+redirect_from:
+  - /blog/how-much-money-is-a-lot-of-money
 ---
 
 That was the [response](https://www.youtube.com/watch?v=-GkyZr9VzPY) from Bob Marley. The interviewer had asked him “have you made a lot of money?”

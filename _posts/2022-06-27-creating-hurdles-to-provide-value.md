@@ -20,6 +20,8 @@ tag:
 - services
 - work
 layout: post
+redirect_from:
+  - /blog/creating-hurdles-to-provide-value
 ---
 
 That’s an illusion. You may succeed in making a fortune in the short-term by gatekeeping, but not in the long term.

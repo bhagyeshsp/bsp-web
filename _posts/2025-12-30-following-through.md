@@ -10,6 +10,8 @@ category:
   - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/following-through
 ---
 
 As we wrap up the outgoing year, we tend to promise to better ourselves next year.

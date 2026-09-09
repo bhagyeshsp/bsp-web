@@ -12,6 +12,8 @@ category:
 - Uncategorized
 tag: []
 layout: post
+redirect_from:
+  - /blog/to-ai-or-not-to-ai
 ---
 
 That’s no longer the question now.  

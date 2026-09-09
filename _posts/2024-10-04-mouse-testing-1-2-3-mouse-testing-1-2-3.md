@@ -17,6 +17,8 @@ category:
 - Newsletter
 tag: []
 layout: post
+redirect_from:
+  - /blog/mouse-testing-1-2-3-mouse-testing-1-2-3
 ---
 
 That’s what I do almost every year.  
