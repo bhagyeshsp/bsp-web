@@ -2,7 +2,7 @@
 
 > A collection of essays and resources on technology, philosophy, and human potential.
 
-Last Updated: 2026-09-09T04:19:03.943Z
+Last Updated: 2026-09-17T04:30:22.742Z
 
 ## Pages
 
@@ -1231,6 +1231,36 @@ URL: https://bhagyeshpathak.com/now/
 Description: A snapshot of my current activities: projects, reading, and writing. Updated regularly.
 
 *(This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)*
+
+Updated on September 17th, 2026 from my desk
+
+## Where and weather
+
+Ahmedabad. Not waiting for rains anymore. Excited about winter.
+
+## Watching, reading…
+
+-   Watching: I love Korean, Japanese and Indonesian movies. Recently watched [Grave Torture](https://www.netflix.com/in/title/81711292?ref=bhagyeshpathak.com). It is one of the best Indonesian horror movies I have watched this year.
+-   I intend to watch a recent Malayalam movie named [Bethlehem Kudumba Unit](https://www.youtube.com/watch?v=fk0JHh1P9H0). Received as a good recommendation, let’s see when it is available on OTT platforms.
+-   I’m also watching Better Call Saul. This was in my list since the time I watched Breaking Bad but just couldn’t spare time. As usual, Bob Odenkirk’s performance is dazzling.
+-   Reading: During a recent bookfair visit, I stumpled upon [Maverick by Ricardo Semler](https://www.amazon.in/Maverick-Success-Behind-Unusual-Workplace/dp/0446670553) in the thrift section. This is something that I like about bookfairs and their second-hand book section. We come across books that we didn’t know we were looking for. I had this book in my Kindle and had read a few chapters a few years back, but had forgotten about it. If you’re interested in some radically different approach to running a workplace and business, this would be a surprising one.
+
+## Working
+
+-   A major update about [Feedhammer](https://feedhammer.com/). After launching it in July, the momentum didn’t sustain in terms of customer acquisition. One of the main reasons seems to be the lack of a Free Trial. So, now we have included a 7-day free trial on all subscription tiers. The original idea was to provide an experience of the feeds through the existing [Feedhammer Demo](https://app.feedhammer.com/demo) which doesn’t require any sign up. But looks like, I was wrong. At the end of the day, demo is just a demo. People want to tinker with things themselves.
+
+## Travel plan…
+
+-   I had to travel to Maharashtra in August, so unless something comes up, no other plan at the moment. Except for in October for leisure travel.
+
+## Writing
+
+-   I published the essay [Art as a positive force](https://sisyphusnotes.substack.com/p/art-as-a-positive-force?r=bhagyeshpathak.com) a few weeks back. Do give it a read.
+-   There are a few more in the pipeline but there is no deadline.
+
+* * *
+
+## Then
 
 Updated on July 3rd, 2026 from my desk
 
