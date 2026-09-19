@@ -2,12 +2,13 @@
 
 > A collection of essays and resources on technology, philosophy, and human potential.
 
-Last Updated: 2026-09-17T04:30:22.741Z
+Last Updated: 2026-09-19T04:15:48.974Z
 
 ## Pages
 - [About](https://bhagyeshpathak.com/about/)
 - [Home](https://bhagyeshpathak.com/)
 - [Listening List](https://bhagyeshpathak.com/listening-list/)
+- [My tenet on change making](https://bhagyeshpathak.com/my-tenet-on-change-making/)
 - [New World Rules](https://bhagyeshpathak.com/new-world-rules/)
 - [Newsletter](https://bhagyeshpathak.com/newsletter/)
 - [Reading List](https://bhagyeshpathak.com/reading-list/)
