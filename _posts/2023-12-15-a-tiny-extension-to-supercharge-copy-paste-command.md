@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/a-tiny-extension-to-supercharge-copy-paste-command
+  - /blog/🪜-a-tiny-extension-to-supercharge-copy-paste-command
+  - /blog/%F0%9F%AA%9C-a-tiny-extension-to-supercharge-copy-paste-command
 ---
 
 Tell me Reader, do you know anyone who doesn’t use the Copy-Paste command?

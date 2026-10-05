@@ -17,6 +17,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/getting-insights-what-so-what-now-what
+  - /blog/🪜getting-insights-what-so-what-now-what
+  - /blog/%F0%9F%AA%9Cgetting-insights-what-so-what-now-what
 ---
 
 Reader, did you know that you can derive pretty good insights from any data using just **three questions**:

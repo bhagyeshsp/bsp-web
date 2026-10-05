@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/i-missed-sharing-this-with-you-last-week-the-paper-calendar
+  - /blog/🪜-i-missed-sharing-this-with-you-last-week-the-paper-calendar
+  - /blog/%F0%9F%AA%9C-i-missed-sharing-this-with-you-last-week-the-paper-calendar
 ---
 
 Reader,

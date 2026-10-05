@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/applying-dry-principle-in-your-work
+  - /blog/🪜applying-dry-principle-in-your-work
+  - /blog/%F0%9F%AA%9Capplying-dry-principle-in-your-work
 ---
 
 I have always been fascinated by programming languages.

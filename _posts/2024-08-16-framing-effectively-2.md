@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/framing-effectively-2
+  - /blog/🪜framing-effectively-2
+  - /blog/%F0%9F%AA%9Cframing-effectively-2
 ---
 
 Dear Reader,  

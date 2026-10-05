@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/whats-your-power-distance
+  - /blog/🪜whats-your-power-distance
+  - /blog/%F0%9F%AA%9Cwhats-your-power-distance
 ---
 
 **And..this is the 52nd letter!  

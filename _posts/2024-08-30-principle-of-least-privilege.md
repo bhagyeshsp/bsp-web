@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/principle-of-least-privilege
+  - /blog/🪜principle-of-least-privilege
+  - /blog/%F0%9F%AA%9Cprinciple-of-least-privilege
 ---
 
 I should have named last week’s letter “Staff or Admin (Part 1/2)”. Because today’s is kind of Part 2/2.  

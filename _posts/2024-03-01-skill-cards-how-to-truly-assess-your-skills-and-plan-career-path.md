@@ -21,6 +21,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/skill-cards-how-to-truly-assess-your-skills-and-plan-career-path
+  - /blog/🪜skill-cards-how-to-truly-assess-your-skills-and-plan-career-path
+  - /blog/%F0%9F%AA%9Cskill-cards-how-to-truly-assess-your-skills-and-plan-career-path
 ---
 
 Every time, in my resume, when I had to choose what to write about my strengths, I used to feel claustrophobic. I felt as if I had just a handful of words that I knew, and beyond that…there was a dead end.

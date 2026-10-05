@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/backing-up-work-regularly
+  - /blog/🪜backing-up-work-regularly
+  - /blog/%F0%9F%AA%9Cbacking-up-work-regularly
 ---
 
 Reader,  

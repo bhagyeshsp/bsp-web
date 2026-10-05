@@ -21,6 +21,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/how-to-find-out-and-paint-your-docs-ppts-with-your-brand-colours
+  - /blog/🪜-how-to-find-out-and-paint-your-docs-ppts-with-your-brand-colours
+  - /blog/%F0%9F%AA%9C-how-to-find-out-and-paint-your-docs-ppts-with-your-brand-colours
 ---
 
 Reader, if you’ve been on the internet for the past 10 years, you’d recognize TEDTalk and Conferences from a mile away.

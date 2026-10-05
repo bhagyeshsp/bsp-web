@@ -21,6 +21,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/part-1-2-why-focusing-on-upskilling-may-be-dangerous-to-your-career
+  - /blog/🪜part-1-2-why-focusing-on-upskilling-may-be-dangerous-to-your-career
+  - /blog/%F0%9F%AA%9Cpart-1-2-why-focusing-on-upskilling-may-be-dangerous-to-your-career
 ---
 
 Reader, don’t get me wrong.  

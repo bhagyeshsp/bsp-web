@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/create-your-personal-intellectual-assistant
+  - /blog/🪜create-your-personal-intellectual-assistant
+  - /blog/%F0%9F%AA%9Ccreate-your-personal-intellectual-assistant
 ---
 
 Who doesn’t like a little help in their work?  

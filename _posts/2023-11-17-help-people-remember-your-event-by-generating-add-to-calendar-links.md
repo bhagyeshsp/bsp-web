@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/help-people-remember-your-event-by-generating-add-to-calendar-links
+  - /blog/🪜-help-people-remember-your-event-by-generating-add-to-calendar-links
+  - /blog/%F0%9F%AA%9C-help-people-remember-your-event-by-generating-add-to-calendar-links
 ---
 
 Reader,

@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/theres-something-about-markdown
+  - /blog/🪜theres-something-about-markdown
+  - /blog/%F0%9F%AA%9Ctheres-something-about-markdown
 ---
 
 Have you tried ChatGPT?  

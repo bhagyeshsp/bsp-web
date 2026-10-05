@@ -19,6 +19,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/convert-loong-links-into-tiny-personalized-ones
+  - /blog/🪜convert-loong-links-into-tiny-personalized-ones
+  - /blog/%F0%9F%AA%9Cconvert-loong-links-into-tiny-personalized-ones
 ---
 
 A few days back, I received this Experiential Education conference Google Form link in an email:  

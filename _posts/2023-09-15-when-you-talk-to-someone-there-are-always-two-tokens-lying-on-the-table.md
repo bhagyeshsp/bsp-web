@@ -18,6 +18,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/when-you-talk-to-someone-there-are-always-two-tokens-lying-on-the-table
+  - /blog/🪜-when-you-talk-to-someone-there-are-always-two-tokens-lying-on-the-table
+  - /blog/%F0%9F%AA%9C-when-you-talk-to-someone-there-are-always-two-tokens-lying-on-the-table
 ---
 
 Hi Reader,

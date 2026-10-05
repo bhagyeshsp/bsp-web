@@ -19,6 +19,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/block-annoying-ads-on-the-web-and-youtube
+  - /blog/🪜block-annoying-ads-on-the-web-and-youtube
+  - /blog/%F0%9F%AA%9Cblock-annoying-ads-on-the-web-and-youtube
 ---
 
 Imagine, you wake up in a 9 square meter room. There are screens all around you. You go to some physical labour work in the morning and come back to your room, which is also your home and spend the rest of the day playing video games and watching TV on the screens around you. **The screens are the only source of joy in your life**.

@@ -15,6 +15,8 @@ tag:
 layout: post
 redirect_from:
   - /blog/like-most-people-do-you-also-think-youre-not-a-designer
+  - /blog/like-most-people-do-you-also-think-youre-not-a-designer🤔
+  - /blog/like-most-people-do-you-also-think-youre-not-a-designer%F0%9F%A4%94
 ---
 
 I mean think about it, dear reader. If someone is working as a manager, engineer, or accountant. And we asked him for a list of 10 skills that he is proud to have. Would he include ‘design’?

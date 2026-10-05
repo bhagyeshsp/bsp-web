@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/how-i-use-wireframe-cc-for-quick-ideation
+  - /blog/🪜-how-i-use-wireframe-cc-for-quick-ideation
+  - /blog/%F0%9F%AA%9C-how-i-use-wireframe-cc-for-quick-ideation
 ---
 
 Reader,

@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/the-key-skill-in-getting-things-done-gtd
+  - /blog/🪜the-key-skill-in-getting-things-done-gtd
+  - /blog/%F0%9F%AA%9Cthe-key-skill-in-getting-things-done-gtd
 ---
 
 Reader, sometimes you look at your work and wonder why it isn’t moving at a fast pace. Your team and you might be giving your best and **still, you can’t get things done.**​  

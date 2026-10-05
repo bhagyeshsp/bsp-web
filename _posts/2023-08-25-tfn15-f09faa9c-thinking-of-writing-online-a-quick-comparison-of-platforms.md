@@ -15,6 +15,8 @@ tag:
 layout: post
 redirect_from:
   - /blog/tfn15-f09faa9c-thinking-of-writing-online-a-quick-comparison-of-platforms
+  - /blog/tfn15-🪜-thinking-of-writing-online-a-quick-comparison-of-platforms
+  - /blog/tfn15-%F0%9F%AA%9C-thinking-of-writing-online-a-quick-comparison-of-platforms
 ---
 
 What a great time last few days have been!

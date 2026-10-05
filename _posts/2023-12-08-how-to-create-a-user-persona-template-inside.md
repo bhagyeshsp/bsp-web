@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/how-to-create-a-user-persona-template-inside
+  - /blog/🪜-how-to-create-a-user-persona-template-inside
+  - /blog/%F0%9F%AA%9C-how-to-create-a-user-persona-template-inside
 ---
 
 The other day, my friend told me about the latest online scam tactic. In this tactic, the scammer poses as a police/CBI/Narcotics official and grills their victim for hours. Eventually, their victim pays some heavy amount of money and gets scammed.

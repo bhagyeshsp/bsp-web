@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/write-in-dillinger-export-as-file-and-youve-learned-markdown
+  - /blog/🪜write-in-dillinger-export-as-file-and-youve-learned-markdown
+  - /blog/%F0%9F%AA%9Cwrite-in-dillinger-export-as-file-and-youve-learned-markdown
 ---
 
 Last week, you saw my love for Markdown. And this week, I recruit more comrades! 😄  

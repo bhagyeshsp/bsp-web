@@ -19,6 +19,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/rules-to-work-by-manual-first-automatic-later
+  - /blog/🪜rules-to-work-by-manual-first-automatic-later
+  - /blog/%F0%9F%AA%9Crules-to-work-by-manual-first-automatic-later
 ---
 
 Most things in our lives are now automatic:  

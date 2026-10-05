@@ -15,6 +15,8 @@ tag:
 layout: post
 redirect_from:
   - /blog/tfn16-f09faa9c-negative-space-white-spacewhat-is-it
+  - /blog/tfn16-🪜-negative-space-white-spacewhat-is-it
+  - /blog/tfn16-%F0%9F%AA%9C-negative-space-white-spacewhat-is-it
 ---
 
 Hi dear reader,

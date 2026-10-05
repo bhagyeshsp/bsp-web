@@ -21,6 +21,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/google-google-who-try-perplexity-and-forget-google-like-i-did
+  - /blog/🪜google-google-who-try-perplexity-and-forget-google-like-i-did
+  - /blog/%F0%9F%AA%9Cgoogle-google-who-try-perplexity-and-forget-google-like-i-did
 ---
 
 Remember the old Google Search Result Page?  

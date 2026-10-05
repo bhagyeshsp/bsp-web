@@ -21,6 +21,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/maintaining-a-layer-of-separation-spiritual-quest-through-work
+  - /blog/🪜maintaining-a-layer-of-separation-spiritual-quest-through-work
+  - /blog/%F0%9F%AA%9Cmaintaining-a-layer-of-separation-spiritual-quest-through-work
 ---
 
 A few years back, I learnt about **Vipassana Meditation**. No, I didn’t go for it, and shortly, I will explain why. But some of my friends recommended it, while a few were already practising it.

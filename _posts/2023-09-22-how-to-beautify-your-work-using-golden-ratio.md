@@ -17,6 +17,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/how-to-beautify-your-work-using-golden-ratio
+  - /blog/🪜how-to-beautify-your-work-using-golden-ratio
+  - /blog/%F0%9F%AA%9Chow-to-beautify-your-work-using-golden-ratio
 ---
 
 Tell me something Reader,

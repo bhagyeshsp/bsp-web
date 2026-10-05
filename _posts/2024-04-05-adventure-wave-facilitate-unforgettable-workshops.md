@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/adventure-wave-facilitate-unforgettable-workshops
+  - /blog/🪜-adventure-wave-facilitate-unforgettable-workshops
+  - /blog/%F0%9F%AA%9C-adventure-wave-facilitate-unforgettable-workshops
 ---
 
 *“Let’s begin with an icebreaker activity!”*

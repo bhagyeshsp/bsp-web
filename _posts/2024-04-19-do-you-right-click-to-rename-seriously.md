@@ -19,6 +19,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/do-you-right-click-to-rename-seriously
+  - /blog/🪜do-you-right-click-to-rename-seriously
+  - /blog/%F0%9F%AA%9Cdo-you-right-click-to-rename-seriously
 ---
 
 No, I’m not judging.

@@ -19,6 +19,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/mouse-testing-1-2-3-mouse-testing-1-2-3
+  - /blog/🪜mouse-testing-1-2-3-mouse-testing-1-2-3
+  - /blog/%F0%9F%AA%9Cmouse-testing-1-2-3-mouse-testing-1-2-3
 ---
 
 That’s what I do almost every year.  

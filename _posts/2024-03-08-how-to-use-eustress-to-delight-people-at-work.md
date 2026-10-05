@@ -19,6 +19,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/how-to-use-eustress-to-delight-people-at-work
+  - /blog/🪜how-to-use-eustress-to-delight-people-at-work
+  - /blog/%F0%9F%AA%9Chow-to-use-eustress-to-delight-people-at-work
 ---
 
 Recently, I published my idea of facilitation on LinkedIn: [We are all facilitators](https://www.linkedin.com/posts/bhagyeshpathak_we-are-all-facilitators-i-dont-know-when-activity-7170751369690267649-qfbG?utm_source=share&utm_medium=member_desktop). Many readers and friends found it relatable. That got me thinking.

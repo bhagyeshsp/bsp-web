@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/rules-to-work-by-a-little-variation-in-process-leads-to-a-little-variation-in-output
+  - /blog/🪜rules-to-work-by-a-little-variation-in-process-leads-to-a-little-variation-in-output
+  - /blog/%F0%9F%AA%9Crules-to-work-by-a-little-variation-in-process-leads-to-a-little-variation-in-output
 ---
 
 Reader, have you ever prepared dosa?  

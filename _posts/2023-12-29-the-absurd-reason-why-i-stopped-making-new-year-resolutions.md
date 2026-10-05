@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/the-absurd-reason-why-i-stopped-making-new-year-resolutions
+  - /blog/🪜-the-absurd-reason-why-i-stopped-making-new-year-resolutions
+  - /blog/%F0%9F%AA%9C-the-absurd-reason-why-i-stopped-making-new-year-resolutions
 ---
 
 Before I dive into explanations, wishing you a blockbuster **New Year!**

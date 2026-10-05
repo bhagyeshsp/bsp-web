@@ -21,6 +21,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/today-we-create-a-tiny-folder-generator-software-using-notepad-you-can-do-it-trust-me
+  - /blog/🪜today-we-create-a-tiny-folder-generator-software-using-notepad-you-can-do-it-trust-me
+  - /blog/%F0%9F%AA%9Ctoday-we-create-a-tiny-folder-generator-software-using-notepad-you-can-do-it-trust-me
 ---
 
 Trust me, it is worth spending 5 minutes of your life.  

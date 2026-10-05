@@ -19,6 +19,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/rename-100-files-for-100-team-members-under-a-second
+  - /blog/🪜rename-100-files-for-100-team-members-under-a-second
+  - /blog/%F0%9F%AA%9Crename-100-files-for-100-team-members-under-a-second
 ---
 
 I should have shared this letter last week, immediately after [Do you right-click to rename? Seriously!?](https://bhagyeshpathak.com/blog/%f0%9f%aa%9cdo-you-right-click-to-rename-seriously/). But no problem, better late than never.

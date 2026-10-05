@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/finally-a-free-clean-online-pdf-editor-password-lock
+  - /blog/🪜-finally-a-free-clean-online-pdf-editor-password-lock
+  - /blog/%F0%9F%AA%9C-finally-a-free-clean-online-pdf-editor-password-lock
 ---
 
 Yes, that’s what we are going to talk about today: PDF editor.

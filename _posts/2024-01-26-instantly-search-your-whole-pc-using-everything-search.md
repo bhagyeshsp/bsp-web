@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/instantly-search-your-whole-pc-using-everything-search
+  - /blog/🪜instantly-search-your-whole-pc-using-everything-search
+  - /blog/%F0%9F%AA%9Cinstantly-search-your-whole-pc-using-everything-search
 ---
 
 Okay, so today’s letter is specifically for Windows users. Because anyone using a Mac, has been blessed with an in-built instant search.

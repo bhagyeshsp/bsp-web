@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/why-im-convinced-we-can-change-our-brain-tissues
+  - /blog/🪜why-im-convinced-we-can-change-our-brain-tissues
+  - /blog/%F0%9F%AA%9Cwhy-im-convinced-we-can-change-our-brain-tissues
 ---
 
 So Reader, this really happened to me. And I’m not making it up.

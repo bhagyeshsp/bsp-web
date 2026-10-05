@@ -19,6 +19,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/from-conditioning-to-conduct-why-people-do-what-they-do
+  - /blog/🪜-from-conditioning-to-conduct-why-people-do-what-they-do
+  - /blog/%F0%9F%AA%9C-from-conditioning-to-conduct-why-people-do-what-they-do
 ---
 
 Interesting question, isn’t it?

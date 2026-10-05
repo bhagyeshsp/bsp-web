@@ -19,6 +19,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/part-2-2-deep-clean-your-pc-bleaching
+  - /blog/🪜part-2-2-deep-clean-your-pc-bleaching
+  - /blog/%F0%9F%AA%9Cpart-2-2-deep-clean-your-pc-bleaching
 ---
 
 Hi Reader,  

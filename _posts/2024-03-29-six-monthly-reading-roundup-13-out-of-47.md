@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/six-monthly-reading-roundup-13-out-of-47
+  - /blog/🪜-six-monthly-reading-roundup-13-out-of-47
+  - /blog/%F0%9F%AA%9C-six-monthly-reading-roundup-13-out-of-47
 ---
 
 So, I got the idea of sharing a reading roundup in August when I was traveling and trying to write a letter. And couldn’t write anything. That’s when I came up with [My Swades movie moment and reading roundup](https://bhagyeshpathak.com/blog/tfn14-%f0%9f%93%9a-my-swades-movie-moment-and-reading-roundup/)​

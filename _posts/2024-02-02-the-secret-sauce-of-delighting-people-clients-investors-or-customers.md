@@ -21,6 +21,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/the-secret-sauce-of-delighting-people-clients-investors-or-customers
+  - /blog/🪜-the-secret-sauce-of-delighting-people-clients-investors-or-customers
+  - /blog/%F0%9F%AA%9C-the-secret-sauce-of-delighting-people-clients-investors-or-customers
 ---
 
 In 2016, one of my friends introduced me to a Hair Salon chain named [Green Trends](https://www.mygreentrends.in/our-salons/). This is when I was residing in Hyderabad.

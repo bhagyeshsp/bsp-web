@@ -20,6 +20,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/highlight-your-mouse-pointer-during-presentations-and-video-calls
+  - /blog/🪜highlight-your-mouse-pointer-during-presentations-and-video-calls
+  - /blog/%F0%9F%AA%9Chighlight-your-mouse-pointer-during-presentations-and-video-calls
 ---
 
 All of us have been there.  

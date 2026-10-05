@@ -19,6 +19,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/mastering-form-follows-function
+  - /blog/🪜mastering-form-follows-function
+  - /blog/%F0%9F%AA%9Cmastering-form-follows-function
 ---
 
 Reader, if it was a matter of life and death to win a Formula-1 race, which car would you choose?

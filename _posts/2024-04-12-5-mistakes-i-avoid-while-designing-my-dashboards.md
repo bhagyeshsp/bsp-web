@@ -19,6 +19,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/5-mistakes-i-avoid-while-designing-my-dashboards
+  - /blog/🪜5-mistakes-i-avoid-while-designing-my-dashboards
+  - /blog/%F0%9F%AA%9C5-mistakes-i-avoid-while-designing-my-dashboards
 ---
 
 Reader, If you tell me you haven’t seen a dashboard in your career so far, I won’t believe you. You wouldn’t believe yourself.

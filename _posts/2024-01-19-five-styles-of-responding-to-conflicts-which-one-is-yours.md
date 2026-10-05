@@ -19,6 +19,8 @@ tag: []
 layout: post
 redirect_from:
   - /blog/five-styles-of-responding-to-conflicts-which-one-is-yours
+  - /blog/🪜-five-styles-of-responding-to-conflicts-which-one-is-yours
+  - /blog/%F0%9F%AA%9C-five-styles-of-responding-to-conflicts-which-one-is-yours
 ---
 
 If you tell me you never had any conflict with anyone in your work, I won’t believe you.
